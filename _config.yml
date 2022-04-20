@@ -17,7 +17,7 @@ navbar-links:
   About Us: "aboutme"
   Our Research:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+#    - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://emgrua.github.io/"
 
 # --- Logo --- #
