@@ -14,11 +14,11 @@ author: Dr. Eoin Martino Grua
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Us: "aboutme"
+  About Us: "aboutus"
   Our Research:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-#    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://emgrua.github.io/"
+    - Projects: "projects"
+    - Publications: "publications"
+  Contact: "contactus"
 
 # --- Logo --- #
 
