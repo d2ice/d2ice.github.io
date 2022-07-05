@@ -4,7 +4,7 @@ title: Team
 subtitle: 
 ---
 
-![Pic of Team Member](/assets/img/hello_world.jpeg =20x20)  
+![Pic of Team Member](/assets/img/hello_world.jpeg){:height="36px" width="36px"}.
 **Cathaoir Agnew**  
 Phd Student
 
