@@ -19,7 +19,7 @@ navbar-links:
     - Projects: "projects"
     - Publications: "publications"
   Contact: "contactus"
-  Team:
+  Team: 'team'
 
 # --- Logo --- #
 
