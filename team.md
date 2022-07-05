@@ -4,7 +4,7 @@ title: Team
 subtitle: 
 ---
 
-![](/assets/hello_world.jpeg)
+![Pic of Team Member](/assets/img/hello_world.jpeg)
 **Cathaoir Agnew**  
 Phd Student
 
