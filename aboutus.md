@@ -8,3 +8,20 @@ subtitle:
 
 ### Research Focus
 
+We carry out research in machine learning.
+
+Our focus is on the following scientific areas of interest:
+
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
+
+| Time         | Length        | Speed              | Mass         |
+| ------------ | ------------- | ------------------ | ------------ |
+| -Millisecond | Millimetre    | Kilometre per hour | Milligram    |
+| Second       | Centimetre    | Foot per second    | Gram         |
+| Minute       | Inch          | Miles per hour     | Ounce        |
+
