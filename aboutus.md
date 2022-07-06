@@ -12,6 +12,10 @@ We carry out research in machine learning.
 
 Our focus is on the following scientific areas of interest:
 
+- Computer Vision
+- Natural Language Processing 
+- Statistics 
+
 surround text, etc.
 
 | Tables        | Are           | Cool  |
