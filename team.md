@@ -12,21 +12,18 @@ subtitle:
 
     <div class="list-squares-item">
               <a href="https://www.google.com/"><img src="assets/img/hello_world.jpeg"></a>
-            <h4> Blah</h4>
-            <div> Yes</div>
+            <h4>Blah</h4>   
     </div>
         
     <div class="list-squares-item">
               <a href="https://www.google.com/"><img src="assets/img/hello_world.jpeg" class="item-img"></a>
-            <h4> Blah</h4>
-            <div> Yes</div>
+            <h4>Blah</h4>     
     </div>
 
  
     </div>
-    
     </div>
-  
+      
 </div>
 
 
