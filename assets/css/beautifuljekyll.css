@@ -109,8 +109,22 @@ img {
 }
 
 /* Cathaoir */
-img_team {
-  border-radius: 50%;
+imgteam::selection {
+  color: #fff;
+  background: transparent;
+}
+imgteam::-moz-selection {
+  color: #fff;
+  background: transparent;
+}
+
+imgteam {
+   border-radius: 50%;
+}
+
+.linked-section {
+  padding-top: 3.75rem;
+  margin-top: -1.5625rem;
 }
 
 /* Comments */
