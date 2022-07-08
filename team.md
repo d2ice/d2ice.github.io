@@ -10,22 +10,22 @@ subtitle:
     <!-- Control the column width, and how they should appear on different devices -->
     <div class="row">
 
-<div class="list-squares-item">
-          <a href="https://www.google.com/"><img src="assets/img/hello_world.jpeg"></a>
-        <h4> Blah</h4>
-        <div> Yes</div>
-</div>
+    <div class="list-squares-item">
+              <a href="https://www.google.com/"><img src="assets/img/hello_world.jpeg"></a>
+            <h4> Blah</h4>
+            <div> Yes</div>
+    </div>
         
-<div class="list-squares-item">
-          <a href="https://www.google.com/"><img src="assets/img/hello_world.jpeg" class="item-img"></a>
-        <h4> Blah</h4>
-        <div> Yes</div>
-</div>
+    <div class="list-squares-item">
+              <a href="https://www.google.com/"><img src="assets/img/hello_world.jpeg" class="item-img"></a>
+            <h4> Blah</h4>
+            <div> Yes</div>
+    </div>
 
  
-</div>
+    </div>
     
-</div>
+    </div>
   
 </div>
 
