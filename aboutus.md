@@ -44,8 +44,8 @@ td, th {
 
 ## Mardownify
 
-<div id="grid-col">
-  <div class="cell1">Cell</div> <div class="cell">Cell</div>
-  <div class="cell2">Cell</div> <div class="cell">Cell</div>
-  <div class="cell3">Cell</div> <div class="cell">Cell</div>
+<div id="grid-gap">
+  <div class="cell">Cell</div>  <div class="cell">Cell</div>
+  <div class="cell">Cell</div>  <div class="cell">Cell</div>
+  <div class="cell">Cell</div>  <div class="cell">Cell</div>
 </div>
