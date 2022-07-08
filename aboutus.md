@@ -44,40 +44,36 @@ td, th {
 
 ## Mardownify
 
-<div class="cards">
-  <div class="card">ONE</div>
-  <div class="card">TWO</div>
-  <div class="card">THREE</div>
-  <div class="card">FOUR</div>
-  <div class="card">FIVE</div>
-  <div class="card">SIX</div>
-  <div class="card">SEVEN</div>
-  <div class="card">EIGHT</div>
-  <div class="card">NINE</div>
-  <div class="card">TEN</div>
-  <div class="card">ELEVEN</div>
-  <div class="card">TWELVE</div>
-</div>
-
-html { font-size: 22px; }
-body { padding: 1rem; }
-
-.card {
-  background-color: dodgerblue;
-  color: white;
-  padding: 1rem;
-  height: 4rem;
-}
-
-.cards {
-  max-width: 1200px;
-  margin: 0 auto;
-  display: grid;
-  grid-gap: 1rem;
-}
-
-/* Screen larger than 600px? 2 column */
-@media (min-width: 600px) {
-  .cards { grid-template-columns: repeat(2, 1fr); }
-}
-
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Title of the document</title>
+    <style>
+      #grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+        grid-gap: 5px;
+      }
+      #grid > div {
+        font-size: 30px;
+        padding: .5em;
+        color: #ffffff;
+        background: #1c87c9;
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="grid">
+      <div>1</div>
+      <div>2</div>
+      <div>3</div>
+      <div>4</div>
+      <div>5</div>
+      <div>6</div>
+      <div>7</div>
+      <div>8</div>
+      <div>9</div>
+    </div>
+  </body>
+</html>
