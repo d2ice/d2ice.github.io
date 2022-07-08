@@ -109,16 +109,16 @@ img {
 }
 
 /* Cathaoir */
-imgteam::selection {
+.imgteam::selection {
   color: #fff;
   background: transparent;
 }
-imgteam::-moz-selection {
+.imgteam::-moz-selection {
   color: #fff;
   background: transparent;
 }
 
-imgteam {
+.imgteam {
    border-radius: 50%;
 }
 
