@@ -26,22 +26,15 @@ surround text, etc.
 
 surround text...
 
-
 <style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: 1px solid black;
-}
-blockquote {
-    border-left: solid blue;
-    padding-left: 10px;
+td, th {
+   border: none!important;
 }
 </style>
 
-| Item | Description | Price |
-| --- | --- | ---: |
-| item1 | item1 description | 1.00 |
-| item2 | item2 description | 100.00 |
-{:.mbtablestyle}
+
+| Time         | Length        | Speed              | Mass         |
+| ------------ | ------------- | ------------------ | ------------ |
+| -Millisecond | Millimetre    | Kilometre per hour | Milligram    |
+| Second       | Centimetre    | Foot per second    | Gram         |
+| Minute       | Inch          | Miles per hour     | Ounce        |
