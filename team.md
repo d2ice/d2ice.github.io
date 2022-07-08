@@ -4,8 +4,6 @@ title: Team
 subtitle: 
 ---
 
-<!DOCTYPE html>
-<html>
     
 <div class="container-md">
     <div class=" col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
@@ -32,7 +30,6 @@ subtitle:
 </div>
 
 
-</html>
   
   
   
