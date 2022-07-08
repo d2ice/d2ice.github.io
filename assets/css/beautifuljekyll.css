@@ -108,6 +108,11 @@ img {
   margin-top: -1.5625rem;
 }
 
+/* Cathaoir */
+img_team {
+  border-radius: 50%;
+}
+
 /* Comments */
 
 .disqus-comments {
