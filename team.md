@@ -17,7 +17,7 @@
 <div class="row">
 
 <div class="list-squares-item">
-<a href="https://www.google.com/"><img src="assets/img/hello_world.jpeg"></a>
+<img src="assets/img/hello_world.jpeg">
 <h4>Blah</h4>
 </div>
 
