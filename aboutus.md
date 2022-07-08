@@ -26,6 +26,20 @@ surround text, etc.
 
 surround text...
 
+
+<style>
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+   border: 1px solid black;
+}
+blockquote {
+    border-left: solid blue;
+    padding-left: 10px;
+}
+</style>
+
 | Item | Description | Price |
 | --- | --- | ---: |
 | item1 | item1 description | 1.00 |
