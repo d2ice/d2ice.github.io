@@ -4,19 +4,13 @@ title: About Us
 subtitle: 
 ---
 
+### Can insert a video from youtube
 <iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/qcca2DzOlOc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 
 <iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY?controls=0">
 </iframe>
 
-
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=g_9rnnkRX0g">
-</iframe>
-
-HTML
-<img src="/assets/img/hello_world.jpeg" width = 200 height = 200 class='team' >
 
 ### Research Focus
 
