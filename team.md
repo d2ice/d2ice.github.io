@@ -16,16 +16,16 @@
                 <a class="item-link" href="http://google.ie/" title="Website">
                   <span class="fa fa-home"></span></a>
 
-                <a class="item-link" href="http://google.ie/" title="GitHub">
+                <a class="item-link" href="https://github.com/ULBInspect/ULBInspect.github.io" title="GitHub">
                   <span class="fab fa-github"></span>
                 </a>
 
-                <a class="item-link" href="http://google.ie/" title="Twitter">
+                <a class="item-link" href="https://twitter.com/?lang=en" title="Twitter">
                   <span class="fab fa-twitter"></span>
                 </a>
                
-                <a class="item-link" href="http://google.ie/" title="LinkedIn">
-                  <span class="fab fa-linded-in"></span>
+                <a class="item-link" href="https://ie.linkedin.com/" title="LinkedIn">
+                  <span class="fab fa-linked-in"></span>
                 </a>
 
                 </div>
