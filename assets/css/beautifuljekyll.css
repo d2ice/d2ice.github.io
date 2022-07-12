@@ -109,12 +109,8 @@ img {
   border-radius: 80%;
 }
 
-.centered-thing {
-  position: absolute;
-  margin: auto;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+.list-squares {
+  text-align: center;
 }
 
 .list-squares-item {
