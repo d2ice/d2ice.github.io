@@ -4,7 +4,7 @@
 <div class="row">
 
 <div class="list-squares-item">
-<img src="/assets/img/hello_world.jpeg">
+<img src="/assets/img/hello_world.jpeg" class="team">
 <h4>Cathaoir</h4>
 </div>
 
