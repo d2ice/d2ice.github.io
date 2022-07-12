@@ -1,6 +1,6 @@
 <div class="container-fluid">
 <div class ="row">
-<div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+<div class="col-xl-6 offset-xl-2 col-lg-10 offset-lg-1">
 <!-- Control the column width, and how they should appear on different devices -->
 
 
