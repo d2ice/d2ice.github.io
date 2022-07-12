@@ -4,18 +4,11 @@ title: About Us
 subtitle: 
 ---
 
-### Can insert a video from youtube
-<iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/qcca2DzOlOc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-<iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY?controls=0">
-</iframe>
+### Intro to UL
+<iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/a3y9r995C5w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### Research Focus
-
-Markdown
-![image](/assets/img/hello_world.jpeg)
 
 We carry out research in machine learning.
 
@@ -50,11 +43,3 @@ td, th {
 
 
 
-
-## Mardownify
-
-<div id="grid-gap">
-  <div class="cell">Cell</div>  <div class="cell">Cell</div>
-  <div class="cell">Cell</div>  <div class="cell">Cell</div>
-  <div class="cell">Cell</div>  <div class="cell">Cell</div>
-</div>
