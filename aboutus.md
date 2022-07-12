@@ -4,7 +4,7 @@ title: About Us
 subtitle: 
 ---
 
-<img src="assets/img/hello_world.jpeg" class='imgteam'>
+<img src="assets/img/hello_world.jpeg" class='team'>
 
 ### Research Focus
 
