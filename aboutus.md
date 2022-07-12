@@ -5,8 +5,11 @@ subtitle:
 ---
 
 
-<iframe width="420" height="315"
-src="[https://www.youtube.com/embed/tgbNymZ7vqY](https://www.youtube.com/watch?v=4dOsbsuhYGQ)">
+<iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY?controls=0">
+</iframe>
+
+
+<iframe width="420" height="315" src="https://www.youtube.com/watch?v=g_9rnnkRX0g">
 </iframe>
 
 HTML
