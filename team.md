@@ -7,7 +7,7 @@
 
          <div class="list-squares">
 
-            <div class="list-squares-item">
+            <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 col-xxl-8 offset-xxl-2" class="list-squares-item">
                <a href="https://www.google.com/"><img src="/assets/img/hello_world.jpeg" class="item-img"></a>
                <h4>Cathaoir</h4>
                <div class="item-desc">PhD Student</div>
