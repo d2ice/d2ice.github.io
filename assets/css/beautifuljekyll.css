@@ -103,16 +103,18 @@ img {
   max-width: 100%;
 }
 
+/* Cathaoir */
+
+.team {
+  border-radius: 80%;
+}
+
 .linked-section {
   padding-top: 3.75rem;
   margin-top: -1.5625rem;
 }
 
-/* Cathaoir */
 
-.imgteam {
-   border-radius: 80%;
-}
 
 .list-squares-item {
   display: inline-block;
