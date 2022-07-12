@@ -25,7 +25,10 @@
                 </a>
                
                 <a class="item-link" href="http://google.ie/" title="Linkedin">
-                  <span class="fa-stack fa-lg"></span>
+               <span class="fa-stack fa-lg" aria-hidden="true">
+                       <i class="fas fa-circle fa-stack-2x"></i>
+                       <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
+               </span>
                 </a>
 
                 </div>
