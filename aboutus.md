@@ -4,9 +4,11 @@ title: About Us
 subtitle: 
 ---
 
-<img src="assets/img/hello_world.jpeg">
+[<img src="assets/img/hello_world.jpeg">]
 
 ### Research Focus
+
+![image](/assets/img/hello_world.jpeg)
 
 We carry out research in machine learning.
 
