@@ -17,16 +17,15 @@
                   <span class="fa fa-home"></span></a>
 
                 <a class="item-link" href="http://google.ie/" title="GitHub">
-                  <span class="fa fa-github"></span>
+                  <span class="fab fa-github"></span>
                 </a>
 
                 <a class="item-link" href="http://google.ie/" title="Twitter">
-                  <span class="fa fa-twitter"></span>
+                  <span class="fab fa-twitter"></span>
                 </a>
                
                 <a class="item-link" href="http://google.ie/" title="Linkedin">
                <span class="fa-stack fa-lg" aria-hidden="true">
-                       <i class="fas fa-circle fa-stack-2x"></i>
                        <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
                </span>
                 </a>
