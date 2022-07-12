@@ -109,24 +109,10 @@ img {
 }
 
 /* Cathaoir */
-.imgteam::selection {
-  color: #fff;
-  background: transparent;
-}
-.imgteam::-moz-selection {
-  color: #fff;
-  background: transparent;
-}
 
 .imgteam {
    border-radius: 80%;
 }
-
-.linked-section {
-  padding-top: 3.75rem;
-  margin-top: -1.5625rem;
-}
-
 
 .list-squares-item {
   display: inline-block;
