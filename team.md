@@ -6,21 +6,25 @@
 <div class="list-squares-item">
 <a href="https://www.google.com/"><img src="/assets/img/hello_world.jpeg" class="item-img"></a>
 <h4>Cathaoir</h4>
+<div class="item-desc">PhD Student</div>
 </div>
 
 <div class="list-squares-item">
 <a href="https://www.google.com/"><img src="/assets/img/thumb.png" class="item-img"></a>
 <h4>Eoin</h4>
+<div class="item-desc">PostDoc</div>
 </div>
     
 <div class="list-squares-item">
 <a href="https://www.google.com/"><img src="/assets/img/path.jpg" class="item-img"></a>
 <h4>Dishant</h4>
+<div class="item-desc">PhD Student</div>
 </div>
     
-<div class="list-squares-item">
+<div class="item-links">
 <a href="https://www.google.com/"><img src="/assets/img/hello_world.jpeg" class="item-img"></a>
 <h4>Santa</h4>
+<div class="item-desc">PhD Student</div>
 </div>
 
 </div>
