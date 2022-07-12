@@ -25,9 +25,9 @@
                 </a>
                
                 <a class="item-link" href="http://google.ie/" title="Linkedin">
-                  <span class="fa fa-linkedin"></span>
+                  <span class="fa-brands fa-linkedin"></span>
                 </a>
-    
+
                 </div>
             </div>
 
