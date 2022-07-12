@@ -1,4 +1,13 @@
-<div class="container-md" role="main">
+<div class="container">.container</div>
+<div class="container-sm">.container-sm</div>
+<div class="container-md">.container-md</div>
+<div class="container-lg">.container-lg</div>
+<div class="container-xl">.container-xl</div>
+<div class="container-xxl">.container-xxl</div>
+<div class="container-fluid">.container-fluid</div>
+
+
+<div class="container-fluid">
    
    <div class="row">
 
