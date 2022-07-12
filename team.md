@@ -1,16 +1,34 @@
-<div class="container-md">
+<div class="container-md" role="main">
    
    <div class="row">
 
-      <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 col-xxl-8 offset-xxl-2" role="main">
+      <div class=" col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 col-xxl-8 offset-xxl-2 ">
       <!-- Control the column width, and how they should appear on different devices -->
 
          <div class="list-squares">
 
-            <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 col-xxl-8 offset-xxl-2" class="list-squares-item">
+            <div class="list-squares-item">
                <a href="https://www.google.com/"><img src="/assets/img/hello_world.jpeg" class="item-img"></a>
                <h4>Cathaoir</h4>
                <div class="item-desc">PhD Student</div>
+               
+               <div class="item-links">
+                <a class="item-link" href="http://google.ie/" title="Website">
+                  <span class="fa fa-home"></span></a>
+
+                <a class="item-link" href="http://google.ie/" title="GitHub">
+                  <span class="fa fa-github"></span>
+                </a>
+
+                <a class="item-link" href="http://google.ie/" title="Twitter">
+                  <span class="fa fa-twitter"></span>
+                </a>
+               
+                <a class="item-link" href="http://google.ie/" title="Linkedin">
+                  <span class="fa fa-Linkedin"></span>
+                </a>
+    
+                </div>
             </div>
 
             <div class="list-squares-item">
