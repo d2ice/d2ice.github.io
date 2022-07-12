@@ -25,7 +25,7 @@
                 </a>
                
                 <a class="item-link" href="http://google.ie/" title="LinkedIn">
-                  <span class="fab fa-lindedin"></span>
+                  <span class="fab fa-linded-in"></span>
                 </a>
 
                 </div>
