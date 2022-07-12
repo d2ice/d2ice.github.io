@@ -6,7 +6,7 @@ subtitle:
 
 
 HTML
-<img src="/assets/img/hello_world.jpeg" width = 200 height = 200 >
+<img src="/assets/img/hello_world.jpeg" width = 200 height = 200 class='team' >
 
 ### Research Focus
 
