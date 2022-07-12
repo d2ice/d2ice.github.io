@@ -1,8 +1,8 @@
 <div class="container-fluid">
+<div class ="row">
 <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
 <!-- Control the column width, and how they should appear on different devices -->
 
-<div class="list-squares">
 
 <div class="row">
 <div class="list-squares-item">
