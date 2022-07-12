@@ -4,7 +4,7 @@ title: About Us
 subtitle: 
 ---
 
-
+<img src="assets/img/hello_world.jpeg" >
 
 ### Research Focus
 
