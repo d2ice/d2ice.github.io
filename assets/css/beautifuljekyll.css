@@ -127,7 +127,7 @@ img {
   height: 200px;
   -webkit-border-radius: 0;
   -moz-border-radius: 0;
-  border-radius: 0;
+  border-radius: 80%;
 }
 
 .list-squares-item .item-desc {
