@@ -1,4 +1,4 @@
-<div class="container-fluid">
+<div class="container-md">
 
    <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 col-xxl-8 offset-xxl-2 ">
    <!-- Control the column width, and how they should appear on different devices -->
