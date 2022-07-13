@@ -53,6 +53,8 @@ Our focus is on the following scientific areas of interest:
     </div>            
  </div>
  
+<!--  Add a line break-->
+ <br>
 
 - Computer Vision
 - Natural Language Processing 
