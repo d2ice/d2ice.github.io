@@ -111,11 +111,18 @@ img {
 }
 
 /* Distance between icons on aboutus */
-.gridcontainer {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  grid-gap: 1em;
-/*   text-align: center; */
+.icon_bg {
+  font-size: 2em !important;
+}
+
+.icon_square {
+  color: #FFFFFF !important;
+  font-size: 2em !important;
+  line-height: 2em !important;
+  background-color: #00FF00 !important;
+  height: 2em !important;
+  width: 2em !important;
+  margin-top: 1em !important;
 }
 
 /* Google maps style to make responsive */
