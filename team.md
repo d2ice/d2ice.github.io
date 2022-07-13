@@ -65,7 +65,7 @@ subtitle:
           <!-- Creating a Team Member -->
          <div class="list-squares">
             <div class="list-squares-item">
-               <a href="https://www.google.com/"><img src="/assets/img/path.jpeg" class="item-img"></a>
+               <a href="https://www.google.com/"><img src="/assets/img/path.jpg" class="item-img"></a>
                <h4>Dishant</h4>
                <div class="item-desc">PhD Student</div>
               
@@ -89,8 +89,8 @@ subtitle:
            <!-- Creating a Team Member -->
          <div class="list-squares">
             <div class="list-squares-item">
-               <a href="https://www.google.com/"><img src="/assets/img/path.jpeg" class="item-img"></a>
-               <h4>DSanta</h4>
+               <a href="https://www.google.com/"><img src="/assets/img/path.jpg" class="item-img"></a>
+               <h4>Santa</h4>
                <div class="item-desc">Santa</div>
               
             <!-- Ceating Team Member socials, all may not be relevant -->
