@@ -161,6 +161,7 @@ img {
 /* Style for team grid  */
 .list-squares {
   text-align: center;
+  margin: auto;
 }
 
 .list-squares-item {
