@@ -150,10 +150,10 @@ img {
 
 .list-squares-item {
   display: inline-block;
-  width: 220px;
+  width: 240px;
   vertical-align: top;
   margin: 0;
-  padding: 10px;
+  padding: 20px;
 }
 
 .list-squares-item:hover {
