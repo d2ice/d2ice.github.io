@@ -8,17 +8,19 @@ subtitle:
    
    <div class="row" >
       <!-- Not needed it seems -->
-      <!--  <div class=" col-xl-10 offset-xl-1 col-lg-10 offset-lg-1 col-xxl-10 offset-xxl-1 "> -->
+       
       <!-- Control the column width, and how they should appear on different devices -->
          
          <!-- Creating a Team Member -->
+      <div class=" col-xl-10 offset-xl-1 col-lg-10 offset-lg-1 col-xxl-10 offset-xxl-1 ">
+      
          <div class="list-squares">
             <div class="list-squares-item">
                <a href="https://www.google.com/"><img src="/assets/img/hello_world.jpeg" class="item-img"></a>
                <h4>Cathaoir</h4>
                <div class="item-desc">PhD Student</div>
               
-                  
+            <div class=" col-xl-10 offset-xl-1 col-lg-10 offset-lg-1 col-xxl-10 offset-xxl-1 ">
             <!-- Ceating Team Member socials, all may not be relevant -->
                <div class="item-links">
                    <a class="item-link" href="http://google.ie/" title="Website">
@@ -33,10 +35,14 @@ subtitle:
                      <span class="fab fa-linkedin"></span>
                    </a>
                 </div>
+               </div>
             </div>
           </div>
 
           <!-- Creating a Team Member -->
+         
+      <div class=" col-xl-10 offset-xl-1 col-lg-10 offset-lg-1 col-xxl-10 offset-xxl-1 ">
+         
          <div class="list-squares">
             <div class="list-squares-item">
                <a href="https://www.google.com/"><img src="/assets/img/thumb.png" class="item-img"></a>
@@ -60,8 +66,11 @@ subtitle:
                 </div>
             </div>
           </div>
+          </div>
   
           <!-- Creating a Team Member -->
+         
+         <div class=" col-xl-10 offset-xl-1 col-lg-10 offset-lg-1 col-xxl-10 offset-xxl-1 ">
          <div class="list-squares">
             <div class="list-squares-item">
                <a href="https://www.google.com/"><img src="/assets/img/path.jpg" class="item-img"></a>
@@ -82,6 +91,7 @@ subtitle:
                      <span class="fab fa-linkedin"></span>
                    </a>
                 </div>
+            </div>
             </div>
           </div>
 
