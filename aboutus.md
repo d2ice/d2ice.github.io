@@ -23,7 +23,7 @@ Our focus is on the following scientific areas of interest:
    <div class="row" >
      
          <!--   Icon -->
-      <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
+<!--       <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12"> -->
         <div style ="text-align: center;">
            <span class="icon_bg icon_square"></span>
            <i class="fas fa-eye" style="font-size:36px;"></i>
@@ -32,7 +32,7 @@ Our focus is on the following scientific areas of interest:
        </div>
       
          <!--   Icon -->
-      <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
+<!--       <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12"> -->
         <div style ="text-align: center;">
            <span class="icon_bg icon_square"></span>
            <i class="fas fa-book" style="font-size:36px;"></i>
@@ -41,11 +41,11 @@ Our focus is on the following scientific areas of interest:
        </div>
       
          <!--   Icon -->
-      <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
+<!--       <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12"> -->
         <div style ="text-align: center;">
            <span class="icon_bg icon_square"></span>
            <i class="fas fa-chart-bar" style="font-size:36px;"></i>
-                 <div>NLP</div>
+                 <div>Stats/ML</div>
         </div>
        </div>
       
