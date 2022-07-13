@@ -4,7 +4,7 @@ title: About Us
 subtitle: 
 ---
 
-### Introduction
+
 This may be some text info around UL and then possibly down into who we are within UL, the ECE department.  
 
 <div class="video-container">
