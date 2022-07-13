@@ -126,6 +126,20 @@ img {
   position:absolute;
 }
 
+/* Make embed youtube videos responsive */
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%;
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
 /* Style for team grid  */
 .list-squares {
   text-align: center;
