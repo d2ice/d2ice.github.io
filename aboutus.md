@@ -10,9 +10,8 @@ This may be some text info around UL and then possibly down into who we are with
 <div class="video-container">
 <iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/a3y9r995C5w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
+<!-- Add some space between video and text -->
 <br>
-
 ### Research Focus
 We carry out research in machine learning.
 
