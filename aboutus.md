@@ -25,23 +25,25 @@ Our focus is on the following scientific areas of interest:
          <!--   Icon -->
       <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
         <div style ="text-align: center;">
-           <i class="fas fa-band-aid fas-4x"></i>
+           <i class="fas fa-band-aid" style="font-size:24px;"></i>
                  <div>Computer Vision</div>
         </div>
        </div>
       
-         <!--   Icon -->
+      <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
         <div style ="text-align: center;">
-           <i class="fas fa-band-aid"></i>
+           <i class="fas fa-band-aid" style="font-size:24px;"></i>
                  <div>NLP</div>
         </div>
+       </div>
       
       
-         <!--   Icon -->
+      <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
         <div style ="text-align: center;">
-           <i class="fas fa-band-aid"></i>
+           <i class="fas fa-band-aid" style="font-size:24px;"></i>
                  <div>Stats</div>
         </div>
+       </div>
       
       
     </div>            
