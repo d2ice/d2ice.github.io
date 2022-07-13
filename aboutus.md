@@ -51,19 +51,25 @@ Our focus is on the following scientific areas of interest:
  
  
  
- <div class="container-fluid">
+<div class="gridcontainer">
+    <img src="https://dummyimage.com/100x100/000000/fff">
+    <p>Grid Item 1</p>
+
+
+
+    <img src="https://dummyimage.com/100x100/000000/fff">
+    <p>Grid Item 2</p>
+
+
+    <img src="https://dummyimage.com/100x100/000000/fff">
+    <p>Grid Item 3</p>
+
+
+    <img src="https://dummyimage.com/100x100/000000/fff">
+    <p>Grid Item 4</p>
    
-   <div class="row" >
-     
-     <div style ="text-align: center;">
-                   
-        <span class="fas fa-band-aid"> 
-        </span>
-                   
-              <div>Computer Vision</div>
-     </div>
-    </div>            
- </div>
+  </div>
+</div>
 
 - Computer Vision
 - Natural Language Processing 
