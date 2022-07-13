@@ -35,7 +35,7 @@ Our focus is on the following scientific areas of interest:
       <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
         <div style ="text-align: center;">
            <span class="icon_bg icon_square"></span>
-           <i class="fas fa-band-aid" style="font-size:24px;"></i>
+           <i class="fas fa-book" style="font-size:36px;"></i>
                  <div>NLP</div>
         </div>
        </div>
@@ -44,7 +44,7 @@ Our focus is on the following scientific areas of interest:
       <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
         <div style ="text-align: center;">
            <span class="icon_bg icon_square"></span>
-           <i class="fas fa-band-aid" style="font-size:24px;"></i>
+           <i class="fas fa-bar-chart" style="font-size:36px;"></i>
                  <div>Stats</div>
         </div>
        </div>
