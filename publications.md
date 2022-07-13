@@ -4,10 +4,45 @@ title: Publications
 subtitle: 
 ---
 
+<!-- This is for drop-downable headers -->
 <details>
-<summary>How do I dropdown?</summary>
+  <summary><h2>2022</h2></summary>
 <br>
-This is how you dropdown.
+<!--   Need this line empty to go back to markdown, if thats what we want -->
+- Just some text for now
+- Just some text for now
+</details>
+
+
+<!-- This is for drop-downable headers -->
+<details>
+  <summary><h2>2021</h2></summary>
+<br>
+<!--   Need this line empty to go back to markdown, if thats what we want -->
+- Just some text for now
+- Just some text for now
+</details>
+
+
+
+<!-- This is for drop-downable headers -->
+<details>
+  <summary><h2>2020</h2></summary>
+<br>
+<!--   Need this line empty to go back to markdown, if thats what we want -->
+- Just some text for now
+- Just some text for now
+</details>
+
+
+
+<!-- This is for drop-downable headers -->
+<details>
+  <summary><h2>2019</h2></summary>
+<br>
+<!--   Need this line empty to go back to markdown, if thats what we want -->
+- Just some text for now
+- Just some text for now
 </details>
 
 
