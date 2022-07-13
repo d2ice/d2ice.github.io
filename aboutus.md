@@ -52,9 +52,8 @@ Our focus is on the following scientific areas of interest:
  
  
 <div class="gridcontainer">
-    <img src="https://dummyimage.com/100x100/000000/fff">
+    <i class="fas fa-band-aid" style="font-size:24px;"></i>
     <p>Grid Item 1</p>
-
 
 
     <img src="https://dummyimage.com/100x100/000000/fff">
