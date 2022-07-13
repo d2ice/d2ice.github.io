@@ -22,9 +22,9 @@ Our focus is on the following scientific areas of interest:
    
    <div class="row" >
      
-     <div style = 'text-align: center;>
+     <div style ="text-align: center;">
                    
-          <span class="fa fa-eye"</span>
+          <span class="fa fa-bar-chart-o icon_bg icon_square"</span>
                    
               <div>Computer Vision</div>
      </div>
