@@ -40,12 +40,12 @@ Our focus is on the following scientific areas of interest:
         </div>
        </div>
       
-              <!--   Icon -->
+         <!--   Icon -->
       <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
         <div style ="text-align: center;">
            <span class="icon_bg icon_square"></span>
            <i class="fas fa-bar-chart" style="font-size:36px;"></i>
-                 <div>Stats</div>
+                 <div>NLP</div>
         </div>
        </div>
       
