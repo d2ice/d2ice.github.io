@@ -53,25 +53,6 @@ Our focus is on the following scientific areas of interest:
     </div>            
  </div>
  
- 
- 
-<div class="gridcontainer">
-    <i class="fas fa-band-aid" style="font-size:24px;"></i>
-    <p>Grid Item 1</p>
-
-
-    <img src="https://dummyimage.com/100x100/000000/fff">
-    <p>Grid Item 2</p>
-
-
-    <img src="https://dummyimage.com/100x100/000000/fff">
-    <p>Grid Item 3</p>
-
-
-    <img src="https://dummyimage.com/100x100/000000/fff">
-    <p>Grid Item 4</p>
-   
-  </div>
 
 - Computer Vision
 - Natural Language Processing 
