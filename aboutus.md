@@ -24,7 +24,7 @@ Our focus is on the following scientific areas of interest:
      
          <!--   Icon -->
         <div style ="text-align: center;">
-           <i class="fas fa-band-aid"></i>
+           <i class="fas fa-band-aid fas-4x"></i>
                  <div>Computer Vision</div>
         </div>
       
