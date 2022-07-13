@@ -4,10 +4,13 @@ title: Binspect Project
 subtitle: 
 ---
 
-Some computer vision themed project of doing stuff. Some info
+Some computer vision themed project of doing stuff. Some info...
+
+Maybe a picture or something. 
+<img src="/assets/img/hello_world.jpeg">
 
 
-## Team Members 
+#### Team Members 
 
 
 <div class="container-fluid">
