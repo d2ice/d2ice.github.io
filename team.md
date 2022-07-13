@@ -6,6 +6,8 @@ subtitle:
 
 <div class="container-fluid">
    
+   <div class="list-squares">
+   
    <div class="row">
 
       <!-- Not needed it seems -->
@@ -134,6 +136,7 @@ subtitle:
             </div>
           </div>
 
+      </div>
    </div>
 </div>
 
