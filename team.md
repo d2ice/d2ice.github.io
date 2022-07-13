@@ -4,26 +4,11 @@ title: Team
 subtitle: 
 ---
 
-
-<!-- subtitle: X  -->
-team:
-  - name: Prof. Dr. Patricia Lago
-    img: /assets/img/hello_world.jpeg
-    desc: Head of the S2 Group
-    website: http://patricialago.nl/
-    url: http://patricialago.nl/
-    github: https://github.com/lagopat/
-    twitter: https://twitter.com/patricia_lago
----
-{% include list-squares.html items=page.team %}
-
-
-
 <div class="container-fluid">
    
    <div class="row" >
       <!-- Not needed it seems -->
-      <div class="  col-xl-8 offset-xl-2 col-lg-10 offset-lg-1  ">
+<!--       <div class="  col-xl-8 offset-xl-2 col-lg-10 offset-lg-1  "> -->
        
       <!-- Control the column width, and how they should appear on different devices -->
          
@@ -148,7 +133,7 @@ team:
                 </div>
             </div>
           </div>
-   </div>
+<!--    </div> -->
 </div>
 
 ### Associated Members
