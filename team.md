@@ -39,7 +39,7 @@ subtitle:
           <!-- Creating a Team Member -->
          <div class="list-squares">
             <div class="list-squares-item">
-               <a href="https://www.google.com/"><img src="/assets/img/thumb.png" class="center-block"></a>
+               <a href="https://www.google.com/"><img src="/assets/img/thumb.png" class="item-img"></a>
                <h4>Eoin</h4>
                <div class="item-desc">PostDoc</div>
               
