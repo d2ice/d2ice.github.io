@@ -23,3 +23,23 @@ subtitle:
       </div>
     </div>
 </div>
+
+
+
+### LERO
+
+
+<div class="container-fluid">
+   
+   <div class="row" >
+         
+         <!-- Creating a Project -->
+         <div class="list-squares">
+            <div class="list-squares-item">
+               <a href="https://ulbinspect.github.io/not_binspect_proj/"><img src="/assets/img/thumb.png" class="item-img"></a>
+               <h4>Not Binspect</h4>
+               <div class="item-desc">The use of computer vision to not do some things</div>
+           </div>     
+      </div>
+    </div>
+</div>
