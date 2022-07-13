@@ -17,7 +17,7 @@
                
                <div class="item-links">
                 <a class="item-link" href="http://google.ie/" title="Website">
-                  <span class="fa fa-home"></span></a>
+                  <span class="fab fa-home"></span></a>
 
                 <a class="item-link" href="https://github.com/ULBInspect/ULBInspect.github.io" title="GitHub">
                   <span class="fab fa-github"></span>
