@@ -19,7 +19,7 @@ subtitle:
             <div class="list-squares-item">
                <a href="https://ulbinspect.github.io/binspect_proj/"><img src="/assets/img/hello_world.jpeg" class="item-img"></a>
                <h4>Binspect</h4>
-               <h6>Confirm</h6>
+               <p><b>Confirm</b></p>
                <div class="item-desc">The use of computer vision to do some things</div>
            </div>     
       </div>
