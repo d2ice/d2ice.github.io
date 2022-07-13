@@ -12,6 +12,7 @@ This may be some text info around UL and then possibly down into who we are with
 </div>
 
 
+
 ### Research Focus
 We carry out research in machine learning.
 
@@ -22,19 +23,19 @@ Our focus is on the following scientific areas of interest:
 - Statistics 
 
 
-### Application Areas 
+#### Application Areas 
 - Medical
 - Autonomous vehicles
 - Circular economy
 
 
-### Academic partners
+#### Academic partners
 - [University 1](https://www.ul.ie/)
 - [Another university](https://www.ul.ie/)
 - ...
 
 
-### Non-academic partners
+#### Non-academic partners
 - [Company X](https://www.ul.ie/)
 - [Company Y](https://www.ul.ie/)
 - [Company Z](https://www.ul.ie/)
