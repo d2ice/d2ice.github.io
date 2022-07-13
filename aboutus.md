@@ -4,13 +4,14 @@ title: About Us
 subtitle: 
 ---
 
-### Intro to UL
+### Introduction
+This may be some text info around UL and then possibly down into who we are within UL, the ECE department.  
+
 <div class="video-container">
 <iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/a3y9r995C5w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ### Research Focus
-
 We carry out research in machine learning.
 
 Our focus is on the following scientific areas of interest:
@@ -19,28 +20,17 @@ Our focus is on the following scientific areas of interest:
 - Natural Language Processing 
 - Statistics 
 
-surround text, etc.
+### Application Areas 
+- Medical
+- Autonomous vehicles
+- Circular economy
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+### Academic partners
+- LIT 
+- Another university
+- ...
 
-surround text...
-
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
-
-| Time         | Length        | Speed              | Mass         |
-| ------------ | ------------- | ------------------ | ------------ |
-| -Millisecond | Millimetre    | Kilometre per hour | Milligram    |
-| Second       | Centimetre    | Foot per second    | Gram         |
-| Minute       | Inch          | Miles per hour     | Ounce        |
-
-
-
+### Non-academic partners
+- Company X 
+- Company Y
+- Company Z
