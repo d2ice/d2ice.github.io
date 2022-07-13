@@ -105,10 +105,28 @@ img {
 
 /* Cathaoir */
 
+/* Team photo style */
 .team {
   border-radius: 80%;
 }
 
+/* Google maps style to make responsive */
+.map-responsive{
+  overflow:hidden;
+  padding-bottom:56.25%;
+  position:relative;
+  height:0;
+}
+
+.map-responsive iframe{
+  left:0;
+  top:0;
+  height:100%;
+  width:100%;
+  position:absolute;
+}
+
+/* Style for team grid  */
 .list-squares {
   text-align: center;
 }
