@@ -37,11 +37,14 @@ subtitle:
             </div>
           </div>
 
-      
-         <!--  Member 2 -->
+          <!-- Creating a Team Member -->
+         <div class="list-squares">
             <div class="list-squares-item">
-               <a href="https://www.google.com/"><img src="/assets/img/thumb.png" class="item-img"></a>
+               <a href="https://www.google.com/"><img src="/assets/img/thumb.jpeg" class="item-img"></a>
                <h4>Eoin</h4>
+               <div class="item-desc">PostDoc</div>
+              
+                  
             <!-- Ceating Team Member socials, all may not be relevant -->
                <div class="item-links">
                    <a class="item-link" href="http://google.ie/" title="Website">
@@ -57,6 +60,7 @@ subtitle:
                    </a>
                 </div>
             </div>
+          </div>
   
 
          <!--  Member 3 -->
