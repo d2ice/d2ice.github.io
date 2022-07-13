@@ -34,6 +34,9 @@ subtitle:
                <div class="item-desc">The use of computer vision not to do some things</div>
            </div>     
       </div>
-
+   
+</div>
+   
 ### Completed Projects
 
+Here
