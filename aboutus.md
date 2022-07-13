@@ -30,6 +30,22 @@ Our focus is on the following scientific areas of interest:
      </div>
     </div>            
  </div>
+ 
+ 
+ 
+ <div class="container-fluid">
+   
+   <div class="row" >
+     
+     <div style ="text-align: center;">
+                   
+        <span class="fas fa-band-aid"> 
+        </span>
+                   
+              <div>Computer Vision</div>
+     </div>
+    </div>            
+ </div>
 
 - Computer Vision
 - Natural Language Processing 
