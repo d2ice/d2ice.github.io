@@ -17,6 +17,20 @@ We carry out research in machine learning.
 
 Our focus is on the following scientific areas of interest:
 
+
+<div class="container-fluid">
+   
+   <div class="row" >
+     
+     <div style = 'text-align: center;>
+                   
+          <span class="fa fa-eye"</span>
+                   
+              <div>Computer Vision</div>
+     </div>
+    </div>            
+ </div>
+
 - Computer Vision
 - Natural Language Processing 
 - Statistics 
