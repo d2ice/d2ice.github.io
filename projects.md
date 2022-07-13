@@ -21,6 +21,15 @@ subtitle:
              </div> 
          </div>
       
+          <!-- Creating a Project -->
+         <div class="list-squares">
+            <div class="list-squares-item">
+               <a href="https://ulbinspect.github.io/binspect_proj/"><img src="/assets/img/path.jpg" class="item-img"></a>
+               <h4>Binspect</h4>
+               <div class="item-desc">The use of computer vision to do some things 2</div>
+             </div> 
+         </div>
+      
         
          <!-- Creating a Project -->
          <div class="list-squares">
