@@ -8,7 +8,7 @@ subtitle:
    
    <div class="row" >
       <!-- Not needed it seems -->
-      <div class=" col-xl-10 offset-xl-1 col-lg-10 offset-lg-1 col-xxl-10 offset-xxl-1 ">
+      <!--  <div class=" col-xl-10 offset-xl-1 col-lg-10 offset-lg-1 col-xxl-10 offset-xxl-1 "> -->
       <!-- Control the column width, and how they should appear on different devices -->
          
          <!-- Creating a Team Member -->
@@ -132,7 +132,6 @@ subtitle:
                 </div>
             </div>
           </div>
-   </div>
    </div>
 </div>
 
