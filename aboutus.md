@@ -25,7 +25,7 @@ Our focus is on the following scientific areas of interest:
          <!--   Icon -->
       <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
         <div style ="text-align: center;">
-           <i class="fas fa-band-aid" style="font-size:24px;"></i>
+           <i class="fas fa-bar-chart-o icon_bg icon_square"></i>
                  <div>Computer Vision</div>
         </div>
        </div>
@@ -71,7 +71,6 @@ Our focus is on the following scientific areas of interest:
     <p>Grid Item 4</p>
    
   </div>
-</div>
 
 - Computer Vision
 - Natural Language Processing 
