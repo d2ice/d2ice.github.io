@@ -17,17 +17,31 @@ We carry out research in machine learning.
 
 Our focus is on the following scientific areas of interest:
 
-
+<!-- Set up icons -->
 <div class="container-fluid">
    
    <div class="row" >
      
-     <div style ="text-align: center;">
-                   
-        <i class="fas fa-band-aid"></i>
-                   
-              <div>Computer Vision</div>
-     </div>
+         <!--   Icon -->
+        <div style ="text-align: center;">
+           <i class="fas fa-band-aid"></i>
+                 <div>Computer Vision</div>
+        </div>
+      
+         <!--   Icon -->
+        <div style ="text-align: center;">
+           <i class="fas fa-band-aid"></i>
+                 <div>NLP</div>
+        </div>
+      
+      
+         <!--   Icon -->
+        <div style ="text-align: center;">
+           <i class="fas fa-band-aid"></i>
+                 <div>Stats</div>
+        </div>
+      
+      
     </div>            
  </div>
  
