@@ -18,7 +18,7 @@ subtitle:
                <a href="https://www.google.com/"><img src="/assets/img/hello_world.jpeg" class="item-img"></a>
                <h4>Cathaoir</h4>
                <div class="item-desc">PhD Student</div>
-               </div>
+              
                   
             <!-- Ceating Team Member socials, all may not be relevant -->
                <div class="item-links">
@@ -35,6 +35,7 @@ subtitle:
                    </a>
                 </div>
             </div>
+          </div>
 
       
          <!--  Member 2 -->
