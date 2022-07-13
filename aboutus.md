@@ -29,7 +29,7 @@ Our focus is on the following scientific areas of interest:
            <i class="fas fa-eye" style="font-size:36px;"></i>
                  <div>Computer Vision</div>
         </div>
-       </div>
+<!--        </div> -->
       
          <!--   Icon -->
 <!--       <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12"> -->
@@ -38,7 +38,7 @@ Our focus is on the following scientific areas of interest:
            <i class="fas fa-book" style="font-size:36px;"></i>
                  <div>NLP</div>
         </div>
-       </div>
+<!--        </div> -->
       
          <!--   Icon -->
 <!--       <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12"> -->
@@ -47,7 +47,7 @@ Our focus is on the following scientific areas of interest:
            <i class="fas fa-chart-bar" style="font-size:36px;"></i>
                  <div>Stats/ML</div>
         </div>
-       </div>
+<!--        </div> -->
       
       
     </div>            
