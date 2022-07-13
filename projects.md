@@ -4,8 +4,8 @@ title: Projects
 subtitle: 
 ---
 
-[Active Work](###active-projects) |
-[Completed Work](###completed-Projects)
+[Active Work](#active-projects) |
+[Completed Work](#completed-Projects)
 
 ### Active Projects
 
