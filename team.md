@@ -3,7 +3,7 @@ layout: page
 title: Team
 subtitle: 
 ---
-<div class="list-squares">
+
 <div class="container-fluid">
    
    <div class="row">
@@ -149,4 +149,4 @@ subtitle:
 - [Person 1](https://en.wikipedia.org/wiki/Bruce_Springsteen)
 - [Person 2](https://en.wikipedia.org/wiki/Bruce_Springsteen)
 
-</div>
+
