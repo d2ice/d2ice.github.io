@@ -18,7 +18,7 @@ subtitle:
                <h4>Cathaoir</h4>
                <div class="item-desc">PhD Student</div>
               
-            <div class=" col-xl-10 offset-xl-1 col-lg-10 offset-lg-1 col-xxl-10 offset-xxl-1 ">
+      
             <!-- Ceating Team Member socials, all may not be relevant -->
                <div class="item-links">
                    <a class="item-link" href="http://google.ie/" title="Website">
