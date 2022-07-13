@@ -1,4 +1,8 @@
-
+---
+layout: page
+title: Team
+subtitle: 
+---
 <div class="container-fluid">
    
    <div class="row">
