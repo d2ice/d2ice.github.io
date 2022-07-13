@@ -8,8 +8,7 @@ subtitle:
    
    <div class="row" >
       <!-- Not needed it seems -->
-<!--       <div class="  col-xl-8 offset-xl-2 col-lg-10 offset-lg-1  "> -->
-       
+      <!--  <div class="  col-xl-8 offset-xl-2 col-lg-10 offset-lg-1  "> --.
       <!-- Control the column width, and how they should appear on different devices -->
          
          <!-- Creating a Team Member -->
@@ -132,7 +131,10 @@ subtitle:
                    </a>
                 </div>
             </div>
-<!--    </div> -->
+          </div>
+            
+            
+   </div>
 </div>
 
 ### Associated Members
