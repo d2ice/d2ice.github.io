@@ -6,7 +6,7 @@ subtitle:
 
 <!-- This is for drop-downable headers -->
 <details>
-  <summary><h2>2022</h2></summary>
+  <summary><b>2022</b></summary>
 <br>
 <!--   Need this line empty to go back to markdown, if thats what we want -->
 - Just some text for now
@@ -16,7 +16,7 @@ subtitle:
 
 <!-- This is for drop-downable headers -->
 <details>
-  <summary><h2>2021</h2></summary>
+  <summary><b>2021</b></summary>
 <br>
 <!--   Need this line empty to go back to markdown, if thats what we want -->
 - Just some text for now
@@ -27,7 +27,7 @@ subtitle:
 
 <!-- This is for drop-downable headers -->
 <details>
-  <summary><h2>2020</h2></summary>
+  <summary><b>2020</b></summary>
 <br>
 <!--   Need this line empty to go back to markdown, if thats what we want -->
 - Just some text for now
