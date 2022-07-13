@@ -8,10 +8,10 @@ subtitle:
 <details>
   <summary><b>2022</b></summary>
 <br>
-<!--   Need this line empty to go back to markdown, if thats what we want -->
-  
-- Just some text for now
-- Just some text for now
+  <ul>
+  <li>Just some text for now</li>
+  <li>Just some text for now</li>
+  </ul>
 </details>
 
 
@@ -19,10 +19,10 @@ subtitle:
 <details>
   <summary><b>2021</b></summary>
 <br>
-<!--   Need this line empty to go back to markdown, if thats what we want -->
-  
-- Just some text for now
-- Just some text for now
+  <ul>
+  <li>Just some text for now</li>
+  <li>Just some text for now</li>
+  </ul>
 </details>
 
 
@@ -31,21 +31,22 @@ subtitle:
 <details>
   <summary><b>2020</b></summary>
 <br>
-<!--   Need this line empty to go back to markdown, if thats what we want -->
-  
-- Just some text for now
-- Just some text for now
+  <ul>
+  <li>Just some text for now</li>
+  <li>Just some text for now</li>
+  </ul>
 </details>
 
 
 
 <!-- This is for drop-downable headers -->
 <details>
-  <summary><h2>2019</h2></summary>
+  <summary><b>2019</b></summary>
 <br>
-<!--   Need this line empty to go back to markdown, if thats what we want -->
-- Just some text for now
-- Just some text for now
+  <ul>
+  <li>Just some text for now</li>
+  <li>Just some text for now</li>
+  </ul>
 </details>
 
 
