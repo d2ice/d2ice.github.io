@@ -114,8 +114,8 @@ img {
 .gridcontainer {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  grid-gap: 2em;
-  text-align: center;
+  grid-gap: 1em;
+/*   text-align: center; */
 }
 
 /* Google maps style to make responsive */
