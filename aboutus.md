@@ -30,6 +30,8 @@ Our focus is on the following scientific areas of interest:
         </div>
        </div>
       
+      <br>
+      
       <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
         <div style ="text-align: center;">
            <i class="fas fa-bar-chart-o icon_bg icon_square;"></i>
