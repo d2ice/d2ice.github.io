@@ -4,9 +4,10 @@ title: Projects
 subtitle: 
 ---
 
+[Active Work](###active-projects)
+[Completed Work](###completed-Projects)
 
-
-### Confirm
+### Active Projects
 
 
 <div class="container-fluid">
@@ -34,5 +35,5 @@ subtitle:
            </div>     
       </div>
 
-
+### Completed Projects
 
