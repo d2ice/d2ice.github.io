@@ -5,7 +5,7 @@ subtitle:
 ---
 
 [Active Work](#active-projects) |
-[Completed Work](#completed-Projects)
+[Completed Work](#completed-projects)
 
 ### Active Projects
 
