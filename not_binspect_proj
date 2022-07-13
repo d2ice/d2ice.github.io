@@ -8,6 +8,7 @@ subtitle:
 Not Some computer vision themed project of doing stuff. Some info...
 
 Maybe a picture or something. 
+
 <img src="/assets/img/hello_world.jpeg">
 
 
@@ -46,5 +47,6 @@ Maybe a picture or something.
             </div>
           </div>
      
-        </div>
+        </div> 
+    </div>
 </div>
