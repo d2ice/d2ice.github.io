@@ -42,17 +42,19 @@ subtitle:
 <!-- This is for drop-downable headers -->
 <details>
   <summary><b>2019</b></summary>
-<br>
-  <ul>
-  <li>Just some text for now</li>
-  <li>Just some text for now</li>
-  </ul>
+<!-- Need a space between lines to use markdown -->
+ 
+ -Just some text for now
+ -Just some text for now
+
+<!-- Need a space between lines to use markdown --> 
 </details>
  
-<!--Centre the table of links to years -->
-<div align="center">
+
 [2022](#2022) | [2021](#2021) | [2020](#2020) | [2019](#2019)
-</div>
+
+
+
 #### 2022 
 - Just some text for now
 - Just some text for now
