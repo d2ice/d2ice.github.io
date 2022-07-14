@@ -177,6 +177,8 @@ img {
 }
 
 .list-squares-item .item-img {
+  height: 200;
+  width: 200;
   margin: auto;
   display: block;
   margin-left: auto;
