@@ -11,14 +11,15 @@ team:
     url: https://www.google.com/
     github: https://github.com/
     twitter: https://twitter.com/?lang=en
-    - name: Eoin
+    
+  - name: Eoin
     img: /assets/img/thumb.png.jpeg
     desc: PostDoc
     website: https://www.google.com/
     url: https://www.google.com/
     github: https://github.com/
-    twitter: https://twitter.com/?lang=en
-    - name: Dishant
+    twitter: https://twitter.com/?lang=en 
+   - name: Dishant
     img: /assets/img/path.jpg.jpeg
     desc: PostDoc
     website: https://www.google.com/
