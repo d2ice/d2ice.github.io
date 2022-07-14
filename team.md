@@ -25,6 +25,20 @@ team:
     url: https://www.google.com/
     github: https://github.com/
     twitter: https://twitter.com/?lang=en
+  - name: Santa
+    img: /assets/img/hello_world.jpeg
+    desc: Santa 
+    website: https://www.google.com/
+    url: https://www.google.com/
+    github: https://github.com/
+    twitter: https://twitter.com/?lang=en
+  - name: Cathaoir 2 
+    img: /assets/img/path.jpg
+    desc: PhD Student
+    website: https://www.google.com/
+    url: https://www.google.com/
+    github: https://github.com/
+    twitter: https://twitter.com/?lang=en
 ---
 {% include list-squares.html items=page.team %}
 
@@ -167,7 +181,8 @@ team:
             
             
    </div>
-</div> -->
+</div> 
+-->
 
 ### Associated Members
 - [Person 1](https://en.wikipedia.org/wiki/Bruce_Springsteen)
