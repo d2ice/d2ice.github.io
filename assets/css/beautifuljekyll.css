@@ -166,10 +166,10 @@ img {
 
 .list-squares-item {
   display: inline-block;
-  width: 180px;
+  width: 240px;
   vertical-align: top;
   margin: auto;
-  padding: 10px;
+  padding: 20px;
 }
 
 .list-squares-item:hover {
