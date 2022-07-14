@@ -4,6 +4,10 @@ title: Publications
 subtitle: 
 ---
 
+
+{% bibliography --cited --file publications/publications.bib  %}
+
+
 <!-- This is for drop-downable headers -->
 <details>
   <summary><b>2022</b></summary>
