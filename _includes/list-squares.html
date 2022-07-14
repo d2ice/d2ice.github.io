@@ -30,6 +30,12 @@
             <span class="fab fa-twitter"></span>
           </a>
         {% endif %}      
+        {% if item.linkedin %}
+          <a class="item-link" href="{{ item.linkedin }}" title="Linkedin">
+            <span class="fab fa-linkedin"></span>
+          </a>
+        {% endif %}   
+        
       </div>
     </div>
   {% endfor %}
