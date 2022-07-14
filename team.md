@@ -19,7 +19,7 @@ team:
     url: https://www.google.com/
     github: https://github.com/
     twitter: https://twitter.com/?lang=en 
-   - name: Dishant
+  - name: Dishant
     img: /assets/img/path.jpg.jpeg
     desc: PostDoc
     website: https://www.google.com/
