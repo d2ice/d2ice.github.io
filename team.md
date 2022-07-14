@@ -4,13 +4,13 @@ title: Team
 <!-- subtitle:  -->
 
 team:
-  - name: Prof. Dr. Patricia Lago
-    img: /img/people/patricia.jpeg
-    desc: Head of the S2 Group
-    website: http://patricialago.nl/
-    url: http://patricialago.nl/
-    github: https://github.com/lagopat/
-    twitter: https://twitter.com/patricia_lago
+  - name: Cathaoir 4
+    img: assets/img/hello_world.jpeg
+    desc: PhD Student
+    website: https://www.google.com/
+    url: https://www.google.com/
+    github: https://www.google.com/
+    twitter: https://www.google.com/
 ---
 {% include list-squares.html items=page.team %}
 
