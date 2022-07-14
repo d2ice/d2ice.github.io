@@ -80,6 +80,8 @@ Our **focus** is on the following scientific areas of interest:
 <br />
 </div>
 
+<!-- Line break for some space between icons and text -->
+<br>
 
 #### Application Areas 
 - Medical
