@@ -12,6 +12,8 @@ team:
     github: https://github.com/lagopat/
     twitter: https://twitter.com/patricia_lago
 ---
+{% include list-squares.html items=page.team %}
+
 
 <div class="container-fluid">
    
