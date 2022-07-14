@@ -3,6 +3,7 @@ layout: page
 title: Not Binspect Project
 subtitle: 
 
+# Some intros and nice things
 Not Some computer vision themed project of doing stuff. Some info...
 
 Maybe a picture or something. 
@@ -20,11 +21,10 @@ team:
     github: https://github.com/
     twitter: https://twitter.com/?lang=en
     linkedin: https://ie.linkedin.com/
-
 ---
+{% include list-squares.html items=page.team %}
 
-
-Not Some computer vision themed project of doing stuff. Some info...
+<!-- Not Some computer vision themed project of doing stuff. Some info...
 
 Maybe a picture or something. 
 
@@ -83,3 +83,4 @@ team:
         </div>
 </div>
 
+ -->
