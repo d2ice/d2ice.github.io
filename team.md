@@ -11,6 +11,7 @@ team:
     url: https://www.google.com/
     github: https://github.com/
     twitter: https://twitter.com/?lang=en
+    linkedin: https://ie.linkedin.com/
   - name: Eoin
     img: /assets/img/thumb.png
     desc: PostDoc
