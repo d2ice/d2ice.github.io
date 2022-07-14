@@ -14,6 +14,19 @@ Maybe a picture or something.
 #### Team Members 
 
 
+---
+team:
+  - name: Cathaoir 4
+    img: /assets/img/hello_world.jpeg
+    desc: PhD Student
+    website: https://www.google.com/
+    url: https://www.google.com/
+    github: https://github.com/
+    twitter: https://twitter.com/?lang=en
+    linkedin: https://ie.linkedin.com/
+---
+{% include list-squares.html items=page.team %}
+
 <div class="container-fluid">
    
    <div class="row" >
