@@ -105,11 +105,6 @@ img {
 
 /* Cathaoir */
 
-/* Team photo style */
-.team {
-  border-radius: 80%;
-}
-
 /* Distance between icons on aboutus */
 .icon_bg {
   font-size: 2em !important;
@@ -166,7 +161,9 @@ img {
 
 .list-squares-item {
   display: inline-block;
+  height: 240px;
   width: 240px;
+  vertical-align: top;
   vertical-align: top;
 /*   margin: auto; */
   padding: 20px;
