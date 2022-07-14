@@ -17,7 +17,7 @@ team:
 
 ---
 {% include list-squares.html items=page.team %}
----
+
 
 <!-- 
 ### Active Projects
