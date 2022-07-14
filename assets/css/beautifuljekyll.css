@@ -166,6 +166,7 @@ img {
 
 .list-squares-item {
   display: inline-block;
+  height: 220px;
   width: 180px;
   vertical-align: top;
   margin: auto;
@@ -177,8 +178,8 @@ img {
 }
 
 .list-squares-item .item-img {
-  height: 200;
-  width: 200;
+  height: 200px;
+  width: 200px;
   margin: auto;
   display: block;
   margin-left: auto;
