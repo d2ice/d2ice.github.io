@@ -48,10 +48,11 @@ subtitle:
   <li>Just some text for now</li>
   </ul>
 </details>
-
-
+ 
+<!--Centre the table of links to years -->
+<div align="center">
 [2022](#2022) | [2021](#2021) | [2020](#2020) | [2019](#2019)
-
+</div>
 #### 2022 
 - Just some text for now
 - Just some text for now
