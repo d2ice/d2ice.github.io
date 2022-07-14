@@ -1,6 +1,7 @@
 ---
-layout: publications
+layout: page
 title: ye
+
 publications:
   - title: "Building and evaluating a theory of architectural technical debt in software-intensive systems"
     authors: Roberto Verdecchia and Philippe Kruchten and Patricia Lago and Ivano Malavolta
@@ -10,5 +11,6 @@ publications:
     url: http://www.ivanomalavolta.com/files/papers/JSS_2021.pdf
     year: 2021
 ---
+{% include publications_1.html items=page.team %}
 
 Hello world
