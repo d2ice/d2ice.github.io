@@ -11,7 +11,6 @@ team:
     url: https://www.google.com/
     github: https://github.com/
     twitter: https://twitter.com/?lang=en
-    
   - name: Eoin
     img: /assets/img/thumb.png.jpeg
     desc: PostDoc
@@ -29,7 +28,7 @@ team:
 ---
 {% include list-squares.html items=page.team %}
 
-
+<!-- 
 <div class="container-fluid">
    
    <div class="row" >
@@ -168,7 +167,7 @@ team:
             
             
    </div>
-</div>
+</div> -->
 
 ### Associated Members
 - [Person 1](https://en.wikipedia.org/wiki/Bruce_Springsteen)
