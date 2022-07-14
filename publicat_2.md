@@ -1,6 +1,6 @@
 ---
 layout: publications
-title: Publications
+title: ye
 publications:
   - title: "Building and evaluating a theory of architectural technical debt in software-intensive systems"
     authors: Roberto Verdecchia and Philippe Kruchten and Patricia Lago and Ivano Malavolta
