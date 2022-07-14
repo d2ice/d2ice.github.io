@@ -9,8 +9,23 @@ team:
     desc: PhD Student
     website: https://www.google.com/
     url: https://www.google.com/
-    github: https://www.google.com/
-    twitter: https://www.google.com/
+    github: https://github.com/
+    twitter: https://twitter.com/?lang=en
+    
+    - name: Eoin
+    img: /assets/img/thumb.png.jpeg
+    desc: PostDoc
+    website: https://www.google.com/
+    url: https://www.google.com/
+    github: https://github.com/
+    twitter: https://twitter.com/?lang=en
+    - name: Dishant
+    img: /assets/img/path.jpg.jpeg
+    desc: PostDoc
+    website: https://www.google.com/
+    url: https://www.google.com/
+    github: https://github.com/
+    twitter: https://twitter.com/?lang=en
 ---
 {% include list-squares.html items=page.team %}
 
