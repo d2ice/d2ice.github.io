@@ -5,7 +5,7 @@ title: Team
 
 team:
   - name: Cathaoir 4
-    img: assets/img/hello_world.jpeg
+    img: /assets/img/hello_world.jpeg
     desc: PhD Student
     website: https://www.google.com/
     url: https://www.google.com/
