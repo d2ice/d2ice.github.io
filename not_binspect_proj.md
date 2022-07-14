@@ -22,7 +22,7 @@ team:
     twitter: https://twitter.com/?lang=en
     linkedin: https://ie.linkedin.com/
 ---
-{% include list-squares.html items=page.team %}
+{% include list-squares.html items=page.not_binspect_proj %}
 
 <!-- Not Some computer vision themed project of doing stuff. Some info...
 
