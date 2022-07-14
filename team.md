@@ -21,7 +21,7 @@ team:
     twitter: https://twitter.com/?lang=en 
   - name: Dishant
     img: /assets/img/path.jpg
-    desc: PostDoc
+    desc: PhD Student
     website: https://www.google.com/
     url: https://www.google.com/
     github: https://github.com/
