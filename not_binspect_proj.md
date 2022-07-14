@@ -15,6 +15,8 @@ Maybe a picture or something.
 
 
 ---
+layout: page
+
 team:
   - name: Cathaoir 4
     img: /assets/img/hello_world.jpeg
