@@ -2,6 +2,25 @@
 layout: page
 title: Not Binspect Project
 subtitle: 
+
+Not Some computer vision themed project of doing stuff. Some info...
+
+Maybe a picture or something. 
+
+<img src="/assets/img/hello_world.jpeg">
+
+#### Team Members 
+
+team:
+  - name: Cathaoir 4
+    img: /assets/img/hello_world.jpeg
+    desc: PhD Student
+    website: https://www.google.com/
+    url: https://www.google.com/
+    github: https://github.com/
+    twitter: https://twitter.com/?lang=en
+    linkedin: https://ie.linkedin.com/
+
 ---
 
 
