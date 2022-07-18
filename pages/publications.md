@@ -20,8 +20,8 @@ subtitle:
 <details>
   <summary><b>2021</b></summary>
 
- - Just some text for now</li>
- - Just some text for now</li>
+ - Just some text for now
+ - Just some text for now
 </details>
 
 
