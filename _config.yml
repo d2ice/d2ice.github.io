@@ -16,10 +16,10 @@ author: Dr. Eoin Martino Grua
 navbar-links:
   About Us: "/pages/aboutus"
   Our Research:
-    - Projects: "projects"
-    - Publications: "publications"
-  Contact: "contactus"
-  Team: 'team'
+    - Projects: "/pages/projects"
+    - Publications: "/pages/publications"
+  Contact: "/pages/contactus"
+  Team: '/pages/team'
 
 # --- Logo --- #
 
