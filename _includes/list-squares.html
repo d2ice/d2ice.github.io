@@ -36,6 +36,12 @@
           </a>
         {% endif %}   
         
+         {% if item.google-scholar %}
+          <a class="item-link" href="{{ item.google-scholar }}" title="Google Scholar">
+            <span class="fab fa-google-scholar"></span>
+          </a>
+        {% endif %}   
+        
       </div>
     </div>
   {% endfor %}
