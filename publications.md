@@ -5,9 +5,6 @@ subtitle:
 ---
 
 
-{% bibliography --cited --file publications/publications.bib  %}
-
-
 <!--  2022 Header -->
 <!-- This is for drop-downable headers -->
 <details>
