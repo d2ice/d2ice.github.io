@@ -14,7 +14,7 @@ author: Dr. Eoin Martino Grua
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Us: "aboutus"
+  About Us: "/pages/aboutus"
   Our Research:
     - Projects: "projects"
     - Publications: "publications"
