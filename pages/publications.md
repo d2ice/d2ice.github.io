@@ -15,15 +15,13 @@ subtitle:
 - [Sun, Xudong, Pengcheng Wu, and Steven CH Hoi. "Face detection using deep learning: An improved faster RCNN approach." Neurocomputing 299 (2018): 42-50](https://openaccess.thecvf.com/content_ECCV_2018/html/Bowen_Cheng_Revisiting_RCNN_On_ECCV_2018_paper.html)
 </details>
 
-
+<!--  2021 Header -->
 <!-- This is for drop-downable headers -->
 <details>
   <summary><b>2021</b></summary>
-<br>
-  <ul>
-  <li>Just some text for now</li>
-  <li>Just some text for now</li>
-  </ul>
+
+ - Just some text for now</li>
+ - Just some text for now</li>
 </details>
 
 
