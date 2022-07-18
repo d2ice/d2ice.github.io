@@ -19,6 +19,7 @@ team:
     url: https://www.google.com/
     github: https://github.com/
     twitter: https://twitter.com/?lang=en 
+    google-scholar: https://www.google.com/
   - name: Dishant
     img: /assets/img/path.jpg
     desc: PhD Student
