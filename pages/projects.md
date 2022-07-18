@@ -7,7 +7,7 @@ team:
   - name: Binspect
     img: /assets/img/hello_world.jpeg
     desc: Use of CV to do things
-    website: https://ulbinspect.github.io/binspect_proj/
+    website: https://ulbinspect.github.io/pages/binspect_proj/
     url: https://ulbinspect.github.io/binspect_proj/
   - name: Not Binspect
     img: /assets/img/thumb.png
