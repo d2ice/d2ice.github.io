@@ -24,5 +24,10 @@ team:
     desc: Not the Use of CV to do things
     website: https://ulbinspect.github.io/not_binspect_proj/
     url: https://ulbinspect.github.io/not_binspect_proj/
+  - name: Not Binspect 4
+    img: /assets/img/thumb.png
+    desc: Not the Use of CV to do things
+    website: https://ulbinspect.github.io/not_binspect_proj/
+    url: https://ulbinspect.github.io/not_binspect_proj/
 ---
 {% include list-squares.html items=page.team %}
