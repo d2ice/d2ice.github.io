@@ -4,29 +4,19 @@ title: Projects
 subtitle: 
 
 team:
-  - name: Binspect
-    img: /assets/img/hello_world.jpeg
-    desc: Use of CV to do things
+  - name: Circular Economy
+    img: /assets/img/circle_ego.jpg
+    desc: Projects under the Circular Economy domain
     website: https://ulbinspect.github.io/pages/binspect_proj/
     url: https://ulbinspect.github.io/pages/binspect_proj/
-  - name: Not Binspect
-    img: /assets/img/thumb.png
-    desc: Not the Use of CV to do things
+  - name: Automotive
+    img: /assets/img/motor.png
+    desc: Projects under the Automotive domain
     website: https://ulbinspect.github.io/pages/not_binspect_proj/
     url: https://ulbinspect.github.io/pages/not_binspect_proj/
-  - name: Not Binspect 2
+  - name: Medical 
     img: /assets/img/thumb.png
-    desc: Not the Use of CV to do things
-    website: https://ulbinspect.github.io/pages/not_binspect_proj/
-    url: https://ulbinspect.github.io/pages/not_binspect_proj/
-  - name: Not Binspect 3
-    img: /assets/img/thumb.png
-    desc: Not the Use of CV to do things
-    website: https://ulbinspect.github.io/pages/not_binspect_proj/
-    url: https://ulbinspect.github.io/pages/not_binspect_proj/
-  - name: Not Binspect 4
-    img: /assets/img/thumb.png
-    desc: Not the Use of CV to do things
+    desc: Projects under the Medical domain
     website: https://ulbinspect.github.io/pages/not_binspect_proj/
     url: https://ulbinspect.github.io/pages/not_binspect_proj/
 ---
