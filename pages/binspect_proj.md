@@ -179,11 +179,11 @@ The improvement of the quality of recyclables is a key foundation of the Circula
       
       <div class="list-squares">
                  
-      
+   
                  <!-- Creating a Team Member -->
         
                   <div class="list-squares-item">
-                     <a href="https://confirm.ie/"><img src="/assets/img/confirm_logo.png" , width="300" , height="200""></a>
+                     <a href="https://confirm.ie/"><img src="/assets/img/confirm_logo.png"></a>
                      <h4>Confirm</h4>
                   </div>
                         
