@@ -5,14 +5,11 @@ subtitle:
 ---
 
 # Project Description
-The focus of the project is to investigate the application of Computer Vision to aid in the detection of exceptions recorded on collection rounds for bin trucks. 
-
-### Main Goals
-- Detection of contamination of collected recyclable material as it enters the bin hopper using computer vision
-- Detection of overfilled bins/containers during the collection route using computer vision  
+The focus of the project is to investigate the application of Computer Vision to aid in the detection of exceptions recorded on collection rounds for bin trucks, such as contamination of collected recyclable material along with overfilled bins. 
 
 
-<!-- <img src="/assets/img/hello_world.jpeg"> -->
+
+<img src="/assets/img/binspect_placeholder.png" class="center">
 
 
 ## Partners of Project
