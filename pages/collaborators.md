@@ -3,7 +3,7 @@ layout: page
 title: Collaborators
 <!-- subtitle:  -->
 
-Collaborators:
+team:
   - name: AMCS
     img: /assets/img/hello_world.jpeg
     desc: PhD Student
