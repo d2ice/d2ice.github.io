@@ -23,7 +23,7 @@ The improvement of the quality of recyclables is a key foundation of the Circula
    
    <div class="row">
             
-       <div class=" col-xl-10 offset-xl-1 col-lg-10 offset-lg-1 col-xxl-10 offset-xxl-1 ">
+<!--        <div class=" col-xl-10 offset-xl-1 col-lg-10 offset-lg-1 col-xxl-10 offset-xxl-1 "> -->
       <!-- Control the column width, and how they should appear on different devices -->
       
       
