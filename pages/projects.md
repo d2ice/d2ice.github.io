@@ -12,8 +12,8 @@ team:
   - name: Automotive
     img: /assets/img/motor.jpg
     desc: Projects under the Automotive domain
-    website: https://ulbinspect.github.io/pages/not_binspect_proj/
-    url: https://ulbinspect.github.io/pages/not_binspect_proj/
+    website: https://ulbinspect.github.io/pages/automotive_domain/
+    url: https://ulbinspect.github.io/pages/automotive_domain/
   - name: Medical 
     img: /assets/img/health_care.png
     desc: Projects under the Medical domain
