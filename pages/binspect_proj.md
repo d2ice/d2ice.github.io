@@ -10,11 +10,8 @@ The focus of the project is to investigate the application of Computer Vision to
 
 
 <img src="/assets/img/binspect_placeholder.png" class="center">
+<img src="/assets/img/binspect_placeholder_2.png" class="center">
 
-
-## Partners of Project
-- [Confirm](https://confirm.ie/)
-- [AMCS](https://www.amcsgroup.com/)
 
 #### Team Members 
 
@@ -52,3 +49,8 @@ The focus of the project is to investigate the application of Computer Vision to
      
         </div>
 </div>
+
+
+## Partners of Project
+- [Confirm](https://confirm.ie/)
+- [AMCS](https://www.amcsgroup.com/)
