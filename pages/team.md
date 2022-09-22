@@ -21,10 +21,6 @@ team:
     twitter: https://twitter.com/?lang=en 
     google-scholar: https://www.google.com/
     linkedin: https://ie.linkedin.com/
-    linkedin: https://ie.linkedin.com/
-    linkedin: https://ie.linkedin.com/
-    linkedin: https://ie.linkedin.com/
-    linkedin: https://ie.linkedin.com/
   - name: Dishant
     img: /assets/img/path.jpg
     desc: PhD Student
