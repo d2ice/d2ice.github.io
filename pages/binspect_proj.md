@@ -169,8 +169,8 @@ The improvement of the quality of recyclables is a key foundation of the Circula
 
 
 ### Partners of Project
-- [Confirm](https://confirm.ie/)
-- [AMCS](https://www.amcsgroup.com/)
+<!-- - [Confirm](https://confirm.ie/)
+- [AMCS](https://www.amcsgroup.com/) -->
 
 
 <div class="container-fluid">
