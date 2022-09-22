@@ -173,4 +173,23 @@ The improvement of the quality of recyclables is a key foundation of the Circula
 - [AMCS](https://www.amcsgroup.com/)
 
 
+<div class="container-fluid">
+   
+   <div class="row">
+      
+      <div class="list-squares">
+                 
+      
+                 <!-- Creating a Team Member -->
+        
+                  <div class="list-squares-item">
+                     <a href="https://www.w3schools.com/html/html_links.asp"><img src="/assets/img/hello_world.jpeg" class="item-img"></a>
+                     <h4>Confirm</h4>
+    
+                  </div>
+                  
+      </div>
+  </div>
+</div>
+
 **Status:** Ongoing
