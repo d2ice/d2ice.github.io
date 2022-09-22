@@ -183,9 +183,14 @@ The improvement of the quality of recyclables is a key foundation of the Circula
                  <!-- Creating a Team Member -->
         
                   <div class="list-squares-item">
-                     <a href="https://confirm.ie/"><img src="/assets/img/confirm_logo.png" class="item-img"></a>
+                     <a href="https://confirm.ie/"><img src="/assets/img/confirm_logo.png" width="300" height="200""></a>
                      <h4>Confirm</h4>
-    
+                  </div>
+                        
+                  <!-- Creating a Team Member -->
+                  <div class="list-squares-item">
+                     <a href="https://confirm.ie/"><img src="/assets/img/confirm_logo.png" width="300" height="200""></a>
+                     <h4>Confirm</h4>
                   </div>
                   
       </div>
