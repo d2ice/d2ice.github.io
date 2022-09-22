@@ -32,7 +32,7 @@ The improvement of the quality of recyclables is a key foundation of the Circula
                      <h4>Cathaoir Agnew</h4>
                      <div class="item-desc">PhD Student</div>
 
-                     !-- Ceating Team Member socials, all may not be relevant -->
+                     <!-- Ceating Team Member socials, all may not be relevant -->
                      <div class="item-links">
                      <a class="item-link" href="https://www.w3schools.com/html/html_links.asp" title="Website">
                         <span class="fa fa-home"></span>
@@ -53,7 +53,7 @@ The improvement of the quality of recyclables is a key foundation of the Circula
                <h4>Dishant</h4>
                <div class="item-desc">PhD Student</div>
 
-               !-- Ceating Team Member socials, all may not be relevant -->
+               <!-- Ceating Team Member socials, all may not be relevant -->
                <div class="item-links">
                <a class="item-link" href="https://www.w3schools.com/html/html_links.asp" title="Website">
                   <span class="fa fa-home"></span>
@@ -74,7 +74,7 @@ The improvement of the quality of recyclables is a key foundation of the Circula
                <h4>Eoin</h4>
                <div class="item-desc">PhD Student</div>
 
-               !-- Ceating Team Member socials, all may not be relevant -->
+               <!-- Ceating Team Member socials, all may not be relevant -->
                <div class="item-links">
                <a class="item-link" href="https://www.w3schools.com/html/html_links.asp" title="Website">
                   <span class="fa fa-home"></span>
@@ -95,7 +95,7 @@ The improvement of the quality of recyclables is a key foundation of the Circula
                <h4>Pep</h4>
                <div class="item-desc">PhD Student</div>
 
-               !-- Ceating Team Member socials, all may not be relevant -->
+               <!-- Ceating Team Member socials, all may not be relevant -->
                <div class="item-links">
                <a class="item-link" href="https://www.w3schools.com/html/html_links.asp" title="Website">
                   <span class="fa fa-home"></span>
@@ -117,7 +117,7 @@ The improvement of the quality of recyclables is a key foundation of the Circula
                <h4>Ciaran</h4>
                <div class="item-desc">PhD Student</div>
 
-               !-- Ceating Team Member socials, all may not be relevant -->
+               <!-- Ceating Team Member socials, all may not be relevant -->
                <div class="item-links">
                <a class="item-link" href="https://www.w3schools.com/html/html_links.asp" title="Website">
                   <span class="fa fa-home"></span>
@@ -139,7 +139,7 @@ The improvement of the quality of recyclables is a key foundation of the Circula
                <h4>Patrick</h4>
                <div class="item-desc">PhD Student</div>
 
-               !-- Ceating Team Member socials, all may not be relevant -->
+               <!-- Ceating Team Member socials, all may not be relevant -->
                <div class="item-links">
                <a class="item-link" href="https://www.w3schools.com/html/html_links.asp" title="Website">
                   <span class="fa fa-home"></span>
@@ -160,7 +160,7 @@ The improvement of the quality of recyclables is a key foundation of the Circula
                <h4>Tony</h4>
                <div class="item-desc">PhD Student</div>
 
-               !-- Ceating Team Member socials, all may not be relevant -->
+               <!-- Ceating Team Member socials, all may not be relevant -->
                <div class="item-links">
                <a class="item-link" href="https://www.w3schools.com/html/html_links.asp" title="Website">
                   <span class="fa fa-home"></span>
@@ -173,7 +173,7 @@ The improvement of the quality of recyclables is a key foundation of the Circula
             </div>
          </div>      
   
-      </div>
+      
       </div>
 </div>
 
