@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Not Binspect Project
+title: Self Driving Car 
 subtitle: 
 ---
 
-Not Some computer vision themed project of doing stuff. Some info...
+Computer vision themed project of doing stuff. Some info...
 
 Maybe a picture or something. 
 
