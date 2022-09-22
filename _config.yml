@@ -19,6 +19,7 @@ navbar-links:
     - Projects: "/pages/projects"
     - Publications: "/pages/publications"
   Contact: "/pages/contactus"
+  Collaborators: "/pages/collaborators"
   Team: '/pages/team'
 
 # --- Logo --- #
@@ -33,6 +34,24 @@ round-avatar: true
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
 #title-img: /path/to/image
+
+
+# Personalize the colors in your website. Colour values can be any valid CSS colour
+
+#00FF00
+
+navbar-col: "#000000"
+navbar-text-col: "#00FF00"
+navbar-children-col: "#000000"
+navbar-border-col: "#00FF00"
+page-col: "#000000"
+text-col: "#FFFFFF"
+link-col: "#00FF00"
+hover-col: "#00FF00"
+footer-col: "#000000"
+footer-text-col: "#FFFFFF"
+footer-link-col: "#00FF00"
+footer-border-col: "#00FF00"
 
 
 # --- Footer social media links --- #
