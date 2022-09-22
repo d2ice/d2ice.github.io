@@ -4,9 +4,12 @@ title: Binspect Project
 subtitle: 
 ---
 
-# Project Description
-The focus of the project is to investigate the application of Computer Vision to aid in the detection of exceptions recorded on collection rounds for bin trucks, such as contamination of collected recyclable material along with overfilled bins. 
+### Project Description
+The focus of the project is to investigate the application of key-enabling technologies frequently used in smart manufacturing environments such as Artificial Intelligence, Machine Learning and Computer Vision to fully automate the recording and resolution of exceptions recorded on collection rounds like contamination of collected recyclable material and other service items (e.g. overloaded containers)
 
+
+### Project Motivation
+The improvement of the quality of recyclables is a key foundation of the Circular Economy and one of the research objectives is to automate at scale, the identification, tracking and resolution of contaminated material close to the point of collection.
 
 
 <img src="/assets/img/binspect_placeholder.png" class="center">
@@ -19,35 +22,31 @@ The focus of the project is to investigate the application of Computer Vision to
 <div class="container-fluid">
    
    <div class="row" >
+      
+      
          
-         <!-- Creating a Team Member -->
-         <div class="list-squares">
-            <div class="list-squares-item">
-               <a href="https://www.google.com/"><img src="/assets/img/hello_world.jpeg" class="item-img"></a>
-               <h4>Cathaoir</h4>
-               <div class="item-desc">PhD Student</div>
-              
-                 
-            <!-- Ceating Team Member socials, all may not be relevant -->
-               <div class="item-links">
-                   <a class="item-link" href="http://google.ie/" title="Website">
-                     <span class="fa fa-home"></span></a>
-                   <a class="item-link" href="https://github.com/ULBInspect/ULBInspect.github.io" title="GitHub">
-                     <span class="fab fa-github"></span>
-                   </a>
-                   <a class="item-link" href="https://twitter.com/?lang=en" title="Twitter">
-                     <span class="fab fa-twitter"></span>
-                   </a>
-                   <a class="item-link" href="https://ie.linkedin.com/" title="LinkedIn">
-                     <span class="fab fa-linkedin"></span>
-                   </a>
-                  
-                  
-              </div>
-            </div>
-          </div>
-     
-        </div>
+                <!-- Creating a Team Member -->
+               <div class="list-squares">
+                  <div class="list-squares-item">
+                     <a href="https://www.w3schools.com/html/html_links.asp"><img src="/assets/img/hello_world.jpeg" class="item-img"></a>
+                     <h4>Cathaoir Agnew</h4>
+                     <div class="item-desc">PhD Student</div>
+
+                     !-- Ceating Team Member socials, all may not be relevant -->
+                     <div class="item-links">
+                     <a class="item-link" href="https://www.w3schools.com/html/html_links.asp" title="Website">
+                        <span class="fa fa-home"></span>
+                     </a>
+
+                     <a class="item-link" href="https://www.w3schools.com/html/html_links.asp" title="LinkedIn">
+                        <span class="fab fa-linkedin"></span>
+                     </a>
+                     </div>
+                  </div>
+               </div>
+      
+      
+      </div>
 </div>
 
 
