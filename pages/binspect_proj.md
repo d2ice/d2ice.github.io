@@ -4,12 +4,20 @@ title: Binspect Project
 subtitle: 
 ---
 
-Some computer vision themed project of doing stuff under Confirm. Some info...
+# Project Description
+The focus of the project is to investigate the application of Computer Vision to aid in the detection of exceptions recorded on collection rounds for bin trucks. 
 
-Maybe a picture or something. 
+### Main Goals
+- Detection of contamination of collected recyclable material as it enters the bin hopper using computer vision
+- Detection of overfilled bins/containers during the collection route using computer vision  
 
-<img src="/assets/img/hello_world.jpeg">
 
+<!-- <img src="/assets/img/hello_world.jpeg"> -->
+
+
+## Partners of Project
+- [Confirm](https://confirm.ie/)
+- [AMCS](https://www.amcsgroup.com/)
 
 #### Team Members 
 
@@ -17,9 +25,6 @@ Maybe a picture or something.
 <div class="container-fluid">
    
    <div class="row" >
-      <!-- Not needed it seems -->
-      <!--  <div class=" col-xl-10 offset-xl-1 col-lg-10 offset-lg-1 col-xxl-10 offset-xxl-1 "> -->
-      <!-- Control the column width, and how they should appear on different devices -->
          
          <!-- Creating a Team Member -->
          <div class="list-squares">
@@ -28,7 +33,7 @@ Maybe a picture or something.
                <h4>Cathaoir</h4>
                <div class="item-desc">PhD Student</div>
               
-                  
+                 
             <!-- Ceating Team Member socials, all may not be relevant -->
                <div class="item-links">
                    <a class="item-link" href="http://google.ie/" title="Website">
@@ -42,7 +47,9 @@ Maybe a picture or something.
                    <a class="item-link" href="https://ie.linkedin.com/" title="LinkedIn">
                      <span class="fab fa-linkedin"></span>
                    </a>
-                </div>
+                  
+                  
+              </div>
             </div>
           </div>
      
