@@ -5,20 +5,12 @@ title: Collaborators
 
 team:
   - name: AMCS
-    img: /assets/img/hello_world.jpeg
-    desc: PhD Student
-    website: https://www.google.com/
-    url: https://www.google.com/
-    github: https://github.com/
-    twitter: https://twitter.com/?lang=en
-    linkedin: https://ie.linkedin.com/
+    img: /assets/img/amcs_logo.png
+    website: https://www.amcsgroup.com/
+    url:https://www.amcsgroup.com/
   - name: Provizio
-    img: /assets/img/thumb.png
-    desc: PostDoc
-    website: https://www.google.com/
-    url: https://www.google.com/
-    github: https://github.com/
-    twitter: https://twitter.com/?lang=en 
-    google-scholar: https://www.google.com/
+    img: /assets/img/provizio_logo.png
+    website: https://www.provizio.ai/
+    url: https://www.provizio.ai/
 ---
 {% include list-squares.html items=page.team %}
