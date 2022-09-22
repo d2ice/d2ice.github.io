@@ -182,14 +182,14 @@ The improvement of the quality of recyclables is a key foundation of the Circula
    
                  <!-- Creating a Partner -->
                   <div class="list-squares-item">
-                     <a href="https://confirm.ie/"><img src="/assets/img/confirm_logo.png"></a>
+                     <a href="https://confirm.ie/"><img src="/assets/img/confirm_logo.png" width="200" height ="100"></a>
                      <h4>Confirm</h4>
                   </div>
          
                  <!-- Creating a Partner -->
                   <div class="list-squares-item">
-                     <a href="https://confirm.ie/"><img src="/assets/img/confirm_logo.png" ></a>
-                     <h4>Confirm</h4>
+                     <a href="https://www.amcsgroup.com/"><img src="/assets/img/amcs_logo.png" width="200" height ="100" ></a>
+                     <h4>AMCS</h4>
                   </div>
                         
                   
