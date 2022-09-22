@@ -46,11 +46,10 @@ The improvement of the quality of recyclables is a key foundation of the Circula
                      </a>
                      </div>
                   </div>
-               </div>
+ 
       
       
                <!-- Creating a Team Member -->
-         <div class="list-squares">
             <div class="list-squares-item">
                <a href="https://www.w3schools.com/html/html_links.asp"><img src="/assets/img/hello_world.jpeg" class="item-img"></a>
                <h4>Dishant</h4>
@@ -67,11 +66,10 @@ The improvement of the quality of recyclables is a key foundation of the Circula
                </a>
                </div>
             </div>
-         </div>
+
       
       
                <!-- Creating a Team Member -->
-         <div class="list-squares">
             <div class="list-squares-item">
                <a href="https://www.w3schools.com/html/html_links.asp"><img src="/assets/img/hello_world.jpeg" class="item-img"></a>
                <h4>Eoin</h4>
@@ -88,11 +86,9 @@ The improvement of the quality of recyclables is a key foundation of the Circula
                </a>
                </div>
             </div>
-         </div>
       
       
                <!-- Creating a Team Member -->
-         <div class="list-squares">
             <div class="list-squares-item">
                <a href="https://www.w3schools.com/html/html_links.asp"><img src="/assets/img/hello_world.jpeg" class="item-img"></a>
                <h4>Pep</h4>
@@ -109,12 +105,11 @@ The improvement of the quality of recyclables is a key foundation of the Circula
                </a>
                </div>
             </div>
-         </div>
+
       
-      
+    
       
                <!-- Creating a Team Member -->
-         <div class="list-squares">
             <div class="list-squares-item">
                <a href="https://www.w3schools.com/html/html_links.asp"><img src="/assets/img/hello_world.jpeg" class="item-img"></a>
                <h4>Ciaran</h4>
@@ -131,12 +126,11 @@ The improvement of the quality of recyclables is a key foundation of the Circula
                </a>
                </div>
             </div>
-         </div>
+
       
 
       
                <!-- Creating a Team Member -->
-         <div class="list-squares">
             <div class="list-squares-item">
                <a href="https://www.w3schools.com/html/html_links.asp"><img src="/assets/img/hello_world.jpeg" class="item-img"></a>
                <h4>Patrick</h4>
@@ -153,11 +147,9 @@ The improvement of the quality of recyclables is a key foundation of the Circula
                </a>
                </div>
             </div>
-         </div>
       
       
          <!-- Creating a Team Member -->
-         <div class="list-squares">
             <div class="list-squares-item">
                <a href="https://www.w3schools.com/html/html_links.asp"><img src="/assets/img/hello_world.jpeg" class="item-img"></a>
                <h4>Tony</h4>
@@ -174,9 +166,8 @@ The improvement of the quality of recyclables is a key foundation of the Circula
                </a>
                </div>
             </div>
-         </div>      
-  
-          </div>
+     
+
       </div>
 </div>
 
