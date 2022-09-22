@@ -51,6 +51,10 @@ The focus of the project is to investigate the application of Computer Vision to
 </div>
 
 
-## Partners of Project
+### Partners of Project
 - [Confirm](https://confirm.ie/)
 - [AMCS](https://www.amcsgroup.com/)
+
+
+### Status
+Ongoing
