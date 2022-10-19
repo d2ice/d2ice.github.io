@@ -79,6 +79,28 @@ Our current domains of interest and expertise include,
                  <div>GovTech</div>
         </div>
        </div>
+         
+         
+   
+         <!--   Icon using font awesome v 5 -->
+      <div class="col-lg-4 col-md-12 col-xs-12 col-sm-12">
+        <div style ="text-align: center;">
+           <span class="icon_bg icon_square"></span>
+           <i class="fas fa-car" style="font-size:36px;"></i>
+                 <div>Intelligent Industrial Control Theory and its Application</div>
+        </div>
+       </div>
+                  
+                  
+         <!--   Icon using font awesome v 5 -->
+      <div class="col-lg-4 col-md-12 col-xs-12 col-sm-12">
+        <div style ="text-align: center;">
+           <span class="icon_bg icon_square"></span>
+           <i class="fas fa-car" style="font-size:36px;"></i>
+                 <div>Smart Manufacturing and Smart Supply Chains</div>
+        </div>
+       </div>           
+      
       
       
     </div>            
