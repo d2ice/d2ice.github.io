@@ -9,12 +9,6 @@ D2ICE is a collective of experienced academic and industrial technologists activ
 Our focus is on the systematic application and exploration of modern problems with state-of-the-art methods.
 
 Our current domains of interest and expertise include,
--	Connected and Autonomous Vehicles
--	Smart Communities / Cities
--	Agritech and Food
--	Health, Wellbeing & Human Performance
--	FinTech
--	GovTech
 
 
 <!-- Set up icons -->
