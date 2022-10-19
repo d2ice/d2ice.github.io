@@ -20,7 +20,8 @@ Our current domains of interest and expertise include,
 <!-- Set up icons -->
 <div class="container-fluid">
    
-        
+      <div class="row" >     
+   
          <!--   Icon using font awesome v 5 -->
       <div class="col-lg-4 col-md-12 col-xs-12 col-sm-12">
         <div style ="text-align: center;">
