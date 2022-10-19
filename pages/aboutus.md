@@ -8,7 +8,7 @@ D2ICE is a collective of experienced academic and industrial technologists activ
 
 Our focus is on the systematic application and exploration of modern problems with state-of-the-art methods.
 
-Our current domains of interest and expertise include,
+Our current domains of interest and expertise include:
 
 
 <!-- Set up icons -->
@@ -81,7 +81,7 @@ Our current domains of interest and expertise include,
       <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
         <div style ="text-align: center;">
            <span class="icon_bg icon_square"></span>
-           <i class="fas fa-brain" style="font-size:36px;"></i>
+           <img src="/assets/img/arm.png" class="center">
                  <div>Intelligent Industrial Control Theory and its Application</div>
         </div>
        </div>
