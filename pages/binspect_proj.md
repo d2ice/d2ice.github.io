@@ -12,8 +12,8 @@ The focus of the project is to investigate the application of key-enabling techn
 The improvement of the quality of recyclables is a key foundation of the Circular Economy and one of the research objectives is to automate at scale, the identification, tracking and resolution of contaminated material close to the point of collection.
 
 
-<img src="/assets/img/binspect_placeholder.png" class="center">
-<img src="/assets/img/binspect_placeholder_2.png" class="center">
+<img src="/assets/img/ob_Det_place.png" class="center">
+
 
 
 #### Team Members 
