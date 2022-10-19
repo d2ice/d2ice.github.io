@@ -9,14 +9,6 @@ D2ICE is a collective of experienced academic and industrial technologists activ
 Our focus is on the systematic application and exploration of modern problems with state-of-the-art methods.
 
 Our current domains of interest and expertise include,
--	
-
--	
--	
--	GovTech
-
-
-
 
 <!-- Set up icons -->
 <div class="container-fluid">
