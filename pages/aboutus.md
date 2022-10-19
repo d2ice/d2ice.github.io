@@ -16,25 +16,45 @@ Our current domains of interest and expertise include,
    
       <div class="row" >     
    
-         <!--   Icon using font awesome v 5 -->
+<!--          <!--   Icon using font awesome v 5 -->
       <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
         <div style ="text-align: center;">
            <span class="icon_bg icon_square"></span>
            <i class="fas fa-car" style="font-size:36px;"></i>
                  <div>Connected and Autonomous Vehicles</div>
         </div>
+       </div> -->
+         
+                  <!--   Icon using font awesome v 5 -->
+      <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
+        <div style ="text-align: center;">
+           <span class="fas fa-car icon_bg icon_square"></span>
+                 <div>Connected and Autonomous Vehicles</div>
+        </div>
        </div>
+      
       
         
                   
-         <!--   Icon -->
+<!--          <!--   Icon -->
       <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
         <div style ="text-align: center;">
            <span class="icon_bg icon_square"></span>
            <i class="fab fa-connectdevelop" style="font-size:36px;"></i>
                  <div>Smart Communities/Cities</div>
         </div>
+       </div> -->
+         
+           <!--   Icon -->
+      <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
+        <div style ="text-align: center;">
+           <span class="fab fa-connectdevelop icon_bg icon_square"></span>
+                 <div>Smart Communities/Cities</div>
+        </div>
        </div>
+         
+         
+         
       
          <!--   Icon -->
       <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
