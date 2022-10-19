@@ -4,16 +4,22 @@ title: About Us
 subtitle: 
 ---
 
-This may be some text info around UL and then possibly down into who we are within UL, the ECE department.  
+D2ICE is a collective of experienced academic and industrial technologists active in data-driven intelligent computational engineering, concerned with addressing real-world problems using machine learning and artificial intelligence.
 
-<div class="video-container">
-<iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/a3y9r995C5w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-<!-- Add some space between video and text -->
-<br>
+Our current domains of interest and expertise include,
+-	Connected and Autonomous Vehicles
+-	Smart Communities / Cities
+-	Agritech and Food
+-	Health, Wellbeing & Human Performance
+-	FinTech
+-	GovTech
+
+
+Our focus is on the systematic application and exploration of modern problems with state-of-the-art methods.
 
 
 
+<!-- 
 ### Research Focus
 We carry out research in machine learning.
 
@@ -99,3 +105,4 @@ Our **focus** is on the following scientific areas of interest:
 - [Company X](https://www.ul.ie/)
 - [Company Y](https://www.ul.ie/)
 - [Company Z](https://www.ul.ie/)
+ -->
