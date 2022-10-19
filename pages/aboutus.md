@@ -26,7 +26,7 @@ Our current domains of interest and expertise include,
       <div class="col-lg-4 col-md-12 col-xs-12 col-sm-12">
         <div style ="text-align: center;">
            <span class="icon_bg icon_square"></span>
-           <i class="fas fa-cars" style="font-size:36px;"></i>
+           <i class="fas fa-car" style="font-size:36px;"></i>
                  <div>Connected and Autonomous Vehicles</div>
         </div>
        </div>
@@ -62,11 +62,11 @@ Our current domains of interest and expertise include,
       <div class="col-lg-4 col-md-12 col-xs-12 col-sm-12">
         <div style ="text-align: center;">
            <span class="icon_bg icon_square"></span>
-           <i class="fas fa-credit-card-blank" style="font-size:36px;"></i>
+           <i class="fal fa-money-check" style="font-size:36px;"></i>
                  <div>FinTech</div>
         </div>
        </div>
-      
+
       
         <!--   Icon -->
       <div class="col-lg-4 col-md-12 col-xs-12 col-sm-12">
