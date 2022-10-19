@@ -79,7 +79,7 @@ Our current domains of interest and expertise include,
       <div class="col-lg-4 col-md-12 col-xs-12 col-sm-12">
         <div style ="text-align: center;">
            <span class="icon_bg icon_square"></span>
-           <i class="fas fa-car" style="font-size:36px;"></i>
+           <i class="fa-solid fa-brain" style="font-size:36px;"></i>
                  <div>Intelligent Industrial Control Theory and its Application</div>
         </div>
        </div>
