@@ -80,7 +80,7 @@ Our current domains of interest and expertise include:
          <!--   Icon using font awesome v 5 -->
       <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
         <div style ="text-align: center;">
-           <span class="icon_bg icon_square"></span>
+<!--            <span class="icon_bg icon_square"></span> -->
            <img src="/assets/img/arm.png" class="center">
                  <div>Intelligent Industrial Control Theory and its Application</div>
         </div>
