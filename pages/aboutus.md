@@ -35,7 +35,7 @@ Our current domains of interest and expertise include,
            <i class="fab fa-connectdevelop" style="font-size:36px;"></i>
                  <div>Smart Communities/Cities</div>
         </div>
-       </div> -
+       </div> 
            
       
          <!--   Icon -->
