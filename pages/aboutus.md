@@ -31,8 +31,7 @@ Our current domains of interest and expertise include,
       <div class="col-lg-4 col-md-12 col-xs-12 col-sm-12">
         <div style ="text-align: center;">
            <span class="icon_bg icon_square"></span>
-           <i class="fa-thin fa-chart-network"></i>
-<!--            <i class="fas fa-analytics" style="font-size:36px;"></i> -->
+           <i class="fas fa-heartbeat" style="font-size:36px;"></i>
                  <div>Smart Communities/Cities</div>
         </div>
        </div>
