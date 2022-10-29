@@ -42,6 +42,12 @@
           </a>
         {% endif %}   
         
+          {% if item.orcid %}
+          <a class="item-link" href="{{ item.orcid }}" title="Orcid">
+            <span class="fab fa-orcid"></span>
+          </a>
+        {% endif %}   
+        
       </div>
     </div>
   {% endfor %}
