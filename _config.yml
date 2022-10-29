@@ -17,7 +17,6 @@ navbar-links:
   About Us: "/pages/aboutus"
   Our Research:
     - Projects: "/pages/projects"
-    - Publications: "/pages/publications"
   Contact: "/pages/contactus"
   Collaborators: "/pages/collaborators"
   Team: '/pages/team'
