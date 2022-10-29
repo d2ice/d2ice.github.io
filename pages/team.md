@@ -58,6 +58,43 @@ team:
     google-scholar: https://scholar.google.com/citations?user=bD_0tHkAAAAJ&hl=en
     linkedin: https://www.linkedin.com/in/darragh-glavin/
     email: mailto:darragh.glavin@ul.ie
+  - name: Eduardo Maekawa
+    img: /assets/img/hello_world.jpeg
+    desc: PhD Student
+    url: https://www.linkedin.com/in/duducrail/
+    website: https://twitter.com/duducrail
+    github: https://github.com/duducrail
+    google-scholar: https://scholar.google.com/citations?hl=pt-BR&user=wQJU0vkAAAAJ
+    linkedin: https://www.linkedin.com/in/duducrail/
+    email: mailto:eduardo.maekawa@ul.ie
+  - name: Aryan Singh
+    img: /assets/img/hello_world.jpeg
+    desc: PhD Student
+    url: https://www.linkedin.com/in/aryan-singh-902115156/
+    website: https://aryan-at-ul.github.io
+    github: https://github.com/aryan-at-ul
+    linkedin: https://www.linkedin.com/in/aryan-singh-902115156/
+    orcid: https://orcid.org/my-orcid?orcid=0000-0002-7511-0330
+    email: mailto:aryan.singh@ul.ie
+  - name: Sushil Kumar Sharma 
+    img: /assets/img/hello_world.jpeg
+    desc: PhD Student
+    url: https://sushilsharma840.wixsite.com/home-sushil-sharma
+    website: https://sushilsharma840.wixsite.com/home-sushil-sharma
+    github: https://github.com/sharmasushil
+    linkedin: https://www.linkedin.com/in/sushilsharmarobotics/
+    orcid: https://orcid.org/my-orcid?orcid=0000-0002-7511-0330
+    email: mailto:sushil.sharma@ul.ie
+  - name: Kaavya Rekanar 
+    img: /assets/img/hello_world.jpeg
+    desc: PhD Student
+    url: https://www.linkedin.com/in/kaavyarekanar/
+    website: https://www.linkedin.com/in/kaavyarekanar/
+    github: https://github.com/KaavyaRekanar
+    google-scholar: https://scholar.google.com/citations?user=aSD1RAUAAAAJ&hl=en
+    linkedin: https://www.linkedin.com/in/kaavyarekanar/
+    orcid: https://orcid.org/0000-0002-5766-6650
+    email: mailto:kaavya.rekanar@ul.ie
 ---
 {% include list-squares.html items=page.team %}
 
