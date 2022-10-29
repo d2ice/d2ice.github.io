@@ -95,6 +95,49 @@ team:
     linkedin: https://www.linkedin.com/in/kaavyarekanar/
     orcid: https://orcid.org/0000-0002-5766-6650
     email: mailto:kaavya.rekanar@ul.ie
+  - name: Srikanth Tiyyagura 
+    img: /assets/img/hello_world.jpeg
+    desc: PhD Student
+    url: https://www.linkedin.com/in/srikanthtiyyagura/
+    website: https://github.com/sri13
+    github: https://github.com/sri13
+    google-scholar: https://scholar.google.com/citations?hl=en&user=BR9ptiwAAAAJ
+    linkedin: https://www.linkedin.com/in/srikanthtiyyagura/
+    orcid: https://orcid.org/my-orcid?orcid=0000-0002-6802-8531
+    email: mailto:srikanth.tiyyagura@ul.ie
+  - name: Daniel Jakab
+    img: /assets/img/hello_world.jpeg
+    desc: PhD Student
+    url: https://www.linkedin.com/in/daniel-jakab-731321164/
+    website: https://www.linkedin.com/in/daniel-jakab-731321164/
+    github: https://github.com/danieleceUL
+    linkedin: https://www.linkedin.com/in/daniel-jakab-731321164/
+    email: mailto:daniel.jakab@ul.ie
+  - name: Ramchandra Cheke
+    img: /assets/img/hello_world.jpeg
+    desc: PhD Student
+    url: https://ie.linkedin.com/in/ramchandra-cheke
+    website: https://twitter.com/ramchandracheke
+    github: https://github.com/ramchandracheke
+    google-scholar: https://scholar.google.com/citations?user=p-AH8fgAAAAJ&hl=en&oi=sra
+    linkedin: https://ie.linkedin.com/in/ramchandra-cheke
+    email: mailto:ramchandra.cheke@ul.ie
+  - name: Dishant Mewada
+    img: /assets/img/hello_world.jpeg
+    desc: PhD Student
+    url: https://www.linkedin.com/in/dishant-mewada/
+    website: https://www.linkedin.com/in/dishant-mewada/
+    github: https://github.com/DishantMewada
+    linkedin: https://www.linkedin.com/in/dishant-mewada/
+    email: mailto:dishant.mewada@ul.ie
+  - name: Cathaoir Agnew
+    img: /assets/img/hello_world.jpeg
+    desc: PhD Student
+    url: https://ie.linkedin.com/in/cathaoiragnew
+    website: https://ie.linkedin.com/in/cathaoiragnew
+    github: https://github.com/cathaoiragnew
+    linkedin: https://ie.linkedin.com/in/cathaoiragnew
+    email: mailto:cathaoir.agnew@ul.ie
 ---
 {% include list-squares.html items=page.team %}
 
