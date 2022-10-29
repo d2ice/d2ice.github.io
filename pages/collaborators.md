@@ -17,7 +17,7 @@ team:
     img: /assets/img/UHL-Logo.png
     url: https://www.ul.ie/medicine/university-hospital-limerick
   - name: SFI Centre for Research Training in Foundations of Data Science  
-    img: /assets/img/sfi.jpg
+    img: /assets/img/sfi.svg.jpg
     url: https://www.data-science.ie/
   - name: University of São Paulo
     img: /assets/img/USP.png
