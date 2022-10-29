@@ -7,8 +7,8 @@ team:
   - name: Circular Economy
     img: /assets/img/circle_eco.jpg
     desc: Projects under the Circular Economy domain
-    website: https://ulbinspect.github.io/pages/circular_domain/
-    url: https://ulbinspect.github.io/pages/circular_domain/
+    website: https://ulbinspect.github.io/pages/Domains/Circular_Economy/circular_domain/
+    url: https://ulbinspect.github.io/pages/Domains/Circular_Economy/circular_domain/
   - name: Automotive
     img: /assets/img/motor.jpg
     desc: Projects under the Automotive domain
