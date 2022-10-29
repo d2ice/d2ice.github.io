@@ -13,6 +13,7 @@ team:
     google-scholar: https://scholar.google.com/citations?user=N7jLLvIAAAAJ&hl=en
     linkedin: https://www.linkedin.com/in/patrickdenny/
     orcid: https://orcid.org/0000-0001-7494-8513
+    email: patrick.denny@ul.ie
 ---
 {% include list-squares.html items=page.team %}
 
