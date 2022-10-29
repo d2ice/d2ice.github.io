@@ -4,7 +4,7 @@ title: Team
 <!-- subtitle:  -->
 
 team:
-  - name: Patrick Denny
+  - name: Dr. Patrick Denny
     img: /assets/img/hello_world.jpeg
     desc: Lecturer
     website: https://www.linkedin.com/in/patrickdenny/
@@ -14,6 +14,32 @@ team:
     linkedin: https://www.linkedin.com/in/patrickdenny/
     orcid: https://orcid.org/0000-0001-7494-8513
     email: mailto:patrick.denny@ul.ie
+  - name: Dr. Ciarán Eising
+    img: /assets/img/hello_world.jpeg
+    desc: Lecturer
+    website: https://www.linkedin.com/in/ciaraneising/
+    url: https://www.linkedin.com/in/ciaraneising/
+    google-scholar: https://scholar.google.com/citations?user=aH6w8VcAAAAJ&hl=en
+    linkedin: https://www.linkedin.com/in/ciaraneising/
+    orcid: https://orcid.org/0000-0001-8383-2635
+    email: mailto:ciaran.eising@ul.ie
+  - name: Dr. Mark Halton
+    img: /assets/img/hello_world.jpeg
+    desc: Lecturer
+    website: https://www.linkedin.com/in/markkhalton/
+    url: https://www.linkedin.com/in/markkhalton/
+    google-scholar: https://scholar.google.com/citations?user=QnJuRnEAAAAJ&hl=en
+    linkedin: https://www.linkedin.com/in/markkhalton/
+    orcid: https://orcid.org/0000-0003-1421-0386
+    email: mailto:mark.halton@ul.ie
+  - name: Dr. Tony Scanlan
+    img: /assets/img/hello_world.jpeg
+    desc: Senior Research Fellow
+    website: https://www.ul.ie/research/dr-tony-scanlan
+    url: https://ie.linkedin.com/in/tony-scanlan-a4188430
+    linkedin: https://ie.linkedin.com/in/tony-scanlan-a4188430
+    orcid: https://orcid.org/0000-0002-0601-7749
+    email: mailto:tony.scanlan@ul.ie
 ---
 {% include list-squares.html items=page.team %}
 
