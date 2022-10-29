@@ -4,44 +4,15 @@ title: Team
 <!-- subtitle:  -->
 
 team:
-  - name: Cathaoir 4
+  - name: Patrick Denny
     img: /assets/img/hello_world.jpeg
-    desc: PhD Student
-    website: https://www.google.com/
-    url: https://www.google.com/
-    github: https://github.com/
-    twitter: https://twitter.com/?lang=en
-    linkedin: https://ie.linkedin.com/
-  - name: Eoin
-    img: /assets/img/thumb.png
-    desc: PostDoc
-    website: https://www.google.com/
-    url: https://www.google.com/
-    github: https://github.com/
-    twitter: https://twitter.com/?lang=en 
-    google-scholar: https://www.google.com/
-    linkedin: https://ie.linkedin.com/
-  - name: Dishant
-    img: /assets/img/path.jpg
-    desc: PhD Student
-    website: https://www.google.com/
-    url: https://www.google.com/
-    github: https://github.com/
-    twitter: https://twitter.com/?lang=en
-  - name: Santa
-    img: /assets/img/hello_world.jpeg
-    desc: Santa 
-    website: https://www.google.com/
-    url: https://www.google.com/
-    github: https://github.com/
-    twitter: https://twitter.com/?lang=en
-  - name: Cathaoir 2 
-    img: /assets/img/path.jpg
-    desc: PhD Student
-    website: https://www.google.com/
-    url: https://www.google.com/
-    github: https://github.com/
-    twitter: https://twitter.com/?lang=en
+    desc: Lecturer
+    website: https://www.linkedin.com/in/patrickdenny/
+    url: https://www.linkedin.com/in/patrickdenny/
+    github: https://github.com/draziraphale
+    google-scholar: https://scholar.google.com/citations?user=N7jLLvIAAAAJ&hl=en
+    linkedin: https://www.linkedin.com/in/patrickdenny/
+    orcid: https://orcid.org/0000-0001-7494-8513
 ---
 {% include list-squares.html items=page.team %}
 
