@@ -48,6 +48,12 @@
           </a>
         {% endif %}   
         
+          {% if item.email %}
+          <a class="item-link" href="{{ item.email }}" title="Orcid">
+            <span class="fas fa-envelope"></span>
+          </a>
+        {% endif %}  
+        
       </div>
     </div>
   {% endfor %}
