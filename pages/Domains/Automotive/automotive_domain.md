@@ -6,7 +6,8 @@ title: Projects
 team:
   - name: Impact of Camera Production Tolerances on Computer Vision
     img: /assets/img/hello_world.jpeg
-    desc: Investigate the impact of camera production tolerance in surround-view cameras for the application of autonomous driving. Current research shows very little work has been done in this area where, primarily undistortion or rectification techniques are used for feature extraction. By using current state-of-the-art algorithms on optical models for Fisheye; it is expected that a new approach can be found where the rate of discarding cameras will decrease. This project considers the use of both synthetic and real-world data to achieve this objective. 
+    desc: {{ "Ground control to Major Tom." | truncatewords: 3, "--" }}
+Investigate the impact of camera production tolerance in surround-view cameras for the application of autonomous driving. Current research shows very little work has been done in this area where, primarily undistortion or rectification techniques are used for feature extraction. By using current state-of-the-art algorithms on optical models for Fisheye; it is expected that a new approach can be found where the rate of discarding cameras will decrease. This project considers the use of both synthetic and real-world data to achieve this objective. 
     website: https://ulbinspect.github.io/pages/Domains/Automotive/Projects/Camera_Production_Tolerances/
     url: https://ulbinspect.github.io/pages/Domains/Automotive/Projects/Camera_Production_Tolerances/
   - name: Self Driving Car Project etc.
