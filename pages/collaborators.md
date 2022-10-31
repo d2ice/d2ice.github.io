@@ -23,7 +23,7 @@ team:
     img: /assets/img/USP.png
     url: https://en.wikipedia.org/wiki/University_of_S%C3%A3o_Paulo
   - name: King’s College London 
-    img: /assets/img/Kings_College_London.png
+    img: /assets/img/Logo/Kings_College_London_2.png
     url: https://www.kcl.ac.uk/ 
   - name: University of Bristol 
     img: /assets/img/UOB.jpg
@@ -32,7 +32,7 @@ team:
     img: /assets/img/Logo/University_of_Galway_logo_2022_2.png
     url: https://car.universityofgalway.ie/
   - name: Valeo   
-    img: /assets/img/Valeo_Logo.png
+    img: /assets/img/Logo/Valeo_Logo_2.png
     url: https://www.valeo.com/en/   
   - name: AMCS
     img: /assets/img/Logo/amcs_logo.png
