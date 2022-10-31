@@ -10,7 +10,7 @@
 
 @media only screen and (min-width: 1200px) {
   .list-squares {
-    width: 150%;
+    width: 100%;
     margin-left: 0%;
   }
 }
