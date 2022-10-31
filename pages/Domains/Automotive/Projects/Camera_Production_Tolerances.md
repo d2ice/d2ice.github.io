@@ -16,8 +16,8 @@ The autonomous industry has advanced considerably in the application of state-of
 
 
 
-<img src="/assets/img/ob_Det_place.png" class="center">
-
+<img src="/assets/img/Camera_Prod_Tol/Camera_Production_Tolerances_1.png" class="center">
+<img src="/assets/img/Camera_Prod_Tol/Camera_Production_Tolerances_2.png" class="center">
 
 
 #### Team Members 
