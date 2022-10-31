@@ -29,13 +29,13 @@ team:
     img: /assets/img/UOB.jpg
     url: https://www.bristol.ac.uk/
   - name: Connaught Automotive Research Group, University of Galway  
-    img: assets/img/University_of_Galway_logo_2022.png
+    img: /assets/img/University_of_Galway_logo_2022.png
     url: https://car.universityofgalway.ie/
   - name: Valeo   
     img: /assets/img/Valeo_Logo.png
     url: https://www.valeo.com/en/   
   - name: AMCS
-    img: assets/img/amcs_logo.png
+    img: /assets/img/Logo/amcs_logo.png
     url: https://www.amcsgroup.com/
   - name: Provizio
     img: /assets/img/provizio_logo.png
