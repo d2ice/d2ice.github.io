@@ -23,7 +23,7 @@ The focus of the project is to investigate the application of key-enabling techn
    
    <div class="row">
                  
-       <div class="list-squares">
+       <div class="list-squares_sq">
       
                 <!-- Creating a Team Member -->
               
