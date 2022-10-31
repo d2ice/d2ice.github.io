@@ -32,150 +32,43 @@ The autonomous industry has advanced considerably in the application of state-of
                 <!-- Creating a Team Member -->
   
                   <div class="list-squares-item">
-                     <a href="https://www.w3schools.com/html/html_links.asp"><img src="/assets/img/hello_world.jpeg" class="item-img"></a>
-                     <h4>Cathaoir Agnew</h4>
-                     <div class="item-desc">PhD Student</div>
-
-                     <!-- Ceating Team Member socials, all may not be relevant -->
-                     <div class="item-links">
-                     <a class="item-link" href="https://www.w3schools.com/html/html_links.asp" title="Website">
-                        <span class="fa fa-home"></span>
-                     </a>
-
-                     <a class="item-link" href="https://www.w3schools.com/html/html_links.asp" title="LinkedIn">
-                        <span class="fab fa-linkedin"></span>
-                     </a>
-                     </div>
+                     <a href="https://ulbinspect.github.io/pages/team/"><img src="/assets/img/hello_world.jpeg" class="item-img"></a>
+                     <h4> Dr. Pepijn Van de Ven</h4>
+                     <div class="item-desc">Lecturer</div>
                   </div>
+             
+             
+             <!-- Creating a Team Member -->
+                  <div class="list-squares-item">
+                     <a href="https://ulbinspect.github.io/pages/team/"><img src="/assets/img/hello_world.jpeg" class="item-img"></a>
+                     <h4> Dr. Ciarán Eising</h4>
+                     <div class="item-desc">Lecturer</div>
+                  </div>
+        
+             <!-- Creating a Team Member -->
+                  <div class="list-squares-item">
+                     <a href="https://ulbinspect.github.io/pages/team/"><img src="/assets/img/hello_world.jpeg" class="item-img"></a>
+                     <h4> Dr. Tony Scanlan</h4>
+                     <div class="item-desc">Senior Research Fellow</div>
+                  </div> 
  
-      
-      
-               <!-- Creating a Team Member -->
-            <div class="list-squares-item">
-               <a href="https://www.w3schools.com/html/html_links.asp"><img src="/assets/img/hello_world.jpeg" class="item-img"></a>
-               <h4>Dishant</h4>
-               <div class="item-desc">PhD Student</div>
-
-               <!-- Ceating Team Member socials, all may not be relevant -->
-               <div class="item-links">
-               <a class="item-link" href="https://www.w3schools.com/html/html_links.asp" title="Website">
-                  <span class="fa fa-home"></span>
-               </a>
-
-               <a class="item-link" href="https://www.w3schools.com/html/html_links.asp" title="LinkedIn">
-                  <span class="fab fa-linkedin"></span>
-               </a>
-               </div>
-            </div>
-
-      
-      
-               <!-- Creating a Team Member -->
-            <div class="list-squares-item">
-               <a href="https://www.w3schools.com/html/html_links.asp"><img src="/assets/img/hello_world.jpeg" class="item-img"></a>
-               <h4>Eoin</h4>
-               <div class="item-desc">PhD Student</div>
-
-               <!-- Ceating Team Member socials, all may not be relevant -->
-               <div class="item-links">
-               <a class="item-link" href="https://www.w3schools.com/html/html_links.asp" title="Website">
-                  <span class="fa fa-home"></span>
-               </a>
-
-               <a class="item-link" href="https://www.w3schools.com/html/html_links.asp" title="LinkedIn">
-                  <span class="fab fa-linkedin"></span>
-               </a>
-               </div>
-            </div>
-      
-      
-               <!-- Creating a Team Member -->
-            <div class="list-squares-item">
-               <a href="https://www.w3schools.com/html/html_links.asp"><img src="/assets/img/hello_world.jpeg" class="item-img"></a>
-               <h4>Pep</h4>
-               <div class="item-desc">PhD Student</div>
-
-               <!-- Ceating Team Member socials, all may not be relevant -->
-               <div class="item-links">
-               <a class="item-link" href="https://www.w3schools.com/html/html_links.asp" title="Website">
-                  <span class="fa fa-home"></span>
-               </a>
-
-               <a class="item-link" href="https://www.w3schools.com/html/html_links.asp" title="LinkedIn">
-                  <span class="fab fa-linkedin"></span>
-               </a>
-               </div>
-            </div>
-
-      
-    
-      
-               <!-- Creating a Team Member -->
-            <div class="list-squares-item">
-               <a href="https://www.w3schools.com/html/html_links.asp"><img src="/assets/img/hello_world.jpeg" class="item-img"></a>
-               <h4>Ciaran</h4>
-               <div class="item-desc">PhD Student</div>
-
-               <!-- Ceating Team Member socials, all may not be relevant -->
-               <div class="item-links">
-               <a class="item-link" href="https://www.w3schools.com/html/html_links.asp" title="Website">
-                  <span class="fa fa-home"></span>
-               </a>
-
-               <a class="item-link" href="https://www.w3schools.com/html/html_links.asp" title="LinkedIn">
-                  <span class="fab fa-linkedin"></span>
-               </a>
-               </div>
-            </div>
-
-      
-
-      
-               <!-- Creating a Team Member -->
-            <div class="list-squares-item">
-               <a href="https://www.w3schools.com/html/html_links.asp"><img src="/assets/img/hello_world.jpeg" class="item-img"></a>
-               <h4>Patrick</h4>
-               <div class="item-desc">PhD Student</div>
-
-               <!-- Ceating Team Member socials, all may not be relevant -->
-               <div class="item-links">
-               <a class="item-link" href="https://www.w3schools.com/html/html_links.asp" title="Website">
-                  <span class="fa fa-home"></span>
-               </a>
-
-               <a class="item-link" href="https://www.w3schools.com/html/html_links.asp" title="LinkedIn">
-                  <span class="fab fa-linkedin"></span>
-               </a>
-               </div>
-            </div>
-      
-      
-         <!-- Creating a Team Member -->
-            <div class="list-squares-item">
-               <a href="https://www.w3schools.com/html/html_links.asp"><img src="/assets/img/hello_world.jpeg" class="item-img"></a>
-               <h4>Tony</h4>
-               <div class="item-desc">PhD Student</div>
-
-               <!-- Ceating Team Member socials, all may not be relevant -->
-               <div class="item-links">
-               <a class="item-link" href="https://www.w3schools.com/html/html_links.asp" title="Website">
-                  <span class="fa fa-home"></span>
-               </a>
-
-               <a class="item-link" href="https://www.w3schools.com/html/html_links.asp" title="LinkedIn">
-                  <span class="fab fa-linkedin"></span>
-               </a>
-               </div>
-            </div>
      
+      
+              <!-- Creating a Team Member -->
+               <div class="list-squares-item">
+                  <a href="https://ulbinspect.github.io/pages/team/"><img src="/assets/img/hello_world.jpeg" class="item-img"></a>
+                  <h4>Daniel Jakab</h4>
+                  <div class="item-desc">PhD Student</div>
+               </div>
+
+      
+ 
       </div>
     </div>
 </div>
 
 
 ### Partners of Project
-<!-- - [Confirm](https://confirm.ie/)
-- [AMCS](https://www.amcsgroup.com/) -->
 
 
 <div class="container-fluid">
