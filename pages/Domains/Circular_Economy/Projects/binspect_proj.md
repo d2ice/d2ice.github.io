@@ -4,12 +4,12 @@ title: Binspect Project
 subtitle: 
 ---
 
-### Project Description
-The focus of the project is to investigate the application of key-enabling technologies frequently used in smart manufacturing environments such as Artificial Intelligence, Machine Learning and Computer Vision to fully automate the recording and resolution of exceptions recorded on collection rounds like contamination of collected recyclable material and other service items (e.g. overloaded containers)
-
 
 ### Project Motivation
 The improvement of the quality of recyclables is a key foundation of the Circular Economy and one of the research objectives is to automate at scale, the identification, tracking and resolution of contaminated material close to the point of collection.
+
+### Project Description
+The focus of the project is to investigate the application of key-enabling technologies frequently used in smart manufacturing environments such as Artificial Intelligence, Machine Learning and Computer Vision to fully automate the recording and resolution of exceptions recorded on collection rounds like contamination of collected recyclable material and other service items (e.g. overloaded containers)
 
 
 <img src="/assets/img/ob_Det_place.png" class="center">
@@ -27,7 +27,8 @@ The improvement of the quality of recyclables is a key foundation of the Circula
       
                 <!-- Creating a Team Member -->
               
-                  <div class="list-squares-item">
+
+                  <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
                      <a href="https://www.w3schools.com/html/html_links.asp"><img src="/assets/img/hello_world.jpeg" class="item-img"></a>
                      <h4>Cathaoir Agnew</h4>
                      <div class="item-desc">PhD Student</div>
