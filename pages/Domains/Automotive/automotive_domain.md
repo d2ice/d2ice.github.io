@@ -14,5 +14,10 @@ team:
     desc: Lidar and Camera, the most used sensors in the car have limitations in adverse weather conditions – rain, snow and fog and low light conditions. With this knowledge of visual common-sense, the vehicle control module can be improved to an extent where an end-user should be able to instruct an autonomous car to do certain actions wrt driving.  	
     website: https://ulbinspect.github.io/pages/Domains/Automotive/Projects/RadNet/
     url: https://ulbinspect.github.io/pages/Domains/Automotive/Projects/RadNet/    
+  - name: Vision based language tasks in Autonomous Driving 
+    img: /assets/img/motor.jpg 
+    desc: We aim to design a visual common-sense model that interacts with end-user in autonomous driving scenarios and answers queries on the driving decisions made by the vehicle. 
+    website: https://ulbinspect.github.io/pages/Domains/Automotive/Projects/Vision_language_auto_drive/ 
+    url: https://ulbinspect.github.io/pages/Domains/Automotive/Projects/Vision_language_auto_drive/     
 ---
 {% include list-squares.html items=page.team %}
