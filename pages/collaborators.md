@@ -35,7 +35,7 @@ team:
     img: /assets/img/Valeo_Logo.png
     url: https://www.valeo.com/en/   
   - name: AMCS
-    img: assets/img/Logo/amcs_logo.png
+    img: assets/img/amcs_logo.png
     url: https://www.amcsgroup.com/
   - name: Provizio
     img: /assets/img/provizio_logo.png
