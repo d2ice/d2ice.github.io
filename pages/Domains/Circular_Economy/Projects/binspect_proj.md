@@ -28,7 +28,6 @@ The focus of the project is to investigate the application of key-enabling techn
                 <!-- Creating a Team Member -->
               
                   <div class="list-squares-item">
-                  <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
                      <a href="https://www.w3schools.com/html/html_links.asp"><img src="/assets/img/hello_world.jpeg" class="item-img"></a>
                      <h4>Cathaoir Agnew</h4>
                      <div class="item-desc">PhD Student</div>
@@ -44,11 +43,12 @@ The focus of the project is to investigate the application of key-enabling techn
                      </a>
                      </div>
                   </div>
-                  </div>
+                  
  
       
       
                <!-- Creating a Team Member -->
+            <div class="list-squares">
             <div class="list-squares-item">
                <a href="https://www.w3schools.com/html/html_links.asp"><img src="/assets/img/hello_world.jpeg" class="item-img"></a>
                <h4>Dishant</h4>
@@ -65,6 +65,7 @@ The focus of the project is to investigate the application of key-enabling techn
                </a>
                </div>
             </div>
+               </div>
 
       
       
