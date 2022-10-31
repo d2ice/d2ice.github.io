@@ -6,7 +6,7 @@ title: Projects
 team:
   - name: Impact of Camera Production Tolerances on Computer Vision
     img: /assets/img/hello_world.jpeg
-    desc: Investigate the impact of camera production tolerance in surround-view cameras for the application of autonomous driving. This project considers the use of both synthetic and real-world data to achieve this objective. 
+    desc: Investigate the impact of camera production tolerance in surround-view cameras for the application of autonomous driving. 
     website: https://ulbinspect.github.io/pages/Domains/Automotive/Projects/Camera_Production_Tolerances/
     url: https://ulbinspect.github.io/pages/Domains/Automotive/Projects/Camera_Production_Tolerances/
   - name: Self Driving Car Project etc.
