@@ -27,7 +27,7 @@ The focus of the project is to investigate the application of key-enabling techn
       
                 <!-- Creating a Team Member -->
               
-
+                  <div class="list-squares-item">
                   <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
                      <a href="https://www.w3schools.com/html/html_links.asp"><img src="/assets/img/hello_world.jpeg" class="item-img"></a>
                      <h4>Cathaoir Agnew</h4>
@@ -43,6 +43,7 @@ The focus of the project is to investigate the application of key-enabling techn
                         <span class="fab fa-linkedin"></span>
                      </a>
                      </div>
+                  </div>
                   </div>
  
       
