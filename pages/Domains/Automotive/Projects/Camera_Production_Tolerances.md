@@ -86,8 +86,8 @@ The autonomous industry has advanced considerably in the application of state-of
          
                  <!-- Creating a Partner -->
                   <div class="list-squares-item">
-                     <a href="https://www.amcsgroup.com/"><img src="/assets/img/amcs_logo.png" width="200" height ="100" ></a>
-                     <h4>AMCS</h4>
+                     <a href="https://www.valeo.com/en/"><img src="/assets/img/Logo/Valeo_Logo.png" width="200" height ="100" ></a>
+                     <h4>Valeo</h4>
                   </div>
                         
                   
