@@ -39,7 +39,7 @@ Visual Common-Sense Reasoning in Autonomous Cars.
              <!-- Creating a Team Member -->
                   <div class="list-squares-item">
                      <a href="https://ulbinspect.github.io/pages/team/"><img src="/assets/img/hello_world.jpeg" class="item-img"></a>
-                     <h4> Dr. Tony Scanlan</h4>
+                     <h4> Ganesh Sistu</h4>
                      <div class="item-desc">Industry Partner</div>
                   </div> 
  
