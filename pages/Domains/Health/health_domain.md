@@ -14,10 +14,10 @@ team:
     desc: Applying GNN (Graph Neural Networks) method to learn latent features from medical image data, applying representation learning techniques for better classification and segmentation of medical images. Exploration of difference between Deep neural networks learning and Graph neural networks learning, explainablity of GNNs. 
     website: https://ulbinspect.github.io/pages/Domains/Health/Projects/GNN_medical/
     url: https://ulbinspect.github.io/pages/Domains/Health/Projects/GNN_medical/
-  - name: Health Project 3 etc.
+  - name: Proactive Prject
     img: /assets/img/health_care.png
-    desc: The use of computer vision in x-rays 3
-    website: https://ulbinspect.github.io/pages/health_proj/
-    url: https://ulbinspect.github.io/pages/health_proj/
+    desc: How to help people with depressive symptomatology using AI? We aim to use Probabilistic ML to develop optimised approaches to identify these people, giving them proper treatment in the fast way possible. 
+    website: https://ulbinspect.github.io/pages/Domains/Health/Projects/proactive_edurado/
+    url: https://ulbinspect.github.io/pages/Domains/Health/Projects/proactive_edurado/
 ---
 {% include list-squares.html items=page.team %}
