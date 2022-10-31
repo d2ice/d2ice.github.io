@@ -23,9 +23,10 @@ The improvement of the quality of recyclables is a key foundation of the Circula
    
    <div class="row">
                  
+       <div class="list-squares">
       
                 <!-- Creating a Team Member -->
-               <div class="list-squares">
+              
                   <div class="list-squares-item">
                      <a href="https://www.w3schools.com/html/html_links.asp"><img src="/assets/img/hello_world.jpeg" class="item-img"></a>
                      <h4>Cathaoir Agnew</h4>
