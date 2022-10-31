@@ -11,7 +11,7 @@ Depression is usually overlooked and tends to lead to the provision of sub-optim
 To identify people with depressive symptomatology (DS), usually the Patient Health Questionnaire with 9 questions (PHQ-9) is applied. Usually, this questionnaire follows an order from 1 to 9. The aim here is to look for different orders to be asked to maximize the chances of detecting people with DS using Probabilistic Machine Learning approaches. 
 
 
-<iframe src="https://player.vimeo.com/video/724386759?h=c7ae23c922" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/724386759?h=c7ae23c922" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <p><a href="https://vimeo.com/724386759">Eduardo-ResearchVideoV3</a> from <a href="https://vimeo.com/user107308610">CRTDataScience</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 
