@@ -11,7 +11,7 @@
 @media only screen and (min-width: 1200px) {
   .list-squares {
     width: 150%;
-    margin-left: -25%;
+    margin-left: 0%;
   }
 }
 
