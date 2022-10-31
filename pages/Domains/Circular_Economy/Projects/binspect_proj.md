@@ -3,7 +3,7 @@ layout: page
 title: Binspect Project
 subtitle: 
 ---
-{% include list-squares.html items=page.team %}
+
 
 ### Project Motivation
 The improvement of the quality of recyclables is a key foundation of the Circular Economy and one of the research objectives is to automate at scale, the identification, tracking and resolution of contaminated material close to the point of collection.
