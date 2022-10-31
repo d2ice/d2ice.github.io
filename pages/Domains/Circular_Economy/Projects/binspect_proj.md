@@ -3,7 +3,7 @@ layout: page
 title: Binspect Project
 subtitle: 
 ---
-
+{% include list-squares.html items=page.team %}
 
 ### Project Motivation
 The improvement of the quality of recyclables is a key foundation of the Circular Economy and one of the research objectives is to automate at scale, the identification, tracking and resolution of contaminated material close to the point of collection.
@@ -48,7 +48,6 @@ The focus of the project is to investigate the application of key-enabling techn
       
       
                <!-- Creating a Team Member -->
-            <div class="list-squares">
             <div class="list-squares-item">
                <a href="https://www.w3schools.com/html/html_links.asp"><img src="/assets/img/hello_world.jpeg" class="item-img"></a>
                <h4>Dishant</h4>
@@ -65,8 +64,6 @@ The focus of the project is to investigate the application of key-enabling techn
                </a>
                </div>
             </div>
-               </div>
-
       
       
                <!-- Creating a Team Member -->
