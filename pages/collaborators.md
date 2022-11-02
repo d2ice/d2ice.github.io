@@ -41,7 +41,7 @@ team:
     img: /assets/img/Logos/amcs_logo.png
     url: https://www.amcsgroup.com/
   - name: Provizio
-    img: /assets/img/Logos/provizio_logo_.png
+    img: /assets/img/Logos/provizio_logo.png
     url: https://www.provizio.ai/
 ---
 {% include list-squares.html items=page.team %}
