@@ -26,7 +26,7 @@ team:
     img: /assets/img/Logos/Kings_College_London_logo.png
     url: https://www.kcl.ac.uk/ 
   - name: University of Bristol 
-    img: /assets/img/Logos/University_of_Bristol_logo.png
+    img: /assets/img/Logos/UOB.jpg
     url: https://www.bristol.ac.uk/
   - name: Connaught Automotive Research Group, University of Galway  
     img: /assets/img/Logos/University_of_Galway_logo_2022_2.png
