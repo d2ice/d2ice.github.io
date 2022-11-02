@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Collaborators
+title: Funders & Collaborators
 <!-- subtitle:  -->
 
 team:
