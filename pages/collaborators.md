@@ -5,10 +5,10 @@ title: Funders & Collaborators
 
 team:
   - name: Confirm
-    img: /assets/img/confirm_logo.png
+    img: /assets/img/Logos/confirm_logo.png
     url: https://confirm.ie/
   - name: Lero
-    img: /assets/img/lero.jpg
+    img: /assets/img/Logos/lero_logo.png
     url: https://lero.ie/
   - name: Limerick Digital Cancer Research Centre 
     img: /assets/img/ul.jpg
@@ -17,28 +17,28 @@ team:
     img: /assets/img/UHL-Logo.png
     url: https://www.ul.ie/medicine/university-hospital-limerick
   - name: SFI Centre for Research Training in Foundations of Data Science  
-    img: /assets/img/sfi.svg.jpg
+    img: /assets/img/Logos/sfi_ds_logo.png
     url: https://www.data-science.ie/
   - name: University of São Paulo
-    img: /assets/img/USP.png
+    img: /assets/img/Logos/University_of_São_Paulo_Logo.png
     url: https://en.wikipedia.org/wiki/University_of_S%C3%A3o_Paulo
   - name: King’s College London 
-    img: /assets/img/Logo/Kings_College_London_2.png
+    img: /assets/img/Logos/Kings_College_London_logo.png
     url: https://www.kcl.ac.uk/ 
   - name: University of Bristol 
-    img: /assets/img/UOB.jpg
+    img: /assets/img/Logos/University_of_Bristol_logo.png
     url: https://www.bristol.ac.uk/
   - name: Connaught Automotive Research Group, University of Galway  
-    img: /assets/img/Logo/University_of_Galway_logo_2022_2.png
+    img: /assets/img/Logos/University_of_Galway_logo.png
     url: https://car.universityofgalway.ie/
   - name: Valeo   
-    img: /assets/img/Logo/Valeo_Logo_2.png
+    img: /assets/img/Logos/Valeo_Logo.png
     url: https://www.valeo.com/en/   
   - name: AMCS
-    img: /assets/img/Logo/amcs_logo.png
+    img: /assets/img/Logos/amcs_logo.png
     url: https://www.amcsgroup.com/
   - name: Provizio
-    img: /assets/img/provizio_logo.png
+    img: /assets/img/Logos/provizio_logo_.png
     url: https://www.provizio.ai/
 ---
 {% include list-squares.html items=page.team %}
