@@ -29,7 +29,7 @@ team:
     img: /assets/img/Logos/University_of_Bristol_logo.png
     url: https://www.bristol.ac.uk/
   - name: Connaught Automotive Research Group, University of Galway  
-    img: /assets/img/Logos/University_of_Galway_logo.png
+    img: /assets/img/Logos/University_Of_Galway_Logo_2.png
     url: https://car.universityofgalway.ie/
   - name: Valeo   
     img: /assets/img/Logos/Valeo_Logo.png
