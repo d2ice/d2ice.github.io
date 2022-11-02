@@ -19,6 +19,9 @@ team:
   - name: SFI Centre for Research Training in Foundations of Data Science  
     img: /assets/img/Logos/sfi_ds_logo.png
     url: https://www.data-science.ie/
+  - name: Science Foundation Ireland 
+    img: /assets/img/Logos/sfi_logo.png
+    url: https://www.sfi.ie/
   - name: University of São Paulo
     img: /assets/img/Logos/University_of_São_Paulo_Logo.png
     url: https://en.wikipedia.org/wiki/University_of_S%C3%A3o_Paulo
