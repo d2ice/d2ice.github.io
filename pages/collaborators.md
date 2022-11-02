@@ -8,7 +8,7 @@ team:
     img: /assets/img/Logos/confirm_logo.png
     url: https://confirm.ie/
   - name: Lero
-    img: /assets/img/Logos/lero_logo.png
+    img: /assets/img/Logos/lero.jpg
     url: https://lero.ie/
   - name: Limerick Digital Cancer Research Centre 
     img: /assets/img/ul.jpg
@@ -29,7 +29,7 @@ team:
     img: /assets/img/Logos/University_of_Bristol_logo.png
     url: https://www.bristol.ac.uk/
   - name: Connaught Automotive Research Group, University of Galway  
-    img: /assets/img/Logos/University_Of_Galway_Logo_2.png
+    img: /assets/img/Logos/University_of_Galway_logo_2022_2.png
     url: https://car.universityofgalway.ie/
   - name: Valeo   
     img: /assets/img/Logos/Valeo_Logo.png
