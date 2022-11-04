@@ -34,8 +34,8 @@
 }
 
 .list-squares-item .item-img {
-  max-width: 579px;
-  height: 863px;
+  max-width: 200px;
+  height: 200px;
   -webkit-border-radius: 0;
   -moz-border-radius: 0;
   border-radius: 0;
