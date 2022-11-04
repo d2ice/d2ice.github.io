@@ -123,7 +123,7 @@ team:
     linkedin: https://ie.linkedin.com/in/ramchandra-cheke
     email: mailto:ramchandra.cheke@ul.ie
   - name: Dishant Mewada
-    img: /assets/img/hello_world.jpeg
+    img: /assets/img/Headshots/Dishant.jpg
     desc: PhD Student
     url: https://www.linkedin.com/in/dishant-mewada/
     website: https://www.linkedin.com/in/dishant-mewada/
@@ -131,7 +131,7 @@ team:
     linkedin: https://www.linkedin.com/in/dishant-mewada/
     email: mailto:dishant.mewada@ul.ie
   - name: Cathaoir Agnew
-    img: /assets/img/hello_world.jpeg
+    img: /assets/img/Headshots/Cathaoir.jpg
     desc: PhD Student
     url: https://ie.linkedin.com/in/cathaoiragnew
     website: https://ie.linkedin.com/in/cathaoiragnew
