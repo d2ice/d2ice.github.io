@@ -131,7 +131,7 @@ team:
     linkedin: https://www.linkedin.com/in/dishant-mewada/
     email: mailto:dishant.mewada@ul.ie
   - name: Cathaoir Agnew
-    img: /assets/img/Headshots/Cathaoir.jpg
+    img: /assets/img/Headshots/Cathaoir_resize.jpg
     desc: PhD Student
     url: https://ie.linkedin.com/in/cathaoiragnew
     website: https://ie.linkedin.com/in/cathaoiragnew
