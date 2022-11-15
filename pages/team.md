@@ -4,6 +4,15 @@ title: Team
 <!-- subtitle:  -->
 
 team:
+  - name: Dr. Pepijn van de Ven
+    img: /assets/img/hello_world.jpeg
+    desc: Senior Lecturer
+    url: https://www.ul.ie/research/dr-pepijn-van-de-ven
+    website: https://www.linkedin.com/in/pepijn-van-de-ven-165a4b10/
+    google-scholar: https://scholar.google.com/citations?user=LEBrfAwAAAAJ
+    linkedin: https://www.linkedin.com/in/pepijn-van-de-ven-165a4b10/
+    orcid: https://orcid.org/0000-0003-3321-450X
+    email: mailto:pepijn.vandeven@ul.ie
   - name: Dr. Patrick Denny
     img: /assets/img/hello_world.jpeg
     desc: Lecturer
@@ -138,6 +147,22 @@ team:
     github: https://github.com/cathaoiragnew
     linkedin: https://ie.linkedin.com/in/cathaoiragnew
     email: mailto:cathaoir.agnew@ul.ie
+  - name: Eoghan Mulcahy
+    img: /assets/img/Headshots/Cathaoir.jpg
+    desc: PhD Student
+    url: https://www.linkedin.com/in/eoghan-mulcahy/
+    website: https://www.linkedin.com/in/eoghan-mulcahy/
+    github: https://github.com/deepseek-eoghan
+    linkedin: https://www.linkedin.com/in/eoghan-mulcahy/
+    email: mailto:eoghan.mulcahy@ul.ie
+  - name: Prosper Azaglo
+    img: /assets/img/Headshots/Cathaoir.jpg
+    desc: PhD Student
+    url: https://www.linkedin.com/in/prosper-azaglo/
+    website: https://www.linkedin.com/in/prosper-azaglo/
+    github: https://github.com/pazaglo
+    linkedin: https://www.linkedin.com/in/prosper-azaglo/
+    email: mailto:prosper.azaglo@ul.ie
 ---
 {% include list-squares.html items=page.team %}
 
