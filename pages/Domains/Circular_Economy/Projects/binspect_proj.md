@@ -183,13 +183,13 @@ The focus of the project is to investigate the application of key-enabling techn
    
                  <!-- Creating a Partner -->
                   <div class="list-squares-item">
-                     <a href="https://confirm.ie/"><img src="/assets/img/confirm_logo.png" width="200" height ="100"></a>
+                     <a href="https://confirm.ie/"><img src="/assets/img/Logos/confirm_logo.png" width="200" height ="100"></a>
                      <h4>Confirm</h4>
                   </div>
          
                  <!-- Creating a Partner -->
                   <div class="list-squares-item">
-                     <a href="https://www.amcsgroup.com/"><img src="/assets/img/amcs_logo.png" width="200" height ="100" ></a>
+                     <a href="https://www.amcsgroup.com/"><img src="/assets/img/Logos/amcs_logo.png" width="200" height ="100" ></a>
                      <h4>AMCS</h4>
                   </div>
                         
