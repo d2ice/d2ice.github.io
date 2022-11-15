@@ -28,7 +28,7 @@ The focus of the project is to investigate the application of key-enabling techn
                 <!-- Creating a Team Member -->
               
                   <div class="list-squares-item">
-                     <a href="https://www.w3schools.com/html/html_links.asp"><img src="/assets/img/Headshots/Cathaoir.jpeg" class="item-img"></a>
+                     <a href="https://www.w3schools.com/html/html_links.asp"><img src="/assets/img/Headshots/Cathaoir.jpg" class="item-img"></a>
                      <h4>Cathaoir</h4>
                   </div>
                   
@@ -41,14 +41,14 @@ The focus of the project is to investigate the application of key-enabling techn
       
                <!-- Creating a Team Member -->
             <div class="list-squares-item">
-               <a href="https://www.w3schools.com/html/html_links.asp"><img src="/assets/img/Headshots/Eoghan.jpg" class="item-img"></a>
+               <a href="https://www.w3schools.com/html/html_links.asp"><img src="/assets/img/Headshots/Eoin.jpg" class="item-img"></a>
                <h4>Eoin</h4>
             </div>
       
       
                <!-- Creating a Team Member -->
             <div class="list-squares-item">
-               <a href="https://www.w3schools.com/html/html_links.asp"><img src="/assets/img/Headshots/Pepijn.jpeg" class="item-img"></a>
+               <a href="https://www.w3schools.com/html/html_links.asp"><img src="/assets/img/Headshots/Pepijn.jpg" class="item-img"></a>
                <h4>Pep</h4>
             </div>
 
