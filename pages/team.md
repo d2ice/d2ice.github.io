@@ -5,7 +5,7 @@ title: Team
 
 team:
   - name: Dr. Pepijn van de Ven
-    img: /assets/img/hello_world.jpeg
+    img: /assets/Headshots/Pepijn.jpg
     desc: Senior Lecturer
     url: https://www.ul.ie/research/dr-pepijn-van-de-ven
     website: https://www.linkedin.com/in/pepijn-van-de-ven-165a4b10/
@@ -33,7 +33,7 @@ team:
     orcid: https://orcid.org/0000-0001-8383-2635
     email: mailto:ciaran.eising@ul.ie
   - name: Dr. Mark Halton
-    img: /assets/img/hello_world.jpeg
+    img: /assets/Headshots/Mark.jpg
     desc: Lecturer
     url: https://www.linkedin.com/in/markkhalton/
     website: https://www.linkedin.com/in/markkhalton/
@@ -42,7 +42,7 @@ team:
     orcid: https://orcid.org/0000-0003-1421-0386
     email: mailto:mark.halton@ul.ie
   - name: Dr. Tony Scanlan
-    img: /assets/img/hello_world.jpeg
+    img: /assets/Headshots/Tony.jpg
     desc: Senior Research Fellow
     url: https://www.ul.ie/research/dr-tony-scanlan
     website: https://ie.linkedin.com/in/tony-scanlan-a4188430
@@ -50,7 +50,7 @@ team:
     orcid: https://orcid.org/0000-0002-0601-7749
     email: mailto:tony.scanlan@ul.ie
   - name: Dr. Eoin Martino Grua
-    img: /assets/img/hello_world.jpeg
+    img: /assets/Headshots/Eoin.jpg
     desc: Postdoc Researcher
     url: https://emgrua.github.io/
     website: https://emgrua.github.io/
@@ -59,7 +59,7 @@ team:
     orcid: https://orcid.org/0000-0002-5471-4338
     email: mailto:eoin.grua@ul.ie
   - name: Darragh Glavin
-    img: /assets/img/hello_world.jpeg
+    img: /assets/Headshots/Darragh.jpg
     desc: PhD Student
     url: https://linktr.ee/glavelele
     website: https://twitter.com/Glavelele
@@ -68,7 +68,7 @@ team:
     linkedin: https://www.linkedin.com/in/darragh-glavin/
     email: mailto:darragh.glavin@ul.ie
   - name: Eduardo Maekawa
-    img: /assets/img/hello_world.jpeg
+    img: /assets/Headshots/Eduardo.jpg
     desc: PhD Student
     url: https://www.linkedin.com/in/duducrail/
     website: https://twitter.com/duducrail
@@ -77,7 +77,7 @@ team:
     linkedin: https://www.linkedin.com/in/duducrail/
     email: mailto:eduardo.maekawa@ul.ie
   - name: Aryan Singh
-    img: /assets/img/hello_world.jpeg
+    img: /assets/Headshots/Aryan.jpg
     desc: PhD Student
     url: https://www.linkedin.com/in/aryan-singh-902115156/
     website: https://aryan-at-ul.github.io
@@ -86,7 +86,7 @@ team:
     orcid: https://orcid.org/my-orcid?orcid=0000-0002-7511-0330
     email: mailto:aryan.singh@ul.ie
   - name: Sushil Kumar Sharma 
-    img: /assets/img/hello_world.jpeg
+    img: /assets/Headshots/Sushil.jpg
     desc: PhD Student
     url: https://sushilsharma840.wixsite.com/home-sushil-sharma
     website: https://sushilsharma840.wixsite.com/home-sushil-sharma
@@ -105,7 +105,7 @@ team:
     orcid: https://orcid.org/0000-0002-5766-6650
     email: mailto:kaavya.rekanar@ul.ie
   - name: Srikanth Tiyyagura 
-    img: /assets/img/hello_world.jpeg
+    img: /assets/Headshots/Srikanth.jpg
     desc: PhD Student
     url: https://www.linkedin.com/in/srikanthtiyyagura/
     website: https://github.com/sri13
@@ -123,7 +123,7 @@ team:
     linkedin: https://www.linkedin.com/in/daniel-jakab-731321164/
     email: mailto:daniel.jakab@ul.ie
   - name: Ramchandra Cheke
-    img: /assets/img/hello_world.jpeg
+    img: /assets/Headshots/Ramchandra.jpg
     desc: PhD Student
     url: https://ie.linkedin.com/in/ramchandra-cheke
     website: https://twitter.com/ramchandracheke
@@ -148,7 +148,7 @@ team:
     linkedin: https://ie.linkedin.com/in/cathaoiragnew
     email: mailto:cathaoir.agnew@ul.ie
   - name: Eoghan Mulcahy
-    img: /assets/img/Headshots/Cathaoir.jpg
+    img: /assets/img/Headshots/Eoghan.jpg
     desc: PhD Student
     url: https://www.linkedin.com/in/eoghan-mulcahy/
     website: https://www.linkedin.com/in/eoghan-mulcahy/
@@ -156,7 +156,7 @@ team:
     linkedin: https://www.linkedin.com/in/eoghan-mulcahy/
     email: mailto:eoghan.mulcahy@ul.ie
   - name: Prosper Azaglo
-    img: /assets/img/Headshots/Cathaoir.jpg
+    img: /assets/img/hello_world.jpeg
     desc: PhD Student
     url: https://www.linkedin.com/in/prosper-azaglo/
     website: https://www.linkedin.com/in/prosper-azaglo/
