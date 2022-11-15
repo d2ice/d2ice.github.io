@@ -13,7 +13,9 @@
     width: 150%;
     margin-left: -25%;
   }
-  
+}
+
+@media only screen and (min-width: 1200px) {  
 .list-squares_sq {
     width: 100%;
     margin-left: 0%;
