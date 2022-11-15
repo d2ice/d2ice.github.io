@@ -5,7 +5,7 @@ title: Team
 
 team:
   - name: Dr. Pepijn van de Ven
-    img: /assets/Headshots/Pepijn.jpg
+    img: /assets/img/Headshots/Pepijn.jpg
     desc: Senior Lecturer
     url: https://www.ul.ie/research/dr-pepijn-van-de-ven
     website: https://www.linkedin.com/in/pepijn-van-de-ven-165a4b10/
@@ -33,7 +33,7 @@ team:
     orcid: https://orcid.org/0000-0001-8383-2635
     email: mailto:ciaran.eising@ul.ie
   - name: Dr. Mark Halton
-    img: /assets/Headshots/Mark.jpg
+    img: /assets/img/Headshots/Mark.jpg
     desc: Lecturer
     url: https://www.linkedin.com/in/markkhalton/
     website: https://www.linkedin.com/in/markkhalton/
@@ -42,7 +42,7 @@ team:
     orcid: https://orcid.org/0000-0003-1421-0386
     email: mailto:mark.halton@ul.ie
   - name: Dr. Tony Scanlan
-    img: /assets/Headshots/Tony.jpg
+    img: /assets/img/Headshots/Tony.jpg
     desc: Senior Research Fellow
     url: https://www.ul.ie/research/dr-tony-scanlan
     website: https://ie.linkedin.com/in/tony-scanlan-a4188430
@@ -50,7 +50,7 @@ team:
     orcid: https://orcid.org/0000-0002-0601-7749
     email: mailto:tony.scanlan@ul.ie
   - name: Dr. Eoin Martino Grua
-    img: /assets/Headshots/Eoin.jpg
+    img: /assets/img/Headshots/Eoin.jpg
     desc: Postdoc Researcher
     url: https://emgrua.github.io/
     website: https://emgrua.github.io/
@@ -59,7 +59,7 @@ team:
     orcid: https://orcid.org/0000-0002-5471-4338
     email: mailto:eoin.grua@ul.ie
   - name: Darragh Glavin
-    img: /assets/Headshots/Darragh.jpg
+    img: /assets/img/Headshots/Darragh.jpg
     desc: PhD Student
     url: https://linktr.ee/glavelele
     website: https://twitter.com/Glavelele
@@ -68,7 +68,7 @@ team:
     linkedin: https://www.linkedin.com/in/darragh-glavin/
     email: mailto:darragh.glavin@ul.ie
   - name: Eduardo Maekawa
-    img: /assets/Headshots/Eduardo.jpg
+    img: /assets/img/Headshots/Eduardo.jpg
     desc: PhD Student
     url: https://www.linkedin.com/in/duducrail/
     website: https://twitter.com/duducrail
@@ -77,7 +77,7 @@ team:
     linkedin: https://www.linkedin.com/in/duducrail/
     email: mailto:eduardo.maekawa@ul.ie
   - name: Aryan Singh
-    img: /assets/Headshots/Aryan.jpg
+    img: /assets/img//Headshots/Aryan.jpg
     desc: PhD Student
     url: https://www.linkedin.com/in/aryan-singh-902115156/
     website: https://aryan-at-ul.github.io
@@ -86,7 +86,7 @@ team:
     orcid: https://orcid.org/my-orcid?orcid=0000-0002-7511-0330
     email: mailto:aryan.singh@ul.ie
   - name: Sushil Kumar Sharma 
-    img: /assets/Headshots/Sushil.jpg
+    img: /assets/img/Headshots/Sushil.jpg
     desc: PhD Student
     url: https://sushilsharma840.wixsite.com/home-sushil-sharma
     website: https://sushilsharma840.wixsite.com/home-sushil-sharma
@@ -105,7 +105,7 @@ team:
     orcid: https://orcid.org/0000-0002-5766-6650
     email: mailto:kaavya.rekanar@ul.ie
   - name: Srikanth Tiyyagura 
-    img: /assets/Headshots/Srikanth.jpg
+    img: /assets/img/Headshots/Srikanth.jpg
     desc: PhD Student
     url: https://www.linkedin.com/in/srikanthtiyyagura/
     website: https://github.com/sri13
@@ -123,7 +123,7 @@ team:
     linkedin: https://www.linkedin.com/in/daniel-jakab-731321164/
     email: mailto:daniel.jakab@ul.ie
   - name: Ramchandra Cheke
-    img: /assets/Headshots/Ramchandra.jpg
+    img: /assets/img//Headshots/Ramchandra.jpg
     desc: PhD Student
     url: https://ie.linkedin.com/in/ramchandra-cheke
     website: https://twitter.com/ramchandracheke
