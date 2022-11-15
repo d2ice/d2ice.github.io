@@ -31,17 +31,6 @@ The focus of the project is to investigate the application of key-enabling techn
                      <a href="https://www.w3schools.com/html/html_links.asp"><img src="/assets/img/hello_world.jpeg" class="item-img"></a>
                      <h4>Cathaoir Agnew</h4>
                      <div class="item-desc">PhD Student</div>
-
-                     <!-- Ceating Team Member socials, all may not be relevant -->
-                     <div class="item-links">
-                     <a class="item-link" href="https://www.w3schools.com/html/html_links.asp" title="Website">
-                        <span class="fa fa-home"></span>
-                     </a>
-
-                     <a class="item-link" href="https://www.w3schools.com/html/html_links.asp" title="LinkedIn">
-                        <span class="fab fa-linkedin"></span>
-                     </a>
-                     </div>
                   </div>
                   
  
@@ -52,17 +41,6 @@ The focus of the project is to investigate the application of key-enabling techn
                <a href="https://www.w3schools.com/html/html_links.asp"><img src="/assets/img/hello_world.jpeg" class="item-img"></a>
                <h4>Dishant</h4>
                <div class="item-desc">PhD Student</div>
-
-               <!-- Ceating Team Member socials, all may not be relevant -->
-               <div class="item-links">
-               <a class="item-link" href="https://www.w3schools.com/html/html_links.asp" title="Website">
-                  <span class="fa fa-home"></span>
-               </a>
-
-               <a class="item-link" href="https://www.w3schools.com/html/html_links.asp" title="LinkedIn">
-                  <span class="fab fa-linkedin"></span>
-               </a>
-               </div>
             </div>
       
       
@@ -71,17 +49,6 @@ The focus of the project is to investigate the application of key-enabling techn
                <a href="https://www.w3schools.com/html/html_links.asp"><img src="/assets/img/hello_world.jpeg" class="item-img"></a>
                <h4>Eoin</h4>
                <div class="item-desc">PhD Student</div>
-
-               <!-- Ceating Team Member socials, all may not be relevant -->
-               <div class="item-links">
-               <a class="item-link" href="https://www.w3schools.com/html/html_links.asp" title="Website">
-                  <span class="fa fa-home"></span>
-               </a>
-
-               <a class="item-link" href="https://www.w3schools.com/html/html_links.asp" title="LinkedIn">
-                  <span class="fab fa-linkedin"></span>
-               </a>
-               </div>
             </div>
       
       
@@ -90,17 +57,6 @@ The focus of the project is to investigate the application of key-enabling techn
                <a href="https://www.w3schools.com/html/html_links.asp"><img src="/assets/img/hello_world.jpeg" class="item-img"></a>
                <h4>Pep</h4>
                <div class="item-desc">PhD Student</div>
-
-               <!-- Ceating Team Member socials, all may not be relevant -->
-               <div class="item-links">
-               <a class="item-link" href="https://www.w3schools.com/html/html_links.asp" title="Website">
-                  <span class="fa fa-home"></span>
-               </a>
-
-               <a class="item-link" href="https://www.w3schools.com/html/html_links.asp" title="LinkedIn">
-                  <span class="fab fa-linkedin"></span>
-               </a>
-               </div>
             </div>
 
       
@@ -111,17 +67,6 @@ The focus of the project is to investigate the application of key-enabling techn
                <a href="https://www.w3schools.com/html/html_links.asp"><img src="/assets/img/hello_world.jpeg" class="item-img"></a>
                <h4>Ciaran</h4>
                <div class="item-desc">PhD Student</div>
-
-               <!-- Ceating Team Member socials, all may not be relevant -->
-               <div class="item-links">
-               <a class="item-link" href="https://www.w3schools.com/html/html_links.asp" title="Website">
-                  <span class="fa fa-home"></span>
-               </a>
-
-               <a class="item-link" href="https://www.w3schools.com/html/html_links.asp" title="LinkedIn">
-                  <span class="fab fa-linkedin"></span>
-               </a>
-               </div>
             </div>
 
       
@@ -132,17 +77,6 @@ The focus of the project is to investigate the application of key-enabling techn
                <a href="https://www.w3schools.com/html/html_links.asp"><img src="/assets/img/hello_world.jpeg" class="item-img"></a>
                <h4>Patrick</h4>
                <div class="item-desc">PhD Student</div>
-
-               <!-- Ceating Team Member socials, all may not be relevant -->
-               <div class="item-links">
-               <a class="item-link" href="https://www.w3schools.com/html/html_links.asp" title="Website">
-                  <span class="fa fa-home"></span>
-               </a>
-
-               <a class="item-link" href="https://www.w3schools.com/html/html_links.asp" title="LinkedIn">
-                  <span class="fab fa-linkedin"></span>
-               </a>
-               </div>
             </div>
       
       
@@ -151,17 +85,6 @@ The focus of the project is to investigate the application of key-enabling techn
                <a href="https://www.w3schools.com/html/html_links.asp"><img src="/assets/img/hello_world.jpeg" class="item-img"></a>
                <h4>Tony</h4>
                <div class="item-desc">PhD Student</div>
-
-               <!-- Ceating Team Member socials, all may not be relevant -->
-               <div class="item-links">
-               <a class="item-link" href="https://www.w3schools.com/html/html_links.asp" title="Website">
-                  <span class="fa fa-home"></span>
-               </a>
-
-               <a class="item-link" href="https://www.w3schools.com/html/html_links.asp" title="LinkedIn">
-                  <span class="fab fa-linkedin"></span>
-               </a>
-               </div>
             </div>
      
       </div>
