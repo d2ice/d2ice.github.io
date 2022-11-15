@@ -28,27 +28,27 @@ The focus of the project is to investigate the application of key-enabling techn
                 <!-- Creating a Team Member -->
               
                   <div class="list-squares-item">
-                     <a href="https://www.w3schools.com/html/html_links.asp"><img src="/assets/img/Headshots/Cathaoir.jpg" class="item-img"></a>
+                     <a href="https://ulbinspect.github.io/pages/team/"><img src="/assets/img/Headshots/Cathaoir.jpg" class="item-img"></a>
                      <h4>Cathaoir</h4>
                   </div>
                   
                <!-- Creating a Team Member -->
             <div class="list-squares-item">
-               <a href="https://www.w3schools.com/html/html_links.asp"><img src="/assets/img/Headshots/Dishant.jpg" class="item-img"></a>
+               <a href="https://ulbinspect.github.io/pages/team/"><img src="/assets/img/Headshots/Dishant.jpg" class="item-img"></a>
                <h4>Dishant</h4>
             </div>
       
       
                <!-- Creating a Team Member -->
             <div class="list-squares-item">
-               <a href="https://www.w3schools.com/html/html_links.asp"><img src="/assets/img/Headshots/Eoin.jpg" class="item-img"></a>
+               <a href="https://ulbinspect.github.io/pages/team/"><img src="/assets/img/Headshots/Eoin.jpg" class="item-img"></a>
                <h4>Eoin</h4>
             </div>
       
       
                <!-- Creating a Team Member -->
             <div class="list-squares-item">
-               <a href="https://www.w3schools.com/html/html_links.asp"><img src="/assets/img/Headshots/Pepijn.jpg" class="item-img"></a>
+               <a href="https://ulbinspect.github.io/pages/team/"><img src="/assets/img/Headshots/Pepijn.jpg" class="item-img"></a>
                <h4>Pep</h4>
             </div>
 
@@ -56,21 +56,21 @@ The focus of the project is to investigate the application of key-enabling techn
          
                <!-- Creating a Team Member -->
             <div class="list-squares-item">
-               <a href="https://www.w3schools.com/html/html_links.asp"><img src="/assets/img/hello_world.jpeg" class="item-img"></a>
+               <a href="https://ulbinspect.github.io/pages/team/"><img src="/assets/img/hello_world.jpeg" class="item-img"></a>
                <h4>Ciaran</h4>
             </div>
 
       
                <!-- Creating a Team Member -->
             <div class="list-squares-item">
-               <a href="https://www.w3schools.com/html/html_links.asp"><img src="/assets/img/hello_world.jpeg" class="item-img"></a>
+               <a href="https://ulbinspect.github.io/pages/team/"><img src="/assets/img/hello_world.jpeg" class="item-img"></a>
                <h4>Patrick</h4>
             </div>
       
       
          <!-- Creating a Team Member -->
             <div class="list-squares-item">
-               <a href="https://www.w3schools.com/html/html_links.asp"><img src="/assets/img/Headshots/Tony.jpg" class="item-img"></a>
+               <a href="https://ulbinspect.github.io/pages/team/"><img src="/assets/img/Headshots/Tony.jpg" class="item-img"></a>
                <h4>Tony</h4>
             </div>
      
