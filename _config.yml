@@ -16,7 +16,7 @@ author: D2iCE group
 navbar-links:
   About Us: "/pages/aboutus"
   Projects: "/pages/projects"
-  Contact: "/pages/contactus"
+  Find Us: "/pages/contactus"
   Collaborators: "/pages/collaborators"
   Team: '/pages/team'
 
