@@ -15,17 +15,10 @@
   }
 }
 
-@media only screen and (min-width: 1200px) {  
-.list-squares_sq {
-    width: 100%;
-    margin-left: 0%;
-  }
-}
-
 
 .list-squares-item {
   display: inline-block;
-  width: 240px;
+  width: 250px;
   vertical-align: top;
   margin: 0;
   padding: 20px;
@@ -36,11 +29,11 @@
 }
 
 .list-squares-item .item-img {
-  max-width: 200px;
-  height: 133px;
+  max-width: 250px;
+  height: 166px;
+  border-radius: 50;
   -webkit-border-radius: 0;
   -moz-border-radius: 0;
-  border-radius: 50;
 }
 
 .list-squares-item .item-desc {
