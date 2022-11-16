@@ -2,7 +2,7 @@
 layout: page
 title: Funders & Collaborators
 full-width: True
-custom_css: colab
+custom_css: team
 <!-- subtitle:  -->
 
 team:
