@@ -96,7 +96,7 @@ team:
     orcid: https://orcid.org/my-orcid?orcid=0000-0002-7511-0330
     email: mailto:sushil.sharma@ul.ie
   - name: Kaavya Rekanar 
-    img: /assets/img/Headshots/Kaavya_Rekanar.jpeg
+    img: /assets/img/Headshots/Kaavya_Rekanar.jpg
     desc: PhD Student
     url: https://www.linkedin.com/in/kaavyarekanar/
     website: https://www.linkedin.com/in/kaavyarekanar/
