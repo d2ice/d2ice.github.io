@@ -30,10 +30,10 @@
 }
 
 .list-squares-item .item-img {
-  max-width: 200px;
+/*   max-width: 200px;
   max-height: 200px;
   width: auto;
-  height: auto;
+  height: auto; */
   object-fit: cover;
   border-radius: 0;
 }
