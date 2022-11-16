@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About Us
-full-width: True
 subtitle: 
 ---
 
