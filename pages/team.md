@@ -14,7 +14,7 @@ team:
     orcid: https://orcid.org/0000-0003-3321-450X
     email: mailto:pepijn.vandeven@ul.ie
   - name: Dr. Patrick Denny
-    img: /assets/img/hello_world.jpeg
+    img: /assets/img/Headshots/Patrick.jpg
     desc: Lecturer
     url: https://www.linkedin.com/in/patrickdenny/
     website: https://www.linkedin.com/in/patrickdenny/
