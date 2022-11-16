@@ -25,13 +25,10 @@
   padding: 20px;
 }
 
-/* .list-squares-item:hover {
-  background: #00CC00;
-} */
 
 .list-squares-item .item-img {
-  min-width: 200px;
-  min-height: 200px;
+  min-width: 100px;
+  min-height: 100px;
   width: auto;
   height: auto;
   border-radius: 0;
@@ -51,11 +48,4 @@
   text-decoration: none !important;
 }
 
-/* .list-squares-item .item-link:hover {
-  color: #00FF00;
-}
- */
 
-.fa_custom {
-  color: #00CC00
-}
