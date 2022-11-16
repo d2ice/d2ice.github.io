@@ -37,10 +37,10 @@
 
 .list-squares-item .item-img {
   max-width: 200px;
-  height: 200px;
+  height: 133px;
   -webkit-border-radius: 0;
   -moz-border-radius: 0;
-  border-radius: 0;
+  border-radius: 50;
 }
 
 .list-squares-item .item-desc {
