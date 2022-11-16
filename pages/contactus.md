@@ -12,7 +12,7 @@ subtitle:
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2419.2462241370467!2d-8.574625884039518!3d52.67359133258743!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x485b5e98212e5873%3A0xca7febf3aac3fc2d!2sUniversity%20of%20Limerick!5e0!3m2!1sen!2sie!4v1657716575176!5m2!1sen!2sie" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-% Add some space between them
+<!-- Add some space between them -->
 <br>
 
 ### Confirm Research Centre
