@@ -13,7 +13,7 @@ team:
     img: /assets/img/Logos/lero.jpg
     url: https://lero.ie/
   - name: Limerick Digital Cancer Research Centre 
-    img: /assets/img/ul.jpg
+    img: /assets/img/Logos/ul.jpg
     url: https://www.ul.ie/limerick-dcrc
   - name: University Hospital Limerick  
     img: /assets/img/UHL-Logo.png
