@@ -30,8 +30,8 @@
 
 .list-squares-item .item-img {
   max-width: 200px;
-  height: 166px;
-  border-radius: 50;
+  height: 200px;
+  border-radius: 0;
 }
 
 .list-squares-item .item-desc {
