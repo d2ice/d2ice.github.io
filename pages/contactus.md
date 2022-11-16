@@ -16,7 +16,8 @@ subtitle:
 <br>
 
 ### Confirm Research Centre
-**Eircode**: [V94 C928](https://www.google.com/maps/place/Confirm+Centre/@52.6647617,-8.5875824,17z/data=!3m1!4b1!4m5!3m4!1s0x485b5dc773a04575:0x89af5e50979e6614!8m2!3d52.6644957!4d-8.5850515)
+**Eircode**: [V94 C928](https://www.google.com/maps/dir//UNIT+2,+Confirm+Centre,+Park+Point,+Dublin+Rd,+Castletroy,+Co.+Limerick,+V94+C928/@52.6647617,-8.5853937,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x485b5dc773a04575:0x89af5e50979e6614!2m2!1d-8.5850515!2d52.6644957)
+
 
 <div class="map-responsive">
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2419.7351249302446!2d-8.5853937!3d52.66476169999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x485b5dc773a04575%3A0x89af5e50979e6614!2sConfirm%20Centre!5e0!3m2!1sen!2sie!4v1668606348146!5m2!1sen!2sie" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
