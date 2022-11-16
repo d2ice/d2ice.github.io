@@ -17,6 +17,8 @@
 
 
 .list-squares-item {
+  min-width: 200px;
+  minheight: 200px;
   display: inline-block;
   vertical-align: top;
   margin: 0;
@@ -47,9 +49,10 @@
   text-decoration: none !important;
 }
 
-.list-squares-item .item-link:hover {
+/* .list-squares-item .item-link:hover {
   color: #00FF00;
 }
+ */
 
 .fa_custom {
   color: #00CC00
