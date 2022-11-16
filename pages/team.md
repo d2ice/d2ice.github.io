@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Team
+full-width: True
 <!-- subtitle:  -->
 
 team:
