@@ -30,6 +30,8 @@
 } */
 
 .list-squares-item .item-img {
+  min-width: 200px;
+  minheight: 200px;
   width: auto;
   height: auto;
   border-radius: 0;
