@@ -31,7 +31,8 @@
 .list-squares-item .item-img {
   max-width: 250px;
   height: 250px;
-  border-radius: 0;
+  width: auto;
+  height: auto;
 }
 
 .list-squares-item .item-desc {
