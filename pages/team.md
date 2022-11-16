@@ -157,7 +157,7 @@ team:
     linkedin: https://www.linkedin.com/in/eoghan-mulcahy/
     email: mailto:eoghan.mulcahy@ul.ie
   - name: Prosper Azaglo
-    img: /assets/img/hello_world.jpeg
+    img: /assets/img/Headshots/Prosper.jpg
     desc: PhD Student
     url: https://www.linkedin.com/in/prosper-azaglo/
     website: https://www.linkedin.com/in/prosper-azaglo/
