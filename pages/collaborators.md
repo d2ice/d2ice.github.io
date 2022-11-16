@@ -19,10 +19,10 @@ team:
     img: /assets/img/Logos/UHL-Logo.png
     url: https://www.ul.ie/medicine/university-hospital-limerick
   - name: SFI Centre for Research Training in Foundations of Data Science  
-    img: /assets/img/Logos/sfi_ds_logo__.png
+    img: /assets/img/Logos/sfi_ds_logo.png
     url: https://www.data-science.ie/
   - name: Science Foundation Ireland 
-    img: /assets/img/Logos/sfi_logo__.png
+    img: /assets/img/Logos/sfi_logo.png
     url: https://www.sfi.ie/
   - name: University of São Paulo
     img: /assets/img/Logos/University_of_São_Paulo_Logo.png
@@ -31,7 +31,7 @@ team:
     img: /assets/img/Logos/Kings_College_London_logo.png
     url: https://www.kcl.ac.uk/ 
   - name: University of Bristol 
-    img: /assets/img/Logos/University_of_Bristol_logo__.jpg
+    img: /assets/img/Logos/University_of_Bristol_logo.jpg
     url: https://www.bristol.ac.uk/
   - name: Connaught Automotive Research Group, University of Galway  
     img: /assets/img/Logos/University_of_Galway_logo_2022_2.png
