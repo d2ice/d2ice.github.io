@@ -24,7 +24,7 @@ team:
     orcid: https://orcid.org/0000-0001-7494-8513
     email: mailto:patrick.denny@ul.ie
   - name: Dr. Ciarán Eising
-    img: /assets/img/hello_world.jpeg
+    img: /assets/img/Headshots/Ciaran.jpg
     desc: Lecturer
     url: https://www.linkedin.com/in/ciaraneising/
     website: https://www.linkedin.com/in/ciaraneising/
