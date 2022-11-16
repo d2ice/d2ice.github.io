@@ -18,7 +18,7 @@
 
 .list-squares-item {
   display: inline-block;
-  width: 240px;
+  width: 300px;
   vertical-align: top;
   margin: 0;
   padding: 20px;
@@ -29,8 +29,8 @@
 }
 
 .list-squares-item .item-img {
-  max-width: 200px;
-  height: 200px;
+  max-width: 250px;
+  height: 250px;
   border-radius: 0;
 }
 
