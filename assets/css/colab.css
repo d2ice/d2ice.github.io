@@ -18,7 +18,7 @@
 
 .list-squares-item {
   min-width: 200px;
-  minheight: 200px;
+  min-height: 200px;
   display: inline-block;
   vertical-align: top;
   margin: 0;
@@ -31,9 +31,10 @@
 
 .list-squares-item .item-img {
   min-width: 200px;
-  minheight: 200px;
+  min-height: 200px;
   width: auto;
   height: auto;
+  object-fit: cover;
   border-radius: 0;
 }
 
