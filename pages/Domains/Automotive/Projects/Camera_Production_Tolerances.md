@@ -72,8 +72,8 @@ The autonomous industry has advanced considerably in the application of state-of
    
                  <!-- Creating a Partner -->
                   <div class="list-squares-item">
-                     <a href="https://lero.ie/"><img src="/assets/img/lero_logo.png" width="200" height ="100"></a>
-                     <h4>Confirm</h4>
+                     <a href="https://lero.ie/"><img src="/assets/img/Logos/lero_logo.png" width="200" height ="100"></a>
+                     <h4>Lero</h4>
                   </div>
          
                  <!-- Creating a Partner -->
