@@ -13,6 +13,16 @@ Lidar and Camera, the most used sensors in the car have limitations in adverse w
 
 <video>  <source src="https://media.graphassets.com/qK1EgPHXQJeYdnjkS6EC" type="video/mp4"></video>
 
+<style>
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  max-height: 100%;
+}
+</style>
+
 #### Team Members 
 
 
@@ -26,7 +36,7 @@ Lidar and Camera, the most used sensors in the car have limitations in adverse w
                           
                <!-- Creating a Team Member -->
                <div class="list-squares-item">
-                  <a href="https://ulbinspect.github.io/pages/team/"><img src="/assets/img/Hedshots/Ciaran.jpg" class="item-img"></a>
+                  <a href="https://ulbinspect.github.io/pages/team/"><img src="/assets/img/Headshots/Ciaran.jpg" class="item-img"></a>
                   <h4>Dr. Ciarán Eising</h4>
                </div>
              
@@ -47,8 +57,8 @@ Lidar and Camera, the most used sensors in the car have limitations in adverse w
              
                <!-- Creating a Team Member -->
                   <div class="list-squares-item">
-                     <a href="https://ulbinspect.github.io/pages/team/"><img src="/assets/img/Headshots/Skrikanth.jpg" class="item-img"></a>
-                     <h4>Skrikanth Tiyyagura</h4>
+                     <a href="https://ulbinspect.github.io/pages/team/"><img src="/assets/img/Headshots/Srikanth.jpg" class="item-img"></a>
+                     <h4>Srikanth Tiyyagura</h4>
                   </div> 
       
  
