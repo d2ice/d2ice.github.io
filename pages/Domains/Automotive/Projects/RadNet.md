@@ -15,6 +15,7 @@ Lidar and Camera, the most used sensors in the car have limitations in adverse w
 <iframe style="display: block; margin: auto;" width="560" height="315" src="https://media.graphassets.com/qK1EgPHXQJeYdnjkS6EC" type="video/mp4" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+<img src="/assets/img/Projects/Radar_Dense_ Point_Cloud.png" class="center">
 
 #### Team Members 
 
