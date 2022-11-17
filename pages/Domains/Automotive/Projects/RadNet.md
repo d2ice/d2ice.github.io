@@ -11,6 +11,12 @@ Provizio, the partner and sponsor of the project, looks at the self-driving car 
 Lidar and Camera, the most used sensors in the car have limitations in adverse weather conditions – rain, snow and fog, and low light conditions. On the other hand, Radar performs better in these conditions and provides long-range detection capability. However, Radar has its own limitations in object classification and resolution due to its Sparse point clouds. This project looks at using Radar and a combination of other automotive sensors for object detection, tracking, and Prediction in urban and motorway scenarios. More specifically, Pedestrians are the most vulnerable road users and trickier to detect and track due to non-linear motion, unlike other road users. Under this project, key role is given to Pedestrian detection, tracking, and trajectory prediction, which helps to predict and prevent road accidents.   
 
 
+<div class="video-container">
+<iframe style="display: block; margin: auto;" width="560" height="315" src="https://media.graphassets.com/qK1EgPHXQJeYdnjkS6EC" type="video/mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<!-- Add some space between video and text -->
+<br>
+
 <video>  <source src="https://media.graphassets.com/qK1EgPHXQJeYdnjkS6EC" type="video/mp4"></video>
 
 <style>
