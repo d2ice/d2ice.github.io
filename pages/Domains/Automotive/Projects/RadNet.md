@@ -12,22 +12,9 @@ Lidar and Camera, the most used sensors in the car have limitations in adverse w
 
 
 <div class="video-container">
-<iframe style="display: block; margin: auto;" width="560" height="315" src="https://media.graphassets.com/qK1EgPHXQJeYdnjkS6EC" type="video/mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="display: block; margin: auto;" width="560" height="315" src="https://media.graphassets.com/qK1EgPHXQJeYdnjkS6EC" type="video/mp4" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-<!-- Add some space between video and text -->
-<br>
 
-<video>  <source src="https://media.graphassets.com/qK1EgPHXQJeYdnjkS6EC" type="video/mp4"></video>
-
-<style>
-#myVideo {
-  position: fixed;
-  right: 0;
-  bottom: 0;
-  width: 100%;
-  max-height: 100%;
-}
-</style>
 
 #### Team Members 
 
