@@ -5,10 +5,13 @@ subtitle:
 ---
 
 ### Project Motivation
-Many studies suggest that deep neural control networks are likely to be a key component of self-driving vehicles. These networks are trained on large datasets to imitate human actions, but they lack semantic understanding of agents' movements in a given scenario. This information makes the system perform better and explainable to end-users in self-driving vehicles. It will help increase public confidence in self-driving technology.  
+Provizio, the partner and sponsor of the project, looks at the self-driving car classification from a different point of view. Instead of automating the process of driving, they saw the need to avoid accidents under all road scenarios as the first step towards autonomous driving. They want to predict and prevent accidents, which helps to avoid 1 million deaths every year. A part of this idea gave birth to this project.   
 
 ### Project Description
-Visual Common-Sense Reasoning in Autonomous Cars.
+Lidar and Camera, the most used sensors in the car have limitations in adverse weather conditions – rain, snow and fog, and low light conditions. On the other hand, Radar performs better in these conditions and provides long-range detection capability. However, Radar has its own limitations in object classification and resolution due to its Sparse point clouds. This project looks at using Radar and a combination of other automotive sensors for object detection, tracking, and Prediction in urban and motorway scenarios. More specifically, Pedestrians are the most vulnerable road users and trickier to detect and track due to non-linear motion, unlike other road users. Under this project, key role is given to Pedestrian detection, tracking, and trajectory prediction, which helps to predict and prevent road accidents.   
+
+
+<video>  <source src="https://media.graphassets.com/qK1EgPHXQJeYdnjkS6EC" type="video/mp4"></video>
 
 #### Team Members 
 
@@ -20,30 +23,33 @@ Visual Common-Sense Reasoning in Autonomous Cars.
                  
           <div class="list-squares">
       
+                          
+               <!-- Creating a Team Member -->
+               <div class="list-squares-item">
+                  <a href="https://ulbinspect.github.io/pages/team/"><img src="/assets/img/Hedshots/Ciaran.jpg" class="item-img"></a>
+                  <h4>Dr. Ciarán Eising</h4>
+               </div>
+             
+             
                 <!-- Creating a Team Member -->
-  
-                  <div class="list-squares-item">
-                     <a href="https://ulbinspect.github.io/pages/team/"><img src="/assets/img/hello_world.jpeg" class="item-img"></a>
-                     <h4> Dr. Martin Hayes</h4>
-                     <div class="item-desc">Lecturer</div>
+                    <div class="list-squares-item">
+                     <a href="https://ulbinspect.github.io/pages/team/"><img src="/assets/img/Headshots/Pepijn.jpg" class="item-img"></a>
+                     <h4>Dr. Pepijn van de Ven</h4>
                   </div>
-             
-             
-             <!-- Creating a Team Member -->
-                  <div class="list-squares-item">
-                     <a href="https://ulbinspect.github.io/pages/team/"><img src="/assets/img/hello_world.jpeg" class="item-img"></a>
-                     <h4> Dr. Ciarán Eising</h4>
-                     <div class="item-desc">Lecturer</div>
-                  </div>
+                          
         
              <!-- Creating a Team Member -->
                   <div class="list-squares-item">
-                     <a href="https://ulbinspect.github.io/pages/team/"><img src="/assets/img/hello_world.jpeg" class="item-img"></a>
-                     <h4> Ganesh Sistu</h4>
-                     <div class="item-desc">Industry Partner</div>
+                     <a href="https://ulbinspect.github.io/pages/team/"><img src="/assets/img/Headshots/Tony.jpg" class="item-img"></a>
+                     <h4>Dr. Tony Scanlan</h4>
                   </div> 
- 
-
+             
+             
+               <!-- Creating a Team Member -->
+                  <div class="list-squares-item">
+                     <a href="https://ulbinspect.github.io/pages/team/"><img src="/assets/img/Headshots/Skrikanth.jpg" class="item-img"></a>
+                     <h4>Skrikanth Tiyyagura</h4>
+                  </div> 
       
  
       </div>
@@ -62,10 +68,22 @@ Visual Common-Sense Reasoning in Autonomous Cars.
    
                  <!-- Creating a Partner -->
                   <div class="list-squares-item">
-                     <a href="https://confirm.ie/"><img src="/assets/img/confirm_logo.png" width="200" height ="100"></a>
-                     <h4>Confirm</h4>
+                     <a href="https://lero.ie/"><img src="/assets/img/Logos/lero_logo.png" width="200" height ="100"></a>
+                     <h4>Lero</h4>
                   </div>
-                                
+         
+                 <!-- Creating a Partner -->
+                  <div class="list-squares-item">
+                     <a href="https://provizio.ai/"><img src="/assets/img/Logos/provizio_logo.png" width="200" height ="100" ></a>
+                     <h4>Provizio</h4>
+                  </div>
+         
+                  <!-- Creating a Partner -->
+                  <div class="list-squares-item">
+                     <a href="https://www.sfi.ie/"><img src="/assets/img/Logos/sfi_logo.png" width="200" height ="100" ></a>
+                     <h4>SFI</h4>
+                  </div>
+                        
                   
       </div>
   </div>
