@@ -30,38 +30,30 @@ The autonomous industry has advanced considerably in the application of state-of
           <div class="list-squares">
       
                 <!-- Creating a Team Member -->
-  
-                  <div class="list-squares-item">
-                     <a href="https://ulbinspect.github.io/pages/team/"><img src="/assets/img/hello_world.jpeg" class="item-img"></a>
+                    <div class="list-squares-item">
+                     <a href="https://ulbinspect.github.io/pages/team/"><img src="/assets/img/Headshots/Pepijn.jpg" class="item-img"></a>
                      <h4> Dr. Pepijn Van de Ven</h4>
-                     <div class="item-desc">Lecturer</div>
                   </div>
-             
-             
+                          
              <!-- Creating a Team Member -->
                   <div class="list-squares-item">
-                     <a href="https://ulbinspect.github.io/pages/team/"><img src="/assets/img/hello_world.jpeg" class="item-img"></a>
+                     <a href="https://ulbinspect.github.io/pages/team/"><img src="/assets/img/Headshots/Ciaran.jpg" class="item-img"></a>
                      <h4> Dr. Ciarán Eising</h4>
-                     <div class="item-desc">Lecturer</div>
                   </div>
         
              <!-- Creating a Team Member -->
                   <div class="list-squares-item">
-                     <a href="https://ulbinspect.github.io/pages/team/"><img src="/assets/img/hello_world.jpeg" class="item-img"></a>
+                     <a href="https://ulbinspect.github.io/pages/team/"><img src="/assets/img/Headshots/Tony.jpg" class="item-img"></a>
                      <h4> Dr. Tony Scanlan</h4>
-                     <div class="item-desc">Senior Research Fellow</div>
                   </div> 
  
-     
       
               <!-- Creating a Team Member -->
                <div class="list-squares-item">
-                  <a href="https://ulbinspect.github.io/pages/team/"><img src="/assets/img/hello_world.jpeg" class="item-img"></a>
+                  <a href="https://ulbinspect.github.io/pages/team/"><img src="/assets/img/Headshots/Daniel.jpg" class="item-img"></a>
                   <h4>Daniel Jakab</h4>
                   <div class="item-desc">PhD Student</div>
                </div>
-
-      
  
       </div>
     </div>
@@ -80,14 +72,20 @@ The autonomous industry has advanced considerably in the application of state-of
    
                  <!-- Creating a Partner -->
                   <div class="list-squares-item">
-                     <a href="https://confirm.ie/"><img src="/assets/img/confirm_logo.png" width="200" height ="100"></a>
+                     <a href="https://lero.ie/"><img src="/assets/img/lero_logo.png" width="200" height ="100"></a>
                      <h4>Confirm</h4>
                   </div>
          
                  <!-- Creating a Partner -->
                   <div class="list-squares-item">
-                     <a href="https://www.valeo.com/en/"><img src="/assets/img/Logo/Valeo_Logo.png" width="200" height ="100" ></a>
+                     <a href="https://www.valeo.com/en/"><img src="/assets/img/Logos/Valeo_Logo.png" width="200" height ="100" ></a>
                      <h4>Valeo</h4>
+                  </div>
+         
+                  <!-- Creating a Partner -->
+                  <div class="list-squares-item">
+                     <a href="https://www.sfi.ie/"><img src="/assets/img/Logos/sfi_logo.png" width="200" height ="100" ></a>
+                     <h4>SFI</h4>
                   </div>
                         
                   
