@@ -7,7 +7,7 @@ subtitle:
 ![Team Picture](/assets/img/team.jpg)
 
 
-D2ICE is a collective of experienced academic and industrial technologists active in data-driven intelligent computational engineering, concerned with addressing real-world problems using machine learning and artificial intelligence.
+D2ICE is a collective of experienced academic and industrial technologists active in data-driven intelligent computer engineering, concerned with addressing real-world problems using machine learning and artificial intelligence.
 
 Our focus is on the systematic application and exploration of modern problems with state-of-the-art methods.
 
