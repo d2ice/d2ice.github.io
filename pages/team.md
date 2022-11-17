@@ -169,7 +169,7 @@ team:
 {% include list-squares.html items=page.team %}
 
 
-
+<!-- 
 ### Associated Members
 - [Person 1](https://en.wikipedia.org/wiki/Bruce_Springsteen)
 - [Person 2](https://en.wikipedia.org/wiki/Bruce_Springsteen)
@@ -180,6 +180,6 @@ team:
   
 ### Former Members
 - [Person 1](https://en.wikipedia.org/wiki/Bruce_Springsteen)
-- [Person 2](https://en.wikipedia.org/wiki/Bruce_Springsteen)
+- [Person 2](https://en.wikipedia.org/wiki/Bruce_Springsteen) -->
 
 
