@@ -102,6 +102,12 @@ The focus of the project is to investigate the application of key-enabling techn
                      <a href="https://www.amcsgroup.com/"><img src="/assets/img/Logos/amcs_logo.png" width="200" height ="100" ></a>
                      <h4>AMCS</h4>
                   </div>
+         
+                 <!-- Creating a Partner -->
+                  <div class="list-squares-item">
+                     <a href="https://www.sfi.ie/"><img src="/assets/img/Logos/sfi_logo.png" width="200" height ="100" ></a>
+                     <h4>SFI</h4>
+                  </div>
                         
                   
       </div>
