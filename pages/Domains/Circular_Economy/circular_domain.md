@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Circular Domain
+title: Circular Economy
 custom-css: colab
 <!-- subtitle:  -->
 
