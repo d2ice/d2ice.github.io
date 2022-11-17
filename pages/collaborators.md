@@ -10,7 +10,7 @@ team:
     img: /assets/img/Logos/confirm_logo.png
     url: https://confirm.ie/
   - name: Lero
-    img: /assets/img/Logos/lero.jpg
+    img: /assets/img/Logos/lero_logo.png
     url: https://lero.ie/
   - name: Limerick Digital Cancer Research Centre 
     img: /assets/img/Logos/ul.jpg
