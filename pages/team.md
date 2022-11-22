@@ -165,6 +165,14 @@ team:
     github: https://github.com/pazaglo
     linkedin: https://www.linkedin.com/in/prosper-azaglo/
     email: mailto:prosper.azaglo@ul.ie
+  - name: Arindam Das
+    img: /assets/img/Headshots/ArindamDas.jpg
+    desc: PhD Student
+    url: https://www.linkedin.com/in/arindam-das-9b219349/
+    website: https://www.linkedin.com/in/arindam-das-9b219349/
+    google-scholar: https://scholar.google.co.in/citations?user=W8DTl_gAAAAJ&hl=en
+    linkedin: https://www.linkedin.com/in/arindam-das-9b219349/
+    orcid: https://orcid.org/0000-0001-9564-691X
 ---
 {% include list-squares.html items=page.team %}
 
