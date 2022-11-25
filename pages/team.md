@@ -174,6 +174,7 @@ team:
     google-scholar: https://scholar.google.co.in/citations?user=W8DTl_gAAAAJ&hl=en
     linkedin: https://www.linkedin.com/in/arindam-das-9b219349/
     orcid: https://orcid.org/0000-0001-9564-691X
+    email: mailto:22400605@studentmail.ul.ie
 ---
 {% include list-squares.html items=page.team %}
 
