@@ -2,6 +2,7 @@
 layout: page
 title: Circular Economy
 custom-css: colab
+footer-extra: footerlogo.html
 <!-- subtitle:  -->
 
 team:
