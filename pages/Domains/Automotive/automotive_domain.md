@@ -20,5 +20,10 @@ team:
     desc: We aim to design a visual common-sense model that interacts with end-user in autonomous driving scenarios and answers queries on the driving decisions made by the vehicle. 
     website: https://ulbinspect.github.io/pages/Domains/Automotive/Projects/Vision_language_auto_drive/ 
     url: https://ulbinspect.github.io/pages/Domains/Automotive/Projects/Vision_language_auto_drive/     
+  - name: MultiPoseNet 
+    img: /assets/img/Projects/Impact_camera_thumbnail.jpg
+    desc: A robust multi-modal approach to pedestrian pose and activity recognition for autonomous driving. 
+    website: https://github.com/ULBInspect/ULBInspect.github.io/blob/master/pages/Domains/Automotive/Projects/MultiPoseNet.md
+    url: https://github.com/ULBInspect/ULBInspect.github.io/blob/master/pages/Domains/Automotive/Projects/MultiPoseNet.md
 ---
 {% include list-squares.html items=page.team %}
