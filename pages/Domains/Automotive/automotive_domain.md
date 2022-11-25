@@ -2,6 +2,7 @@
 layout: page
 title: Projects
 footer-extra: footerlogo.html
+full-width: True
 <!-- subtitle:  -->
 
 team:
