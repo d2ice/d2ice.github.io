@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Projects
+footer-extra: footerlogo.html
 <!-- subtitle:  -->
 
 team:
