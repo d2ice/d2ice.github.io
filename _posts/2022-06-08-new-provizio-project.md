@@ -13,7 +13,7 @@ Provizio founder and CEO Barry Lunn said the World Health Organisation (WHO)* es
 
 “Preventable human error has a role in more than 90% of road accidents. The numbers have not changed for more than 20 years. Unless we initiate change, this worldwide problem will continue unabated. We started Provizio to solve this problem firstly, and then we will pave a path to safe, sustainable and ubiquitous autonomy. With the right focus, we believe that robotics and drivers can work together to reduce both road deaths and accidents to zero – 1.35 million to zero drives everything we do,” he said.
 
-Lero researchers Dr Ciarán Eising and Dr Pepijn Van de Ven, in association with Provizio, will focus on the fusion of data from onboard cameras and radar sensors to help eliminate traffic accidents for all drivers – human and robotic.
+D<sup>2</sup>iCE and Lero researchers Dr Ciarán Eising and Dr Pepijn Van de Ven, in association with Provizio, will focus on the fusion of data from onboard cameras and radar sensors to help eliminate traffic accidents for all drivers – human and robotic.
 
 “Every decision to move that an autonomous car makes, based on its sensor inputs, is potentially a life or death one. The time-critical nature of the car’s operation means that only the car can make these decisions safely and reliably.
 
