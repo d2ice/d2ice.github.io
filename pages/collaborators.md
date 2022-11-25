@@ -19,7 +19,7 @@ team:
     img: /assets/img/Logos/UHL-Logo.png
     url: https://www.ul.ie/medicine/university-hospital-limerick
   - name: SFI Centre for Research Training in Foundations of Data Science  
-    img: /assets/img/Logos/sfi_ds_logo.jpg
+    img: /assets/img/Logos/sfi_ds_logo.png
     url: https://www.data-science.ie/
   - name: Science Foundation Ireland 
     img: /assets/img/Logos/sfi_logo.png
@@ -34,7 +34,7 @@ team:
     img: /assets/img/Logos/University_of_Bristol_logo.png
     url: https://www.bristol.ac.uk/
   - name: Connaught Automotive Research Group, University of Galway  
-    img: /assets/img/Logos/University_of_Galway_logo_2022_2.png
+    img: /assets/img/Logos/University_of_Galway_logo_2022.png
     url: https://car.universityofgalway.ie/
   - name: Valeo   
     img: /assets/img/Logos/Valeo_Logo.png
