@@ -475,7 +475,6 @@ footer {
   background-color: {{ site.footer-col | default: "#EAEAEA" }};
   {% if site.footer-img %}
     background-image: url({{ site.footer-img | relative_url }});
-    /* Cathaoir      */
     background-attachment: no-repeat center center; 
   {% endif %}
 }
