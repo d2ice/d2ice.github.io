@@ -905,7 +905,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 .pagination .page-item .page-link:hover,
 .pagination .page-item .page-link:focus {
   color: #00FF00;
-  border: 1px solid {{ site.hover-col | default: "#00FF00" }};
+  border: 1px solid {{ site.hover-col | default: "#FFFFFF" }};
   background-color: {{ site.hover-col | default: "#00FF00" }};
 }
 
