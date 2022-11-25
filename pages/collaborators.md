@@ -13,7 +13,7 @@ team:
     img: /assets/img/Logos/provizio_logo.png
     url: https://www.provizio.ai/
   - name: Limerick Digital Cancer Research Centre 
-    img: /assets/img/Logos/UL_logo_2.jpg
+    img: /assets/img/Logos/UL_logo_2.png
     url: https://www.ul.ie/limerick-dcrc
   - name: University Hospital Limerick  
     img: /assets/img/Logos/UHL-Logo.png
