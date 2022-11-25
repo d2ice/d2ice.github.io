@@ -475,7 +475,11 @@ footer {
   background-color: {{ site.footer-col | default: "#EAEAEA" }};
   {% if site.footer-img %}
     background-image: url({{ site.footer-img | relative_url }});
-    background-attachment: no-repeat center center; 
+    background: no-repeat center center;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    background-size: contain;
+    -o-background-size: contain;
   {% endif %}
 }
 
