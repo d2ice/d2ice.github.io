@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Us
+footer-extra: footerlogo.html
 subtitle: 
 ---
 
