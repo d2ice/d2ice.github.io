@@ -721,10 +721,10 @@ footer .footer-custom-content {
 /* Cathaoir */
 .intro-header.big-img {
   background: no-repeat center center;
-  -webkit-background-size: 1200px 600px;
-  -moz-background-size: 1200px 600px;
-  background-size: 1200px 600px;
-  -o-background-size: 1200px 600px;
+  -webkit-background-size: auto;
+  -moz-background-size: auto;
+  background-size: auto;
+  -o-background-size: auto;
   margin-top: 3.1875rem; /* The small navbar is 50px tall + 1px border */
   margin-bottom: 2.1875rem;
 }
