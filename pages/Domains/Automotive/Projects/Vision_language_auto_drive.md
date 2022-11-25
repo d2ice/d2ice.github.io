@@ -50,7 +50,7 @@ For this, we are looking at creating a dataset that is entirely in the context o
         
              <!-- Creating a Team Member -->
                   <div class="list-squares-item">
-                     <a href="https://ulbinspect.github.io/pages/team/"><img src="/assets/img/Headshots/External/Ganesh_Sistu.jpg" class="item-img"></a>
+                     <a href="https://www.linkedin.com/in/ganeshsistu/"><img src="/assets/img/Headshots/External/Ganesh_Sistu.jpg" class="item-img"></a>
                      <h4>Ganesh Sistu</h4>
                   </div> 
  
