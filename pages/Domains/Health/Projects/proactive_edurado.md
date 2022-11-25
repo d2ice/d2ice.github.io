@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Proactive
+footer-extra: footerlogo.html
 subtitle: 
 ---
 
