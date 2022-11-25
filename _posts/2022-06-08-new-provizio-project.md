@@ -17,7 +17,7 @@ D<sup>2</sup>iCE and Lero researchers Dr Ciarán Eising and Dr Pepijn Van de Ven
 
 “Every decision to move that an autonomous car makes, based on its sensor inputs, is potentially a life or death one. The time-critical nature of the car’s operation means that only the car can make these decisions safely and reliably.
 
-![](/assets/img/blog/UL-Provizio-AI-1_small.jpg "Pictured at FMCI (Future Mobility Campus Ireland) test centre for Autonomous Car Technology in Shannon, Co Clare are (Left to Right) Letizia Mariotti, Provizio, Srikanth Tiyyagura, PhD Student at the University of Limerick, Barry Lunn, CEO of Proizio, and Dr Ciaran Eising, Lero Researcher at University of Limerick. Picture Credit: Arthur Ellis Caption")
+![](/assets/img/blog/UL-Provizio-AI-1_small.jpg "Pictured at FMCI (Future Mobility Campus Ireland) test centre for Autonomous Car Technology in Shannon, Co Clare are (Left to Right) Dr Letizia Mariotti, Provizio, Srikanth Tiyyagura, PhD Student at the University of Limerick, Barry Lunn, CEO of Proizio, and Dr Ciaran Eising, Lero Researcher at University of Limerick. Picture Credit: Arthur Ellis Caption")
 
 “A critical challenge to the successful deployment of autonomous vehicles is the difficulty the vehicle has in viewing and understanding the environment in which it must safely operate and understanding its location within that environment,” explains Dr Eising
 
