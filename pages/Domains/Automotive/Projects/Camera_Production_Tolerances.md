@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Impact of Camera Production Tolerances on Computer Vision 
+footer-extra: footerlogo.html
 subtitle: 
 ---
 
