@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Vision based language tasks in Autonomous Driving
+footer-extra: footerlogo.html
 subtitle: 
 ---
 
