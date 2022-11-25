@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Find Us
+footer-extra: footerlogo.html
 subtitle: 
 ---
 
