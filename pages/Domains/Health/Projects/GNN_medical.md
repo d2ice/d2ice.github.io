@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Applying Graph neural networks for medical image analysis 
+footer-extra: footerlogo.html
 subtitle: 
 ---
 
