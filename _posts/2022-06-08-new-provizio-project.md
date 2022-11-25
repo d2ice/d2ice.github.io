@@ -7,7 +7,7 @@ share-img: /assets/img/path.jpg
 tags: [Automotive, Provizio, Radar, Computer Vision, Lero]
 ---
 
-Researchers at the D<sup>2</sup>iCE research group, supported by [Lero](https://lero.ie/)], the [Science Foundation Ireland](https://www.sfi.ie/) Research Centre for Software, are teaming up with automotive perception company [Provizio](https://provizio.ai/) to develop artificial intelligence tools to end traffic accidents on the world’s roads which result in 1.35 million deaths annually.
+Researchers at the D<sup>2</sup>iCE research group, supported by [Lero](https://lero.ie/), the [Science Foundation Ireland](https://www.sfi.ie/) Research Centre for Software, are teaming up with automotive perception company [Provizio](https://provizio.ai/) to develop artificial intelligence tools to end traffic accidents on the world’s roads which result in 1.35 million deaths annually.
 
 Provizio founder and CEO Barry Lunn said the World Health Organisation (WHO)* estimates that annually, more than 1.35 million die in road traffic accidents, with more than 50 million people maimed, and the cost to the global economy is estimated to be just shy of €2 trillion annually.
 
