@@ -3,7 +3,6 @@ layout: page
 title: Team
 full-width: True
 custom_css: team
-footer-extra: footerlogo.html
 <!-- subtitle:  -->
 
 team:
