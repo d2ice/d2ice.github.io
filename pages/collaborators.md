@@ -9,9 +9,9 @@ team:
   - name: Confirm
     img: /assets/img/Logos/confirm_logo.png
     url: https://confirm.ie/
-  - name: Lero
-    img: /assets/img/Logos/lero_logo.png
-    url: https://lero.ie/
+  - name: Provizio
+    img: /assets/img/Logos/provizio_logo.png
+    url: https://www.provizio.ai/
   - name: Limerick Digital Cancer Research Centre 
     img: /assets/img/Logos/ul.jpg
     url: https://www.ul.ie/limerick-dcrc
@@ -42,8 +42,8 @@ team:
   - name: AMCS
     img: /assets/img/Logos/amcs_logo.png
     url: https://www.amcsgroup.com/
-  - name: Provizio
-    img: /assets/img/Logos/provizio_logo.png
-    url: https://www.provizio.ai/
+  - name: Lero
+    img: /assets/img/Logos/lero_logo.png
+    url: https://lero.ie/
 ---
 {% include list-squares.html items=page.team %}
