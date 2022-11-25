@@ -24,7 +24,7 @@ team:
   - name: MultiPoseNet 
     img: /assets/img/Projects/Impact_camera_thumbnail.jpg
     desc: A robust multi-modal approach to pedestrian pose and activity recognition for autonomous driving. 
-    website: https://github.com/ULBInspect/ULBInspect.github.io/blob/master/pages/Domains/Automotive/Projects/MultiPoseNet.md
-    url: https://github.com/ULBInspect/ULBInspect.github.io/blob/master/pages/Domains/Automotive/Projects/MultiPoseNet.md
+    website: https://ulbinspect.github.io/pages/Domains/Automotive/Projects/MultiPoseNet/
+    url: https://ulbinspect.github.io/pages/Domains/Automotive/Projects/MultiPoseNet/
 ---
 {% include list-squares.html items=page.team %}
