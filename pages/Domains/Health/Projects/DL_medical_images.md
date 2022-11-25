@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Deep learning for Medical Images with limited labels
+footer-extra: footerlogo.html
 subtitle: 
 ---
 
