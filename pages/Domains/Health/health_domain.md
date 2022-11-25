@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Projects
+full-width: True
 footer-extra: footerlogo.html
 <!-- subtitle:  -->
 
