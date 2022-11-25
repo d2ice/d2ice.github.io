@@ -1,8 +1,8 @@
 ---
 layout: post
 title: D2iCE Group to collaborate with Provizio to develop artificial intelligence tools to end traffic accidents
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+cover-img: /_posts/images/UL-Provizio-AI-1_small.jpg
+thumbnail-img: /_posts/images/UL-Provizio-AI-1_thumb.jpg
 share-img: /assets/img/path.jpg
 tags: [Automotive, Provizio, Radar, Computer Vision, Lero]
 ---
