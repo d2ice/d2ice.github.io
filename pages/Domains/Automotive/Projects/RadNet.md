@@ -1,6 +1,7 @@
 ---
 layout: page
 title: RadNet: Automotive detection, tracking and prediction using radar data
+footer-extra: footerlogo.html
 subtitle: 
 ---
 
