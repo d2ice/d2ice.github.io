@@ -42,7 +42,7 @@ For this, we are looking at creating a dataset that is entirely in the context o
       
                 <!-- Creating a Team Member -->
                   <div class="list-squares-item">
-                     <a href="https://www.linkedin.com/in/martinjhayes/"><img src="/assets/img/Headshots/Martin_Hayes.jpg" class="item-img"></a>
+                     <a href="https://www.linkedin.com/in/martinjhayes/"><img src="/assets/img/Headshots/External/Martin_Hayes.jpg" class="item-img"></a>
                      <h4>Dr. Martin Hayes</h4>
                   </div>
              
@@ -50,7 +50,7 @@ For this, we are looking at creating a dataset that is entirely in the context o
         
              <!-- Creating a Team Member -->
                   <div class="list-squares-item">
-                     <a href="https://ulbinspect.github.io/pages/team/"><img src="/assets/img/Headshots/Ganesh_Sistu.jpg" class="item-img"></a>
+                     <a href="https://ulbinspect.github.io/pages/team/"><img src="/assets/img/Headshots/External/Ganesh_Sistu.jpg" class="item-img"></a>
                      <h4>Ganesh Sistu</h4>
                   </div> 
  
@@ -61,26 +61,6 @@ For this, we are looking at creating a dataset that is entirely in the context o
     </div>
 </div>
 
-### Partners of Project
-
-
-<div class="container-fluid">
-   
-   <div class="row">
-      
-      <div class="list-squares">
-                 
-   
-                 <!-- Creating a Partner -->
-                  <div class="list-squares-item">
-                     <a href="https://confirm.ie/"><img src="/assets/img/confirm_logo.png" width="200" height ="100"></a>
-                     <h4>Confirm</h4>
-                  </div>
-                                
-                  
-      </div>
-  </div>
-</div>
 
 
 ### Partners of Project
