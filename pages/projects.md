@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Project Domains
+footer-extra: footerlogo.html
 subtitle: 
 
 team:
