@@ -32,7 +32,7 @@ The results of our trial were published in the Lancet Health Longevity and demon
                   
                 <!-- Creating a Team Member -->
                	<div class="list-squares-item">
-                     <a href="https://www.linkedin.com/in/damien-meere-82470415/"><img src="/assets/img/Headshots/Damien_Meere.jpg" class="item-img"></a>
+                     <a href="https://www.linkedin.com/in/damien-meere-82470415/"><img src="/assets/img/Headshots/External/Damien_Meere.jpg" class="item-img"></a>
                      <h4>Dr. Damien Meere</h4>
                   </div>
                                  
