@@ -59,7 +59,7 @@ The objective is to bridge the gap between fully supervised methods developed us
    
                  <!-- Creating a Partner -->
                   <div class="list-squares-item">
-                     <a href="https://www.data-science.ie/"><img src="/assets/img/Logos/sfi_ds_logo.png" width="200" height ="100"></a>
+                     <a href="https://www.data-science.ie/"><img src="/assets/img/Logos/sfi_ds_logo.png" width="100" height ="100"></a>
                      <h4>SFI Centre for Research Training in Foundations of Data Science</h4>
                   </div>
          
