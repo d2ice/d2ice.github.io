@@ -1,6 +1,6 @@
 ---
 layout: post
-title: D<sup>2</sup>iCE Group to collaborate with Provizio to develop artificial intelligence tools to end traffic accidents
+title: D<sup>2</sup>iCE Group and Lero to collaborate with Provizio to develop artificial intelligence tools to end traffic accidents
 cover-img: /assets/img/blog/UL-Provizio-Lero-017.jpg
 thumbnail-img: /assets/img/blog/UL-Provizio-AI-1_thumb.jpg
 share-img: /assets/img/path.jpg
