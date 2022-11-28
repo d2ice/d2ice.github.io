@@ -32,26 +32,26 @@ The autonomous industry has advanced considerably in the application of state-of
       
                 <!-- Creating a Team Member -->
                     <div class="list-squares-item">
-                     <a href="https://ulbinspect.github.io/pages/team/"><img src="/assets/img/Headshots/Pepijn.jpg" class="item-img"></a>
+                     <a href="../../../../team/"><img src="/assets/img/Headshots/Pepijn.jpg" class="item-img"></a>
                      <h4> Dr. Pepijn Van de Ven</h4>
                   </div>
                           
              <!-- Creating a Team Member -->
                   <div class="list-squares-item">
-                     <a href="https://ulbinspect.github.io/pages/team/"><img src="/assets/img/Headshots/Ciaran.jpg" class="item-img"></a>
+                     <a href="../../../../team/"><img src="/assets/img/Headshots/Ciaran.jpg" class="item-img"></a>
                      <h4> Dr. Ciarán Eising</h4>
                   </div>
         
              <!-- Creating a Team Member -->
                   <div class="list-squares-item">
-                     <a href="https://ulbinspect.github.io/pages/team/"><img src="/assets/img/Headshots/Tony.jpg" class="item-img"></a>
+                     <a href="../../../../team/"><img src="/assets/img/Headshots/Tony.jpg" class="item-img"></a>
                      <h4> Dr. Tony Scanlan</h4>
                   </div> 
  
       
               <!-- Creating a Team Member -->
                <div class="list-squares-item">
-                  <a href="https://ulbinspect.github.io/pages/team/"><img src="/assets/img/Headshots/Daniel.jpg" class="item-img"></a>
+                  <a href="../../../../team/"><img src="/assets/img/Headshots/Daniel.jpg" class="item-img"></a>
                   <h4>Daniel Jakab</h4>
                   <div class="item-desc">PhD Student</div>
                </div>
