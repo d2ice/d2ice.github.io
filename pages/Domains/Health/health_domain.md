@@ -12,22 +12,22 @@ team:
     website: ../Projects/DL_medical_images/
     url: ../Projects/DL_medical_images/
   - name: Applying Graph neural networks for medical image analysis
-    img: /assets/img/thumb.png
+    img: /assets/img/Projects/GNN_medical.jpg
     desc: Applying GNN (Graph Neural Networks) method to learn latent features from medical image data, applying representation learning techniques for better classification and segmentation of medical images. Exploration of difference between Deep neural networks learning and Graph neural networks learning, explainablity of GNNs. 
     website: ../Projects/GNN_medical/
     url: ../Projects/GNN_medical/
   - name: Fast identification of depressive symptomatology using probabilistic machine learning. 
-    img: /assets/img/health_care.png
+    img: /assets/img/Projects/proact_edurado.jpg
     desc: Depression is an extremely common disorder, yet often not diagnosed. We aim to use Probabilistic Machine Learning to develop optimised approaches to help the specialists to identify these people, giving them the chance to access proper treatment as soon as possible. 
     website: ../Projects/proactive_edurado/
     url: ../Projects/proactive_edurado/
   - name: Ultra-brief questionnaires for pre-screening for depressive symptomatology
-    img: /assets/img/health_care.png
+    img: /assets/img/Projects/proact_darragh.jpg
     desc: Find the optimal ultra-brief questionnaire to identify depressive symptoms.   
     website: ../Projects/proactive_darragh/
     url: ../Projects/proactive_darragh/
   - name: Proactive Depression Treatment System
-    img: /assets/img/health_care.png
+    img: /assets/img/Projects/proact_pepijn.jpg
     desc: Proactive implements a computerised psycho-social intervention that guides carers without formal mental health training to provide an effective depression intervention to elderly inhabitants of Sao Paulo’s favella’s at low cost
     website: ../Projects/proactive_pepijn/
     url: ../Projects/proactive_pepijn/ 
