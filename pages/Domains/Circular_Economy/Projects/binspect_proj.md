@@ -28,7 +28,7 @@ The focus of the project is to investigate the application of key-enabling techn
           
                 <!-- Creating a Team Member -->
                   <div class="list-squares-item">
-                     <a href="../../../../pages/team/"><img src="/assets/img/Headshots/Tony.jpg" class="item-img"></a>
+                     <a href="../../../pages/team/"><img src="/assets/img/Headshots/Tony.jpg" class="item-img"></a>
                      <h4>Dr. Tony Scanlan</h4>
                   </div>
           
