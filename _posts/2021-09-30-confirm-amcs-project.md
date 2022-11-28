@@ -1,6 +1,6 @@
 ---
 layout: post
-title: D<sup>2</sup>iCE Group and CONFIRM announce a new collaboration with AMCS which will improve contamination detection in recycled waste.
+title: D²iCE Group and CONFIRM announce a new collaboration with AMCS which will improve contamination detection in recycled waste.
 cover-img: /assets/img/blog/AMCS-CONFIRM-PR-scaled.jpg
 thumbnail-img: /assets/img/blog/AMCS-CONFIRM-PR-scaled.jpg
 share-img: /assets/img/path.jpg
