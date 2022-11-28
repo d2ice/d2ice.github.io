@@ -31,28 +31,28 @@ Lidar and Camera, the most used sensors in the car have limitations in adverse w
                           
                <!-- Creating a Team Member -->
                <div class="list-squares-item">
-                  <a href="https://ulbinspect.github.io/pages/team/"><img src="/assets/img/Headshots/Ciaran.jpg" class="item-img"></a>
+                  <a href="../../../../team/"><img src="/assets/img/Headshots/Ciaran.jpg" class="item-img"></a>
                   <h4>Dr. Ciarán Eising</h4>
                </div>
              
              
                 <!-- Creating a Team Member -->
                     <div class="list-squares-item">
-                     <a href="https://ulbinspect.github.io/pages/team/"><img src="/assets/img/Headshots/Pepijn.jpg" class="item-img"></a>
+                     <a href="../../../../team/"><img src="/assets/img/Headshots/Pepijn.jpg" class="item-img"></a>
                      <h4>Dr. Pepijn van de Ven</h4>
                   </div>
                           
         
              <!-- Creating a Team Member -->
                   <div class="list-squares-item">
-                     <a href="https://ulbinspect.github.io/pages/team/"><img src="/assets/img/Headshots/Tony.jpg" class="item-img"></a>
+                     <a href="../../../../team/"><img src="/assets/img/Headshots/Tony.jpg" class="item-img"></a>
                      <h4>Dr. Tony Scanlan</h4>
                   </div> 
              
              
                <!-- Creating a Team Member -->
                   <div class="list-squares-item">
-                     <a href="https://ulbinspect.github.io/pages/team/"><img src="/assets/img/Headshots/Srikanth.jpg" class="item-img"></a>
+                     <a href="../../../../team/"><img src="/assets/img/Headshots/Srikanth.jpg" class="item-img"></a>
                      <h4>Srikanth Tiyyagura</h4>
                   </div> 
       
