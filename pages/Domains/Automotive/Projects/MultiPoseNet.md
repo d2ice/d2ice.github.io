@@ -23,13 +23,13 @@ Due to the lack of dataset available on pedestrian pose estimation in automotive
                                 
              <!-- Creating a Team Member -->
                   <div class="list-squares-item">
-                     <a href="https://ulbinspect.github.io/pages/team/"><img src="/assets/img/Headshots/Ciaran.jpg" class="item-img"></a>
+                     <a href="../../../../team/"><img src="/assets/img/Headshots/Ciaran.jpg" class="item-img"></a>
                      <h4>Dr. Ciarán Eising</h4>
                   </div>
                   
              <!-- Creating a Team Member -->
               <div class="list-squares-item">
-                 <a href="https://ulbinspect.github.io/pages/team/"><img src="/assets/img/Headshots/ArindamDas.jpg" class="item-img"></a>
+                 <a href="../../../../team/"><img src="/assets/img/Headshots/ArindamDas.jpg" class="item-img"></a>
                  <h4>Arindam Das</h4>
               </div>
         
