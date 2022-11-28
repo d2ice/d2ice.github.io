@@ -53,6 +53,13 @@ To identify people with depressive symptomatology (DS) in a faster way, we aim t
                      <h4>Eduardo Maekawa</h4>
                   </div>
              
+             
+                  <!-- Creating a Team Member -->
+                  <div class="list-squares-item">
+                     <a href="../../../../team/"><img src="/assets/img/Headshots/Darragh.jpg" class="item-img"></a>
+                     <h4>Darragh Glavin</h4>
+                  </div>
+             
       
  
       </div>
