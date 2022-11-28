@@ -76,7 +76,7 @@ The results of our trial were published in the Lancet Health Longevity and demon
                   
 **Status:** Completed resulting in the following outputs: 
 
-<li><a href ="https://onlinelibrary.wiley.com/doi/10.1002/gps.5665" > Scazufca, M., Nakamura, C.A., Seward, N., Moreno-Agostino, D., Van de Ven P., Hollingworth, W., Peters, T. and Araya, R. (2022) A task-shared, collaborative care psychosocial intervention for improving depressive symptomatology among older adults in a socioeconomically deprived area of Brazil (PROACTIVE): a pragmatic, two-arm, parallel-group, cluster-randomised controlled trial, The Lancet Health Longevity, Volume 3, Issue 10, E690-E720  </a> </li>
+<li style="font-size:30px"><a href ="https://onlinelibrary.wiley.com/doi/10.1002/gps.5665" > Scazufca, M., Nakamura, C.A., Seward, N., Moreno-Agostino, D., Van de Ven P., Hollingworth, W., Peters, T. and Araya, R. (2022) A task-shared, collaborative care psychosocial intervention for improving depressive symptomatology among older adults in a socioeconomically deprived area of Brazil (PROACTIVE): a pragmatic, two-arm, parallel-group, cluster-randomised controlled trial, The Lancet Health Longevity, Volume 3, Issue 10, E690-E720  </a> </li>
 
 
 <li><a href ="https://onlinelibrary.wiley.com/doi/10.1002/gps.5665" > Nakamura, C.A., Scazufca, M., Peters, T.J., Fajersztajn, L., Van de Ven, P., Hollingworth, W., Araya, R. and Moreno-Agostino, D. (2021) 'Depressive and subthreshold depressive symptomatology among older adults in a socioeconomically deprived area in Brazil', International Journal of Geriatric Psychiatry  </a> </li>
