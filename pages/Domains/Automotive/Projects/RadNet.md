@@ -79,7 +79,7 @@ Lidar and Camera, the most used sensors in the car have limitations in adverse w
          
                  <!-- Creating a Partner -->
                   <div class="list-squares-item">
-                     <a href="https://provizio.ai/"><img src="/assets/img/Logos/provizio_logo.png" width="200" height ="100" ></a>
+                     <a href="https://provizio.ai/"><img src="/assets/img/Logos/provizio_logo.png" width="200" height ="150" ></a>
                      <h4>Provizio</h4>
                   </div>
          
