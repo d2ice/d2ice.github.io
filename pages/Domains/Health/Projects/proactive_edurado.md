@@ -72,19 +72,19 @@ To identify people with depressive symptomatology (DS) in a faster way, we aim t
    
                  <!-- Creating a Partner -->
                   <div class="list-squares-item">
-                     <a href="https://www.data-science.ie/"><img src="/assets/img/confirm_logo.png" width="200" height ="100"></a>
+                     <a href="https://www.fearp.usp.br/en/index.php/where-we-are/university-of-sao-paulo"><img src="/assets/img/University_of_São_Paulo_Logo.png" width="200" height ="100"></a>
                      <h4>University of Sao Paulo</h4>
                   </div>
                   
                   <!-- Creating a Partner -->
                   <div class="list-squares-item">
-                     <a href="https://www.data-science.ie/"><img src="/assets/img/confirm_logo.png" width="200" height ="100"></a>
+                     <a href="https://www.kcl.ac.uk/"><img src="/assets/img/Kings_College_London_logo.png" width="200" height ="100"></a>
                      <h4>King’s College London</h4>
                   </div>                 
                                 
                  <!-- Creating a Partner -->
                   <div class="list-squares-item">
-                     <a href="https://www.data-science.ie/"><img src="/assets/img/confirm_logo.png" width="200" height ="100"></a>
+                     <a href="https://www.bristol.ac.uk/"><img src="/assets/img/University_of_Bristol_logo.png" width="200" height ="100"></a>
                      <h4>University of Bristol</h4>
                   </div>
                   
@@ -92,7 +92,20 @@ To identify people with depressive symptomatology (DS) in a faster way, we aim t
                   <div class="list-squares-item">
                      <a href="https://www.data-science.ie/"><img src="/assets/img/confirm_logo.png" width="200" height ="100"></a>
                      <h4>SFI Centre for Research Training in Foundations of Data Science</h4>
-                  </div>                  
+                  </div>    
+         
+         
+                 <!-- Creating a Partner -->
+                  <div class="list-squares-item">
+                     <a href="https://www.data-science.ie/"><img src="/assets/img/Logos/sfi_ds_logo.png" width="100" height ="100"></a>
+                     <h4>SFI Centre for Research Training in Foundations of Data Science</h4>
+                  </div>
+         
+                 <!-- Creating a Partner -->
+                  <div class="list-squares-item">
+                     <a href="https://www.sfi.ie/"><img src="/assets/img/Logos/sfi_logo.png" width="200" height ="100" ></a>
+                     <h4>SFI</h4>
+                  </div>
                   
       </div>
   </div>
