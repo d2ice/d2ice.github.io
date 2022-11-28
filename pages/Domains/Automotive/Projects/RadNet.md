@@ -73,19 +73,19 @@ Lidar and Camera, the most used sensors in the car have limitations in adverse w
    
                  <!-- Creating a Partner -->
                   <div class="list-squares-item">
-                     <a href="https://lero.ie/"><img src="/assets/img/Logos/lero_logo.png" width="200" height ="150"></a>
+                     <a href="https://lero.ie/"><img src="/assets/img/Logos/lero_logo.png" width="150" height ="150"></a>
                      <h4>Lero</h4>
                   </div>
          
                  <!-- Creating a Partner -->
                   <div class="list-squares-item">
-                     <a href="https://provizio.ai/"><img src="/assets/img/Logos/provizio_logo.png" width="200" height ="150" ></a>
+                     <a href="https://provizio.ai/"><img src="/assets/img/Logos/provizio_logo.png" width="150" height ="150" ></a>
                      <h4>Provizio</h4>
                   </div>
          
                   <!-- Creating a Partner -->
                   <div class="list-squares-item">
-                     <a href="https://www.sfi.ie/"><img src="/assets/img/Logos/sfi_logo.png" width="200" height ="150" ></a>
+                     <a href="https://www.sfi.ie/"><img src="/assets/img/Logos/sfi_logo.png" width="150" height ="150" ></a>
                      <h4>SFI</h4>
                   </div>
                         
