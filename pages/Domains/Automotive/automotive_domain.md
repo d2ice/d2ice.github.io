@@ -17,12 +17,12 @@ team:
     website: ../Projects/RadNet/
     url: ../Projects/RadNet/    
   - name: Vision based language tasks in Autonomous Driving 
-    img: /assets/img/motor.jpg 
+    img: /assets/img/Projects/Camera_Production_Tolerances_1.png
     desc: We aim to design a visual common-sense model that interacts with end-user in autonomous driving scenarios and answers queries on the driving decisions made by the vehicle. 
-    website: https://ulbinspect.github.io/pages/Domains/Automotive/Projects/Vision_language_auto_drive/ 
-    url: https://ulbinspect.github.io/pages/Domains/Automotive/Projects/Vision_language_auto_drive/     
+    website: ../Projects/Vision_language_auto_drive/ 
+    url: ../Projects/Vision_language_auto_drive/     
   - name: MultiPoseNet 
-    img: /assets/img/Projects/Impact_camera_thumbnail.jpg
+    img: /assets/img/Projects/multiPoseNet.jpg
     desc: A robust multi-modal approach to pedestrian pose and activity recognition for autonomous driving. 
     website: ../Projects/MultiPoseNet/
     url: ../Projects/MultiPoseNet/
