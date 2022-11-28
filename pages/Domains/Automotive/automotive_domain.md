@@ -9,7 +9,7 @@ team:
   - name: Impact of Camera Production Tolerances on Computer Vision
     img: /assets/img/Projects/Impact_camera_thumbnail.jpg
     desc: Investigate the impact of camera production tolerance in surround-view cameras for the application of autonomous driving. 
-    website: https://ulbinspect.github.io/pages/Domains/Automotive/Projects/Camera_Production_Tolerances/
+    website: ./Projects/Camera_Production_Tolerances/
     url: https://ulbinspect.github.io/pages/Domains/Automotive/Projects/Camera_Production_Tolerances/
   - name: RadNet - Automotive detection, tracking and prediction using radar data
     img: /assets/img/Projects/Radnet_thumbnail.jpg
