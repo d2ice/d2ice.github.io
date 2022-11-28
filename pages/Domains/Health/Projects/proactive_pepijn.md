@@ -75,18 +75,6 @@ The results of our trial were published in the Lancet Health Longevity and demon
 
                   
 **Status:** Completed resulting in the following outputs: 
-]
-0s
-# Outputed html in list format 
-
-for i in range(len(url)):
-  
-  # Output current url and reference
-  output = f'<li style="font-size:15px"><a href ="{url[i]}" > {ref[i]} </a> </li>'
-
-  # Print out the output to copy and past
-  print(output)
-
 
 <li style="font-size:15px"><a href ="https://onlinelibrary.wiley.com/doi/10.1002/gps.5665" > Scazufca, M., Nakamura, C.A., Seward, N., Moreno-Agostino, D., Van de Ven P., Hollingworth, W., Peters, T. and Araya, R. (2022) A task-shared, collaborative care psychosocial intervention for improving depressive symptomatology among older adults in a socioeconomically deprived area of Brazil (PROACTIVE): a pragmatic, two-arm, parallel-group, cluster-randomised controlled trial, The Lancet Health Longevity, Volume 3, Issue 10, E690-E720  </a> </li>
 
