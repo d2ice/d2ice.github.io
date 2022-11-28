@@ -69,9 +69,14 @@ The results of our trial were published in the Lancet Health Longevity and demon
                      <h4>University of Bristol</h4>
                   </div>
                   
+            </div>
+    </div>
+</div>
+
                   
 **Status:** Completed resulting in the following outputs: 
 
+<ul style="PADDING-LEFT: 12px">
 <li><a href ="https://onlinelibrary.wiley.com/doi/10.1002/gps.5665" > Nakamura, Carina Akemi, et al. "Depressive and subthreshold depressive symptomatology among older adults in a socioeconomically deprived area in Brazil." International Journal of Geriatric Psychiatry 37.2 (2022). </a> </li>
-
+</ul>
 
