@@ -7,7 +7,7 @@ footer-extra: footerlogo.html
 
 team:
   - name: Deep learning for Medical Images with limited labels
-    img: /assets/img/hello_world.jpeg
+    img: /assets/img/Projects/DL_medical_images.jpg
     desc: Detection of tumour from CT scans is one of the challenging problems in the medical image analysis. We aim to develop novel methods to accurately delineate tumour in limited data regime.
     website: ../Projects/DL_medical_images/
     url: ../Projects/DL_medical_images/
