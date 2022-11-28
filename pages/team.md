@@ -7,6 +7,13 @@ footer-extra: footerlogo.html
 <!-- subtitle:  -->
 
 team:
+  - name: Dr. John Nelson
+    img: /assets/img/Headshots/John_Nelson.jpg
+    desc: Associate Professor
+    url: https://www.ul.ie/scieng/prof-john-nelson
+    website: https://www.ul.ie/scieng/prof-john-nelson
+    google-scholar: https://scholar.google.com/citations?user=cvswMSMAAAAJ&hl=en
+    email: mailto:john.nelson@ul.ie 
   - name: Dr. Pepijn van de Ven
     img: /assets/img/Headshots/Pepijn.jpg
     desc: Senior Lecturer
