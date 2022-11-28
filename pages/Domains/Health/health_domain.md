@@ -26,10 +26,10 @@ team:
     desc: Find the optimal ultra-brief questionnaire to identify depressive symptoms.   
     website: ../Projects/proactive_darragh/
     url: ../Projects/proactive_darragh/
-   - name: Proactive Depression Treatment System
+  - name: Proactive Depression Treatment System
     img: /assets/img/health_care.png
     desc: Proactive implements a computerised psycho-social intervention that guides carers without formal mental health training to provide an effective depression intervention to elderly inhabitants of Sao Paulo’s favella’s at low cost
-    website: ../Projects/proactive_darragh/
+    website: ../Projects/proactive_pepijn/
     url: ../Projects/proactive_pepijn/ 
 ---
 {% include list-squares.html items=page.team %}
