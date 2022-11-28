@@ -68,7 +68,7 @@ Graphs are abstract data structures comprising of nodes and edges, where edges d
          
                  <!-- Creating a Partner -->
                   <div class="list-squares-item">
-                     <a href="https://www.sfi.ie/"><img src="/assets/img/Logos/sfi_logo.png" width="200" height ="100" ></a>
+                     <a href="https://www.sfi.ie/"><img src="/assets/img/Logos/sfi_logo.png" width="150" height ="100" ></a>
                      <h4>SFI</h4>
                   </div>
                                 
