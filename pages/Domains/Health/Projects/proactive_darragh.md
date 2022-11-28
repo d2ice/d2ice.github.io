@@ -96,7 +96,7 @@ The objective of the project is to use machine learning to optimise currently us
          
                  <!-- Creating a Partner -->
                   <div class="list-squares-item">
-                     <a href="https://www.sfi.ie/"><img src="/assets/img/Logos/sfi_logo.png" width="100" height ="100" ></a>
+                     <a href="https://www.sfi.ie/"><img src="/assets/img/Logos/sfi_logo.png" width="150" height ="100" ></a>
                      <h4>SFI</h4>
                   </div>
                   
