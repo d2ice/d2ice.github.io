@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fast identification of depressive symptomatology using probabilistic machine learning. 
+title: Fast identification of depressive symptomatology using probabilistic machine learning
 footer-extra: footerlogo.html
 subtitle: 
 ---
