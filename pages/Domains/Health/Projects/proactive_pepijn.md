@@ -53,19 +53,19 @@ The results of our trial were published in the Lancet Health Longevity and demon
    
                  <!-- Creating a Partner -->
                   <div class="list-squares-item">
-                     <a href="https://www.fearp.usp.br/en/index.php/where-we-are/university-of-sao-paulo"><img src="/assets/img/Logos/University_of_São_Paulo_Logo.png" width="150" height ="100"></a>
+                     <a href="https://www.fearp.usp.br/en/index.php/where-we-are/university-of-sao-paulo"><img src="/assets/img/Logos/University_of_São_Paulo_Logo.png" width="150" height ="150"></a>
                      <h4>University of Sao Paulo</h4>
                   </div>
                   
                   <!-- Creating a Partner -->
                   <div class="list-squares-item">
-                     <a href="https://www.kcl.ac.uk/"><img src="/assets/img/Logos/Kings_College_London_logo.png" width="150" height ="100"></a>
+                     <a href="https://www.kcl.ac.uk/"><img src="/assets/img/Logos/Kings_College_London_logo.png" width="150" height ="150"></a>
                      <h4>King’s College London</h4>
                   </div>                 
                                 
                  <!-- Creating a Partner -->
                   <div class="list-squares-item">
-                     <a href="https://www.bristol.ac.uk/"><img src="/assets/img/Logos/University_of_Bristol_logo.png" width="150" height ="100"></a>
+                     <a href="https://www.bristol.ac.uk/"><img src="/assets/img/Logos/University_of_Bristol_logo.png" width="150" height ="150"></a>
                      <h4>University of Bristol</h4>
                   </div>
                   
