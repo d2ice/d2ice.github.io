@@ -34,37 +34,37 @@ The focus of the project is to investigate the application of key-enabling techn
           
                  <!-- Creating a Team Member -->
                	<div class="list-squares-item">
-                     <a href="https://ulbinspect.github.io/pages/team/"><img src="/assets/img/Headshots/Pepijn.jpg" class="item-img"></a>
+                     <a href="../../../../team/"><img src="/assets/img/Headshots/Pepijn.jpg" class="item-img"></a>
                      <h4>Dr. Pepijn van de Ven</h4>
                   </div>
     
                  <!-- Creating a Team Member -->
             <div class="list-squares-item">
-               <a href="https://ulbinspect.github.io/pages/team/"><img src="/assets/img/Headshots/Eoin.jpg" class="item-img"></a>
+               <a href="../../../../team/"><img src="/assets/img/Headshots/Eoin.jpg" class="item-img"></a>
                <h4>Dr. Eoin Martino Grua</h4>
             </div>
                 
                <!-- Creating a Team Member -->
             <div class="list-squares-item">
-               <a href="https://ulbinspect.github.io/pages/team/"><img src="/assets/img/Headshots/Ciaran.jpg" class="item-img"></a>
+               <a href="../../../../team/"><img src="/assets/img/Headshots/Ciaran.jpg" class="item-img"></a>
                <h4>Dr. Ciarán Eising</h4>
             </div>
       
                <!-- Creating a Team Member -->
             <div class="list-squares-item">
-               <a href="https://ulbinspect.github.io/pages/team/"><img src="/assets/img/Headshots/Patrick.jpg" class="item-img"></a>
+               <a href="../../../../team/"><img src="/assets/img/Headshots/Patrick.jpg" class="item-img"></a>
                <h4>Dr. Patrick Denny</h4>
             </div>
                                   
                <!-- Creating a Team Member -->
             <div class="list-squares-item">
-               <a href="https://ulbinspect.github.io/pages/team/"><img src="/assets/img/Headshots/Dishant.jpg" class="item-img"></a>
+               <a href="../../../../team/"><img src="/assets/img/Headshots/Dishant.jpg" class="item-img"></a>
                <h4>Dishant Mewada</h4>
             </div>
         
                <!-- Creating a Team Member -->
                <div class="list-squares-item">
-                     <a href="https://ulbinspect.github.io/pages/team/"><img src="/assets/img/Headshots/Cathaoir.jpg" class="item-img"></a>
+                     <a href="../../../../team/"><img src="/assets/img/Headshots/Cathaoir.jpg" class="item-img"></a>
                      <h4>Cathaoir Agnew</h4>
                </div>    
      
