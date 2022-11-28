@@ -145,6 +145,7 @@ post_search: true
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
+#
 
 #navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/Logos/ul.jpg"
