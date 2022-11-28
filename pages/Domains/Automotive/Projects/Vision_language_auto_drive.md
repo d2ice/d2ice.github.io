@@ -29,14 +29,14 @@ For this, we are looking at creating a dataset that is entirely in the context o
              
                   <!-- Creating a Team Member -->
                   <div class="list-squares-item">
-                     <a href="https://ulbinspect.github.io/pages/team/"><img src="/assets/img/Headshots/Ciaran.jpg" class="item-img"></a>
+                     <a href="../../../../team/"><img src="/assets/img/Headshots/Ciaran.jpg" class="item-img"></a>
                      <h4>Dr. Ciarán Eising</h4>
                   </div>
              
              
                   <!-- Creating a Team Member -->
                   <div class="list-squares-item">
-                     <a href="https://ulbinspect.github.io/pages/team/"><img src="/assets/img/Headshots/Kaavya_Rekanar.jpg" class="item-img"></a>
+                     <a href="../../../../team/"><img src="/assets/img/Headshots/Kaavya_Rekanar.jpg" class="item-img"></a>
                      <h4>Kaavya Rekanar</h4>
                   </div>
       
