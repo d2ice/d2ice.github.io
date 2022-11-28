@@ -76,7 +76,22 @@ The results of our trial were published in the Lancet Health Longevity and demon
                   
 **Status:** Completed resulting in the following outputs: 
 
-<ul style="PADDING-LEFT: 12px">
-   <li><a href ="https://onlinelibrary.wiley.com/doi/10.1002/gps.5665" > Nakamura, Carina Akemi, et al. "Depressive and subthreshold depressive symptomatology among older adults in a socioeconomically deprived area in Brazil." International Journal of Geriatric Psychiatry 37.2 (2022). </a> </li>
-</ul>
+<li><a href ="https://onlinelibrary.wiley.com/doi/10.1002/gps.5665" > Scazufca, M., Nakamura, C.A., Seward, N., Moreno-Agostino, D., Van de Ven P., Hollingworth, W., Peters, T. and Araya, R. (2022) A task-shared, collaborative care psychosocial intervention for improving depressive symptomatology among older adults in a socioeconomically deprived area of Brazil (PROACTIVE): a pragmatic, two-arm, parallel-group, cluster-randomised controlled trial, The Lancet Health Longevity, Volume 3, Issue 10, E690-E720  </a> </li>
+
+
+<li><a href ="https://onlinelibrary.wiley.com/doi/10.1002/gps.5665" > Nakamura, C.A., Scazufca, M., Peters, T.J., Fajersztajn, L., Van de Ven, P., Hollingworth, W., Araya, R. and Moreno-Agostino, D. (2021) 'Depressive and subthreshold depressive symptomatology among older adults in a socioeconomically deprived area in Brazil', International Journal of Geriatric Psychiatry  </a> </li>
+
+
+<li><a href ="https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-021-12402-3" > Henrique, M.G., De Paula Couto, M.C.P., Araya, R., Mendes, A.V., Nakamura, C.A., Hollingworth, W., Van De Ven, P., Peters, T.J. and Scazufca, M. (2021) 'Acceptability and fidelity of a psychosocial intervention (PROACTIVE) for older adults with depression in a basic health unit in São Paulo, Brazil: a qualitative study', BMC public health, 21(1)  </a> </li>
+
+
+<li><a href ="https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-020-04826-w" > Scazufca, M., Nakamura, C.A., Peters, T.J., Henrique, M.G., Seabra, A., La Rotta, E.G., Franzin, R.M., Martins, D.F., Van de Ven, P., Hollingworth, W. and Araya, R. (2020) 'A collaborative care psychosocial intervention to improve late life depression in socioeconomically deprived areas of Guarulhos, Brazil: the PROACTIVE cluster randomised controlled trial protocol', Trials, 21(1), 1-14.  </a> </li>
+
+
+<li><a href ="https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-019-7495-5" > Scazufca, M., de Paula Couto, M.C.P., Henrique, M.G., Mendes, A.V., Matijasevich, A., Pereda, P.C., Franzin, R.M., Seabra, A.C., Van De Ven, P., Hollingworth, W. and Araya, R. (2019) 'Pilot study of a two-arm non-randomized controlled cluster trial of a psychosocial intervention to improve late life depression in socioeconomically deprived areas of São Paulo, Brazil (PROACTIVE): feasibility study of a psychosocial intervention for late life depression in São Paulo', BMC public health, 19(1), 1-14.  </a> </li>
+
+
+<li><a href ="https://www.jmir.org/2019/11/e11346/" > Van de Ven, P., Araya, R., de Paula Couto, M.C.P., Henrique, M.G., Meere, D., Mendes, A.V., Peters, T.J., Seabra, A., Franzin, R.M. and Pereda, P.C. (2019) 'Investigating software requirements for systems supporting task-shifted interventions: usability study', Journal of medical Internet research, 21(11), e11346.  </a> </li>
+
+
 
