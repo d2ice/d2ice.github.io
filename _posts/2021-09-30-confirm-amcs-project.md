@@ -7,7 +7,7 @@ share-img: /assets/img/path.jpg
 tags: [Circular Economy, AMCS, Contaminant Detection, Computer Vision, Confirm]
 ---
 
-[CONFIRM](https://confirm.ie/) and the D<sup>2</sup>iCE Group at the University of Limerick today announced that it has started a research collaboration with [AMCS Group](https://www.amcsgroup.com/), the leading global supplier of integrated software and vehicle technology for the waste, recycling and resource industries.
+[CONFIRM](https://confirm.ie/) and the D²iCE Group at the University of Limerick today announced that it has started a research collaboration with [AMCS Group](https://www.amcsgroup.com/), the leading global supplier of integrated software and vehicle technology for the waste, recycling and resource industries.
 
 This research collaboration will focus on the application of state-of-the-art technologies to the real-world challenges of waste and recycling companies worldwide who need to fully automate the recording and resolution of exceptions recorded on collection rounds like contamination of collected recyclable material and other service items (e.g., blocked service access, overloaded containers etc.)
 
