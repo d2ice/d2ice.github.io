@@ -7,15 +7,15 @@ footer-extra: footerlogo.html
 <!-- subtitle:  -->
 
 team:
+  - name: University Hospital Limerick  
+    img: /assets/img/Logos/UHL-Logo.png
+    url: https://www.ul.ie/medicine/university-hospital-limerick
   - name: Confirm
     img: /assets/img/Logos/confirm_logo.png
     url: https://confirm.ie/
   - name: Limerick Digital Cancer Research Centre 
     img: /assets/img/Logos/UL_logo.png
     url: https://www.ul.ie/limerick-dcrc
-  - name: University Hospital Limerick  
-    img: /assets/img/Logos/UHL-Logo.png
-    url: https://www.ul.ie/medicine/university-hospital-limerick
   - name: SFI Centre for Research Training in Foundations of Data Science  
     img: /assets/img/Logos/sfi_ds_logo.png
     url: https://www.data-science.ie/
