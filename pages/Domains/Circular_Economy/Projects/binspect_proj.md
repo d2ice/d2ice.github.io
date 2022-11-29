@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Binspect Project
+title: Binspect
 footer-extra: footerlogo.html
 subtitle: 
 ---
