@@ -7,7 +7,7 @@ footer-extra: footerlogo.html
 <!-- subtitle:  -->
 
 team:
-  - name: Binspect Project
+  - name: Binspect
     img: /assets/img/Projects/binspect.jpg
     desc: The use of computer vision to solve real-world challenges of waste and recycling companies worldwide
     website: ../Projects/binspect_proj/
