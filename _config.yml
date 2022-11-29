@@ -15,9 +15,7 @@ author: D<sup>2</sup>ICE group
 
 navbar-links:
   About Us: "/pages/aboutus"
-  Projects:
-    - Domains: "/pages/projects"
-    - Circular Economy: "/pages/Domains/circular_domain"
+  Projects: "/pages/projects"
   Find Us: "/pages/contactus"
   Collaborators: "/pages/collaborators"
   Team: '/pages/team'
