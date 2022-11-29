@@ -10,9 +10,6 @@ team:
   - name: Confirm
     img: /assets/img/Logos/confirm_logo.png
     url: https://confirm.ie/
-  - name: Provizio
-    img: /assets/img/Logos/provizio_logo.png
-    url: https://www.provizio.ai/
   - name: Limerick Digital Cancer Research Centre 
     img: /assets/img/Logos/UL_logo.png
     url: https://www.ul.ie/limerick-dcrc
@@ -31,6 +28,9 @@ team:
   - name: King’s College London 
     img: /assets/img/Logos/Kings_College_London_logo.png
     url: https://www.kcl.ac.uk/ 
+  - name: Provizio
+    img: /assets/img/Logos/provizio_logo.png
+    url: https://www.provizio.ai/
   - name: University of Bristol 
     img: /assets/img/Logos/University_of_Bristol_logo.png
     url: https://www.bristol.ac.uk/
