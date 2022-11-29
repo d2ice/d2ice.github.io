@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ultra-brief questionnaires for pre-screening for depressive symptomatology.
+title: Ultra-brief questionnaires for pre-screening for depressive symptomatology
 footer-extra: footerlogo.html
 subtitle: 
 ---
