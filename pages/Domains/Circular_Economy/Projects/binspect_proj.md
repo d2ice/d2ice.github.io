@@ -100,7 +100,7 @@ The focus of the project is to investigate the application of key-enabling techn
                  <!-- Creating a Partner -->
                   <div class="list-squares-item">
                      <a href="https://www.sfi.ie/"><img src="/assets/img/Logos/sfi_logo.png" width="200" height ="100" ></a>
-                     <h4>SFI</h4>
+                     <h4>Science Foundation Ireland</h4>
                   </div>
                         
                   
