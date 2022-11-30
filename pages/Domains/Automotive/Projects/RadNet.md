@@ -86,7 +86,7 @@ Lidar and Camera, the most used sensors in the car have limitations in adverse w
                   <!-- Creating a Partner -->
                   <div class="list-squares-item">
                      <a href="https://www.sfi.ie/"><img src="/assets/img/Logos/sfi_logo.png" width="125" height ="125" ></a>
-                     <h4>SFI</h4>
+                     <h4>Science Foundation Ireland</h4>
                   </div>
                         
                   
