@@ -72,19 +72,25 @@ For this, we are looking at creating a dataset that is entirely in the context o
       
       <div class="list-squares">
                  
-   
-                 <!-- Creating a Partner -->
-                  <div class="list-squares-item">
-                     <a href="https://lero.ie/"><img src="/assets/img/Logos/lero_logo.png" width="200" height ="100"></a>
-                     <h4>Lero</h4>
-                  </div>
                   
                   <!-- Creating a Partner -->
                   <div class="list-squares-item">
-                     <a href="https://www.sfi.ie/"><img src="/assets/img/Logos/sfi_logo.png" width="200" height ="100" ></a>
-                     <h4>SFI</h4>
+                     <a href="https://www.data-science.ie/"><img src="/assets/img/Logos/sfi_ds_logo.png" width="100" height ="100"></a>
+                     <h4>SFI Centre for Research Training in Foundations of Data Science</h4>
                   </div>
-                        
+         
+                 <!-- Creating a Partner -->
+                  <div class="list-squares-item">
+                     <a href="https://www.sfi.ie/"><img src="/assets/img/Logos/sfi_logo.png" width="150" height ="100" ></a>
+                     <h4>Science Foundation Ireland</h4>
+                  </div>
+     
+                  <!-- Creating a Partner -->
+                   <div class="list-squares-item">
+                       <a href="https://www.valeo.com/en/"><img src="/assets/img/Logos/Valeo_Logo.png" width="200" height ="100" ></a>
+                       <h4>Valeo</h4>
+                  </div>
+         
                   
       </div>
   </div>
