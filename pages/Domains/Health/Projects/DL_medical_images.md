@@ -19,6 +19,8 @@ The objective is to bridge the gap between fully supervised methods developed us
    <div class="row">
            
           <div class="list-squares">
+             
+             
              <!-- Creating a Team Member -->
                	<div class="list-squares-item">
                      <a href="../../../../team/"><img src="/assets/img/Headshots/Pepijn.jpg" class="item-img"></a>
