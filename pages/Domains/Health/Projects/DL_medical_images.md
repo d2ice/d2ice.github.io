@@ -17,17 +17,13 @@ The objective is to bridge the gap between fully supervised methods developed us
 <div class="container-fluid">
    
    <div class="row">
-                 
+           
           <div class="list-squares">
-
-             
              <!-- Creating a Team Member -->
                	<div class="list-squares-item">
                      <a href="../../../../team/"><img src="/assets/img/Headshots/Pepijn.jpg" class="item-img"></a>
                      <h4>Dr. Pepijn van de Ven</h4>
                   </div>
-    
-             
              
                <!-- Creating a Team Member -->
                   <div class="list-squares-item">
@@ -66,7 +62,13 @@ The objective is to bridge the gap between fully supervised methods developed us
                  <!-- Creating a Partner -->
                   <div class="list-squares-item">
                      <a href="https://www.sfi.ie/"><img src="/assets/img/Logos/sfi_logo.png" width="150" height ="100" ></a>
-                     <h4>SFI</h4>
+                     <h4>Science foundation Ireland</h4>
+                  </div>
+         
+                 <!-- Creating a Partner -->
+                  <div class="list-squares-item">
+                     <a href="https://www.ul.ie/medicine/university-hospital-limerick"><img src="/assets/img/Logos/UHL-Logo.png" width="150" height ="100" ></a>
+                     <h4>University Hospital Limerick</h4>
                   </div>
                                 
                   
