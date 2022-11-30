@@ -86,7 +86,7 @@ The autonomous industry has advanced considerably in the application of state-of
                   <!-- Creating a Partner -->
                   <div class="list-squares-item">
                      <a href="https://www.sfi.ie/"><img src="/assets/img/Logos/sfi_logo.png" width="200" height ="100" ></a>
-                     <h4>SFI</h4>
+                     <h4>Science Foundation Ireland</h4>
                   </div>
                         
                   
