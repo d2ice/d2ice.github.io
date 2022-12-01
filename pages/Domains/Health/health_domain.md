@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Health Domain Projects
 full-width: True
 footer-extra: footerlogo.html
 <!-- subtitle:  -->
