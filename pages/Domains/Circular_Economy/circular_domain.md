@@ -4,7 +4,7 @@ title: Circular Economy Domain Projects
 custom-css: colab
 full-width: True
 footer-extra: footerlogo.html
-<!-- subtitle:  -->
+subtitle: This is just a test to see what subtitle looks like, if it could be used for the word blob to introduce projects domains
 
 team:
   - name: Binspect
