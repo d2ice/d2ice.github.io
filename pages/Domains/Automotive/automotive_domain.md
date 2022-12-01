@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Automotive Projects
+title: Automotive Domain Projects
 footer-extra: footerlogo.html
 full-width: True
 <!-- subtitle:  -->
