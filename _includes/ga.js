@@ -16,5 +16,5 @@ loadScriptAsync('https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX', func
     window.dataLayer = window.dataLayer || [];
     function gtag() { dataLayer.push(arguments); }
     gtag('js', new Date());
-    gtag('config', 'G-XXXXXXXXXX', { 'anonymize_ip': true });
+    gtag('config', 'G-9M38Y45060', { 'anonymize_ip': true });
 })
