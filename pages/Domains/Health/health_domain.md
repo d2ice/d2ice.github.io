@@ -48,7 +48,7 @@ custom-css: colab
                   <div class="list-squares-item">
                      <a href="../Projects/DL_medical_images/"><img src="/assets/img/Projects/DL_medical_images.jpg" class="item-img"></a>
                     <h4>Deep learning for Medical Images with limited labels</h4>
-                     <plaintext>Detection of tumour from CT scans is one of the challenging problems in the medical image analysis. We aim to develop novel methods to accurately delineate tumour in limited data regime.</plaintext>
+                     <h10>Detection of tumour from CT scans is one of the challenging problems in the medical image analysis. We aim to develop novel methods to accurately delineate tumour in limited data regime.</h10>
                   </div>
           
  
