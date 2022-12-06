@@ -3,6 +3,7 @@ layout: page
 title: Health Domain Projects
 full-width: False
 footer-extra: footerlogo.html
+custom-css: colab
 <!-- subtitle:  -->
 ---
 
