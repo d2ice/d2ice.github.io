@@ -26,5 +26,10 @@ team:
     desc: A robust multi-modal approach to pedestrian pose and activity recognition for autonomous driving. 
     website: ../Projects/MultiPoseNet/
     url: ../Projects/MultiPoseNet/
+  - name: Visual trajectory prediction for autonomous vehicles  
+    img: /assets/img/Projects/multiPoseNet.jpg
+    desc: To design an end-to-end network for trajectory prediction for autonomous vehicles which will improves the sophisticated patterns such as corner cases. 
+    website: ../Projects/Visual_trajectory/
+    url: ../Projects/Visual_trajectory/
 ---
 {% include list-squares.html items=page.team %}
