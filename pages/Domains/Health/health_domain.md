@@ -46,8 +46,8 @@ footer-extra: footerlogo.html
                 <!-- Creating a Project -->
                   <div class="list-squares-item">
                      <a href="../Projects/DL_medical_images/"><img src="/assets/img/Projects/DL_medical_images.jpg" class="item-img"></a>
-                    <h2>Deep learning for Medical Images with limited labels</h2>
-                     <h4>Detection of tumour from CT scans is one of the challenging problems in the medical image analysis. We aim to develop novel methods to accurately delineate tumour in limited data regime.</h4>
+                    <h4>Deep learning for Medical Images with limited labels</h4>
+                     <h8>Detection of tumour from CT scans is one of the challenging problems in the medical image analysis. We aim to develop novel methods to accurately delineate tumour in limited data regime.</h8>
                   </div>
           
  
