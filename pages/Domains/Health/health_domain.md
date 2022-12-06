@@ -56,6 +56,15 @@ We collaborate with medical partners to ensure our innovations have the best cha
                     <h4>Deep learning for Medical Images with limited labels</h4>
                      <div class="item-desc">Detection of tumour from CT scans is one of the challenging problems in the medical image analysis. We aim to develop novel methods to accurately delineate tumour in limited data regime.</div>
                   </div>
+         
+               <!-- Ceating Project Home button-->
+               <div class="item-links">
+                   <a class="item-link" href="../Projects/DL_medical_images/" title="Website">
+                     <span class="fa fa-home"></span>
+                    </a>
+               </div>
+     
+
           
  
      
