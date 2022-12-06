@@ -38,6 +38,12 @@ custom-css: colab
 {% include list-squares.html items=page.team %}
  -->
  
+  
+The D<sup>2</sup>iCE medical domain spans both physical and mental health. As medical services are under resourced world-wide and our reliance and expectations on the health system are ever increasing, time and cost savings without concessions to quality of care are of the essence. Machine learning promises to meaningfully contribute to high-quality care with significant resource and cost savings, but to-date this has resulted in limited real-world applications. 
+We collaborate with medical partners to ensure our innovations have the best chance of making a real impact on the lives of real patients.
+
+ 
+ 
  <div class="container-fluid">
    
    <div class="row">
@@ -56,7 +62,4 @@ custom-css: colab
       </div>
     </div>
 </div>
- 
-The D<sup>2</sup>iCE medical domain spans both physical and mental health. As medical services are under resourced world-wide and our reliance and expectations on the health system are ever increasing, time and cost savings without concessions to quality of care are of the essence. Machine learning promises to meaningfully contribute to high-quality care with significant resource and cost savings, but to-date this has resulted in limited real-world applications. 
-We collaborate with medical partners to ensure our innovations have the best chance of making a real impact on the lives of real patients.
 
