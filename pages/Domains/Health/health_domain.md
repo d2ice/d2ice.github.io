@@ -65,7 +65,7 @@ We collaborate with medical partners to ensure our innovations have the best cha
                     </a>
                </div>
            
-       <div class="row"> 
+
              
                 <!-- Creating a Project -->
                   <div class="list-squares-item">
@@ -83,9 +83,7 @@ We collaborate with medical partners to ensure our innovations have the best cha
      
 
           
- 
-     </div>
-         
+
          
       </div>
     </div>
