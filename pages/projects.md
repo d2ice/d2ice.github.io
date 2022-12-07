@@ -10,7 +10,7 @@ team:
     desc: Projects under the Circular Economy domain
     website: ../Domains/Circular_Economy/circular_domain/
     url: ../Domains/Circular_Economy/circular_domain/
-  - name: Intelligent Transportation
+  - name: Intelligent Transportation Systems
     img: /assets/img/motor.jpg
     desc: Projects under the Intelligent Transportation Systems domain
     website: ..//Domains/Automotive/its_domain/
