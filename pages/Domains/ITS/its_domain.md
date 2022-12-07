@@ -2,7 +2,7 @@
 layout: page
 title: Intelligent Transportation Systems Projects
 footer-extra: footerlogo.html
-full-width: True
+full-width: False
 <!-- subtitle:  -->
 
 <!-- team:
