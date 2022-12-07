@@ -64,6 +64,8 @@ We collaborate with medical partners to ensure our innovations have the best cha
                      <span class="fa fa-home"></span>
                     </a>
                </div>
+                    
+                 </div>
            
 
              
@@ -81,6 +83,7 @@ We collaborate with medical partners to ensure our innovations have the best cha
                     </a>
                </div>
      
+                    </div>
 
           
 
