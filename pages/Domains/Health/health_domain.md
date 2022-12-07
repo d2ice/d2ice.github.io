@@ -64,10 +64,9 @@ We collaborate with medical partners to ensure our innovations have the best cha
                      <span class="fa fa-home"></span>
                     </a>
                </div>
-                    
-<!--                                     
-                    
-                    
+           
+       <div class="row"> 
+             
                 <!-- Creating a Project -->
                   <div class="list-squares-item">
                      <a href="../Projects/DL_medical_images/"><img src="/assets/img/Projects/GNN_medical.jpg" class="item-img"></a>
@@ -82,10 +81,12 @@ We collaborate with medical partners to ensure our innovations have the best cha
                     </a>
                </div>
      
- -->
+
           
  
      </div>
+         
+         
       </div>
     </div>
 </div>
