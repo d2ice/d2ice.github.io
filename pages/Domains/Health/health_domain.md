@@ -139,8 +139,7 @@ We collaborate with medical partners to ensure our innovations have the best cha
      
                </div>         
          
-
-        </div>  
+ 
       </div>
     </div>
 </div>
