@@ -75,10 +75,10 @@ Autonomous vehicles rely on accurate and reliable trajectory prediction to navig
       <div class="list-squares">
                  
                  <!-- Creating a Partner -->
-                  <div class="list-squares-item">
-                     <a href="https://confirm.ie/"><img src="/assets/img/Logos/confirm_logo.png" width="200" height ="100"></a>
-                     <h4>Confirm</h4>
-                  </div>
+                 <div class="list-squares-item">
+                    <a href="https://www.data-science.ie/"><img src="/assets/img/Logos/sfi_ds_logo.png" width="100" height ="100"></a>
+                    <h4>SFI Centre for Research Training in Foundations of Data Science</h4>
+                 </div>
          
                  <!-- Creating a Partner -->
                   <div class="list-squares-item">
