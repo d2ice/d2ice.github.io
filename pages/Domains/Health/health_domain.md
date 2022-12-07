@@ -66,6 +66,9 @@ We collaborate with medical partners to ensure our innovations have the best cha
                </div>
                     
                     
+                </div>
+                 
+                    
                     
                 <!-- Creating a Project -->
                   <div class="list-squares-item">
