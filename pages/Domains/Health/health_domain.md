@@ -44,8 +44,6 @@ The D<sup>2</sup>iCE medical domain spans both physical and mental health. As me
 We collaborate with medical partners to ensure our innovations have the best chance of making a real impact on the lives of real patients.
 
  
- 
- <div class="col-lg-8 col-md-12 col-xs-12 col-sm-12">
   
  <div class="container-fluid">
        
