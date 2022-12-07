@@ -65,9 +65,7 @@ We collaborate with medical partners to ensure our innovations have the best cha
                     </a>
                </div>
                     
-                    
-                </div>
-                 
+<!--                                     
                     
                     
                 <!-- Creating a Project -->
@@ -84,7 +82,7 @@ We collaborate with medical partners to ensure our innovations have the best cha
                     </a>
                </div>
      
-
+ -->
           
  
      </div>
