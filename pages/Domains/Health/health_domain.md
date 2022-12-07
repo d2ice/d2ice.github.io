@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Health Domain Projects
+title: Health & Medical Projects
 full-width: False
 footer-extra: footerlogo.html
 custom-css: colab
