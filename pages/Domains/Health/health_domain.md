@@ -100,6 +100,44 @@ We collaborate with medical partners to ensure our innovations have the best cha
                </div>
      
                </div>
+         
+         
+         
+                <!-- Creating a Project -->
+                  <div class="list-squares-item">
+                     <a href="../Projects/proactive_darragh/"><img src="/assets/img/Projects/proact_darragh.jpg" class="item-img"></a>
+                    <h4>Ultra-brief questionnaires for pre-screening for depressive symptomatology</h4>
+                     <div class="item-desc">Find the optimal ultra-brief questionnaire to identify depressive symptoms.</div>
+                  
+         
+               <!-- Ceating Project Home button-->
+               <div class="item-links">
+                   <a class="item-link" href="../Projects/proactive_darragh/" title="Website">
+                     <span class="fa fa-home"></span>
+                    </a>
+               </div>
+     
+               </div>
+         
+         
+         
+         
+                <!-- Creating a Project -->
+                  <div class="list-squares-item">
+                     <a href=" ../Projects/proactive_pepijn/"><img src="/assets/img/Projects/proact_pepijn.jpg" class="item-img"></a>
+                    <h4>Proactive Depression Treatment System</h4>
+                     <div class="item-desc">Proactive implements a computerised psycho-social intervention that guides carers without formal mental health training to provide an effective depression intervention to elderly inhabitants of Sao Paulo’s favella’s at low cost</div>
+                  
+         
+               <!-- Ceating Project Home button-->
+               <div class="item-links">
+                   <a class="item-link" href=" ../Projects/proactive_pepijn/" title="Website">
+                     <span class="fa fa-home"></span>
+                    </a>
+               </div>
+     
+               </div>         
+         
 
          
       </div>
