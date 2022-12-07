@@ -13,8 +13,8 @@ team:
   - name: Intelligent Transportation
     img: /assets/img/motor.jpg
     desc: Projects under the Intelligent Transportation Systems domain
-    website: ..//Domains/Automotive/automotive_domain/
-    url: ../Domains/Automotive/automotive_domain/
+    website: ..//Domains/Automotive/its_domain/
+    url: ../Domains/Automotive/its_domain/
   - name: Health & Medical 
     img: /assets/img/health_care.png
     desc: Projects under the Health & Medical domain
