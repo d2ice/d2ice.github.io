@@ -82,6 +82,19 @@ Due to the lack of dataset available on pedestrian pose estimation in automotive
                      <a href="https://www.valeo.com/en/"><img src="/assets/img/Logos/Valeo_Logo.png" width="200" height ="100" ></a>
                      <h4>Valeo</h4>
                   </div>
+         
+                 <!-- Creating a Partner -->
+                  <div class="list-squares-item">
+                     <a href="https://car.universityofgalway.ie/"><img src="/assets/img/Logos/University_of_Galway_logo.png" width="200" height ="100" ></a>
+                     <h4>Connaught Automotive Research Group, University of Galway  </h4>
+                  </div>
+         
+                 <!-- Creating a Partner -->
+                  <div class="list-squares-item">
+                     <a href="https://www.isical.ac.in/"><img src="/assets/img/Logos/Indianstatisticalinstitutelogo.svg.png" width="200" height ="100" ></a>
+                     <h4>Indian Statistical Instiute, Kolkata</h4>
+                  </div>
+         
                   
       </div>
   </div>
