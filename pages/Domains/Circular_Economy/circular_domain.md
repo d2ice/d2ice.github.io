@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Circular Economy Domain Projects
+title: Circular Economy
 custom-css: colab
 full-width: True
 footer-extra: footerlogo.html
