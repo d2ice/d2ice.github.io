@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Intelligent Transportation Systems
+title: Intelligent Transportation Systems Projects
 footer-extra: footerlogo.html
 full-width: True
 <!-- subtitle:  -->
