@@ -10,14 +10,14 @@ team:
     desc: Projects under the Circular Economy domain
     website: ../Domains/Circular_Economy/circular_domain/
     url: ../Domains/Circular_Economy/circular_domain/
-  - name: Intelligent Transport
+  - name: Intelligent Transportation
     img: /assets/img/motor.jpg
-    desc: Projects under the Intelligent Transportation domain
+    desc: Projects under the Intelligent Transportation Systems domain
     website: ..//Domains/Automotive/automotive_domain/
     url: ../Domains/Automotive/automotive_domain/
   - name: Health & Medical 
     img: /assets/img/health_care.png
-    desc: Projects under the Medical domain
+    desc: Projects under the Health & Medical domain
     website: ../Domains/Health/health_domain/
     url: ../Domains/Health/health_domain/
 ---
