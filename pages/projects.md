@@ -15,7 +15,7 @@ team:
     desc: Projects under the Automotive domain
     website: ..//Domains/Automotive/automotive_domain/
     url: ../Domains/Automotive/automotive_domain/
-  - name: Medical 
+  - name: Health & Medical 
     img: /assets/img/health_care.png
     desc: Projects under the Medical domain
     website: ../Domains/Health/health_domain/
