@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Automotive Domain Projects
+title: Intelligent Transportation Systems
 footer-extra: footerlogo.html
 full-width: True
 <!-- subtitle:  -->
