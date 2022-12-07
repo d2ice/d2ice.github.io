@@ -46,7 +46,9 @@ We collaborate with medical partners to ensure our innovations have the best cha
  
  
  <div class="container-fluid">
-   
+       
+  <div class="col-lg-4 col-md-12 col-xs-12 col-sm-12">
+           
    <div class="row">
                  
        <div class="list-squares">
@@ -139,7 +141,7 @@ We collaborate with medical partners to ensure our innovations have the best cha
                </div>         
          
 
-         
+        </div>  
       </div>
     </div>
 </div>
