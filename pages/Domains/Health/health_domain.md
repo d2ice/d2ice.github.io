@@ -45,9 +45,10 @@ We collaborate with medical partners to ensure our innovations have the best cha
 
  
  
+ <div class="col-lg-8 col-md-12 col-xs-12 col-sm-12">
+  
  <div class="container-fluid">
        
-  <div class="col-lg-4 col-md-12 col-xs-12 col-sm-12">
            
    <div class="row">
                  
