@@ -23,6 +23,16 @@ team:
     linkedin: https://www.linkedin.com/in/pepijn-van-de-ven-165a4b10/
     orcid: https://orcid.org/0000-0003-3321-450X
     email: mailto:pepijn.vandeven@ul.ie
+  - name: Dr. Arash Joorabchi
+    img: /assets/img/Headshots/Arash.jpg
+    desc: Lecturer
+    url: https://ajoorabchi.github.io/PersonalWebsite/
+    website: https://ajoorabchi.github.io/PersonalWebsite/
+    github: https://github.com/ajoorabchi
+    google-scholar: https://scholar.google.com/citations?user=go7_0hIAAAAJ&hl=en
+    linkedin: https://www.linkedin.com/in/arash-joorabchi-b008a516/
+    orcid: https://orcid.org/0000-0002-0767-4302
+    email: mailto:arash.joorabchi@ul.ie  
   - name: Dr. Patrick Denny
     img: /assets/img/Headshots/Patrick.jpg
     desc: Lecturer
