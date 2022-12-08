@@ -1,0 +1,19 @@
+---
+layout: post
+title: Omnidirectional Computer Vision (OmniCV) Workshop at CVPR'22
+cover-img: /assets/img/blog/2022-06-20-OmniCV-Crowd.jpg
+thumbnail-img: /assets/img/blog/2022-06-20-OmniCV-Logo.png
+share-img: /assets/img/path.jpg
+tags: [Computer Vision, Omnidirectional Cameras, Conference. Workshop]
+---
+
+D²iCE group member, Ciarán Eising, was a [co-organiser](https://sites.google.com/view/omnicv2022/organizing-commitee?authuser=0) for the 3rd iteration of the Omnidirectional Computer Vision ([OmniCV](https://sites.google.com/view/omnicv2022)) Workshop, held in conjunction with IEEE Computer Society Conference on Computer Vision and Pattern Recognition ([CVPR'2022](https://cvpr2022.thecvf.com/)).
+
+From immersive experiences to autonomous driving to medical imaging and more, we are increasingly seeing that maximizing a camera’s field of view can solve real-world problems. In the past few years, omnidirectional imaging has grown in interest, driven in part by the desire to maximize the amount of content and context encapsulated by a single image. Fisheye cameras installed in modern vehicles and commodity omnidirectional cameras have helped to increase the popularity of this imaging modality and have opened the door for more consumer-facing applications in the automotive, home services and real estate industries, among others. Our workshop seeks to provide a link between the formative research that supports these advances and the realization of commercial products that leverage this technology. We want to encourage the development of new algorithms and applications for this imaging modality that will continue to drive this engine of progress.
+
+![](/assets/img/blog/2022-06-2020-OmniCV-WoodscapeChallenge.jpg "The WoodScape Challenge")
+
+In conjunction with the OmniCV workshop, we hosted the [WoodScape Challenge](https://sites.google.com/view/omnicv2022/challenge?authuser=0). This competition was designed to advance the state of the art and to benchmark techniques for object detection on fisheye images, and was based on the publicly available [WoodScape dataset](https://woodscape.valeo.com/).
+
+Hope to see you ate the fourth iteration of the workshop in 2023!
+
