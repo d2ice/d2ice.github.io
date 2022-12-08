@@ -34,7 +34,7 @@ full-width: False
 ---
 {% include list-squares.html items=page.team %}
 
-The D<sup>2</sup>iCE Intelligent Transport Systems research domain covers many aspects of sensing and automation for driver assistance systems and self-driving cars. The domain area is led by [Ciarán Eising](https://www.linkedin.com/in/ciaraneising/), who spent more than 12 years working in inudstry developing sensing solutions for autonomous vehicles. Machine learning has already and promises to continue to meaningfully contribute to high-quality vehicle automation. We collaborate with many companies working in the automotive sensing space, ensuring our innovations have the best chance of making a real end-user impact.
+The D<sup>2</sup>iCE Intelligent Transport Systems research domain covers many aspects of sensing and automation for driver assistance systems and self-driving cars. The domain area is led by [Ciarán Eising](https://www.linkedin.com/in/ciaraneising/), who spent more than 12 years working in industry developing sensing solutions for autonomous vehicles. Machine learning has already and promises to continue to meaningfully contribute to high-quality vehicle automation. We collaborate with many companies working in the automotive sensing space, ensuring our innovations have the best chance of making a real end-user impact.
 
 
 
