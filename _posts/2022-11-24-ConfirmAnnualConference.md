@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Confirm Annual Conference 2022
-cover-img: /assets/img/blog/2022-11-24-ConfirmAnnualConference_1.jpeg
-thumbnail-img: /assets/img/blog/2022-11-24-ConfirmAnnualConference_1.jpeg
+cover-img: /assets/img/blog/2022-11-24-ConfirmAnnualConference_1.jpg
+thumbnail-img: /assets/img/blog/2022-11-24-ConfirmAnnualConference_1.jpg
 share-img: /assets/img/path.jpg
 tags: [Circular Economy, AMCS, Conference, Confirm]
 ---
