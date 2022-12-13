@@ -22,12 +22,12 @@ full-width: False
     website: ../Projects/Vision_language_auto_drive/ 
     url: ../Projects/Vision_language_auto_drive/     
   - name: MultiPoseNet 
-    img: /assets/img/Projects/multiPoseNet.jpg
+    img: /assets/img/Projects/multiposenet.png
     desc: A robust multi-modal approach to pedestrian pose and activity recognition for autonomous driving. 
     website: ../Projects/MultiPoseNet/
     url: ../Projects/MultiPoseNet/
   - name: Visual trajectory prediction for autonomous vehicles  
-    img: /assets/img/Projects/multiPoseNet.jpg
+    img: /assets/img/Projects/trajectoryprediction.png
     desc: To design an end-to-end network for trajectory prediction for autonomous vehicles which will improves the sophisticated patterns such as corner cases. 
     website: ../Projects/Visual_trajectory/
     url: ../Projects/Visual_trajectory/ -->
@@ -118,7 +118,7 @@ The D<sup>2</sup>iCE Intelligent Transport Systems research domain covers many a
          
                 <!-- Creating a Project -->
                   <div class="list-squares-item">
-                     <a href="../Projects/Visual_trajectory/"><img src="/assets/img/Projects/multiPoseNet.jpg" class="item-img"></a>
+                     <a href="../Projects/Visual_trajectory/"><img src="/assets/img/Projects/trajectoryprediction.png" class="item-img"></a>
                     <h4>Visual trajectory prediction for autonomous vehicles</h4>
                      <div class="item-desc">To design an end-to-end network for trajectory prediction for autonomous vehicles which will improves the sophisticated patterns such as corner cases.</div>
                   
