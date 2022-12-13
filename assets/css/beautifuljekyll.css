@@ -242,8 +242,8 @@ img {
 
 .navbar-custom .navbar-brand {
   line-height: 1.5;
-  padding-top: 0.125rem;
-  padding-bottom: 0.125rem;
+  padding-top: 0.625rem;
+  padding-bottom: 0.625rem;
   font-size: 1.125rem;
 }
 
@@ -321,7 +321,7 @@ img {
   }
 
   .navbar-custom .navbar-brand-logo img {
-    height: 7.5rem;     /* CE: change this to change the title-img size. Also change it above */
+    height: 6.5rem;     /* CE: change this to change the title-img size. Also change it above */
   }
 
   .navbar-expand-xl .navbar-nav .nav-link {
