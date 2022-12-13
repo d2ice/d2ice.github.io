@@ -99,7 +99,7 @@ The D<sup>2</sup>iCE Intelligent Transport Systems research domain covers many a
          
                 <!-- Creating a Project -->
                   <div class="list-squares-item">
-                     <a href="../Projects/MultiPoseNet/"><img src="/assets/img/Projects/multiPoseNet.jpg" class="item-img"></a>
+                     <a href="../Projects/MultiPoseNet/"><img src="/assets/img/Projects/multiposenet.png" class="item-img"></a>
                     <h4>MultiPoseNet</h4>
                      <div class="item-desc">A robust multi-modal approach to pedestrian pose and activity recognition for autonomous driving.</div>
                   
