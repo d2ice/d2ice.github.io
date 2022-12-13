@@ -269,7 +269,7 @@ img {
 .navbar-custom .navbar-brand-logo img,
 .navbar-custom.top-nav-short .navbar-brand-logo img,
 .navbar-custom.top-nav-short-permanent .navbar-brand-logo img {
-  height: 5rem;
+  height: 6.5rem;       /* CE: change this to change the title-img size. Also change it below */
 }
 
 .navbar-custom .navbar-nav .nav-item {
@@ -321,7 +321,7 @@ img {
   }
 
   .navbar-custom .navbar-brand-logo img {
-    height: 6.25rem;
+    height: 7.5rem;     /* CE: change this to change the title-img size. Also change it above */
   }
 
   .navbar-expand-xl .navbar-nav .nav-link {
