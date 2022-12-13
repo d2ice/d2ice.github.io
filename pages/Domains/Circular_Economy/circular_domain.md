@@ -14,6 +14,7 @@ footer-extra: footerlogo.html
 ---
 {% include list-squares.html items=page.team %}
 
+The D²iCE Circular economy research domain investigates how machine learning can be used to benefit a more sustainable future. One of the fundamental goals our society is aiming for is the reduction of carbon emissions and our impact on this planet. To help achieve this, machine learning can be an effective tool in positively impacting sustainability in all its aspects. We are collaborating with industrial partners to ensure that our machine learning solutions get applied and are making a positive change in the world. 
 
  <div class="container-fluid">
        
