@@ -16,7 +16,7 @@ team:
     linkedin: https://www.linkedin.com/in/pepijn-van-de-ven-165a4b10/
     orcid: https://orcid.org/0000-0003-3321-450X
     email: mailto:pepijn.vandeven@ul.ie
-  - name: Dr. John Nelson
+  - name: Prof. John Nelson
     img: /assets/img/Headshots/John_Nelson.jpg
     desc: Associate Professor
     url: https://www.ul.ie/scieng/prof-john-nelson
