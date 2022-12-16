@@ -7,14 +7,7 @@ footer-extra: footerlogo.html
 <!-- subtitle:  -->
 
 team:
-  - name: Dr. John Nelson
-    img: /assets/img/Headshots/John_Nelson.jpg
-    desc: Associate Professor
-    url: https://www.ul.ie/scieng/prof-john-nelson
-    website: https://www.ul.ie/scieng/prof-john-nelson
-    google-scholar: https://scholar.google.com/citations?user=cvswMSMAAAAJ&hl=en
-    email: mailto:john.nelson@ul.ie 
-  - name: Dr. Pepijn van de Ven
+  - name: Dr. Pepijn van de Ven (Director)
     img: /assets/img/Headshots/Pepijn.jpg
     desc: Senior Lecturer
     url: https://www.ul.ie/research/dr-pepijn-van-de-ven
@@ -23,6 +16,13 @@ team:
     linkedin: https://www.linkedin.com/in/pepijn-van-de-ven-165a4b10/
     orcid: https://orcid.org/0000-0003-3321-450X
     email: mailto:pepijn.vandeven@ul.ie
+  - name: Dr. John Nelson
+    img: /assets/img/Headshots/John_Nelson.jpg
+    desc: Associate Professor
+    url: https://www.ul.ie/scieng/prof-john-nelson
+    website: https://www.ul.ie/scieng/prof-john-nelson
+    google-scholar: https://scholar.google.com/citations?user=cvswMSMAAAAJ&hl=en
+    email: mailto:john.nelson@ul.ie 
   - name: Dr. Arash Joorabchi
     img: /assets/img/Headshots/Arash.jpg
     desc: Lecturer
