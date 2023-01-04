@@ -13,7 +13,7 @@ The improvement of the quality of recyclables is a key foundation of the Circula
 The focus of the project is to investigate the application of key-enabling technologies frequently used in smart manufacturing environments such as Artificial Intelligence, Machine Learning and Computer Vision to fully automate the recording and resolution of exceptions recorded on collection rounds like contamination of collected recyclable material and other service items (e.g. overloaded containers)
 
 
-<img src="/assets/img/ob_Det_place.png" class="center">
+<img src="/assets/img/Projects/binspect.png" class="center">
 
 
 
