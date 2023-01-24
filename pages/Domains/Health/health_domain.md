@@ -5,7 +5,6 @@ full-width: False
 footer-extra: footerlogo.html
 <!-- subtitle:  -->
 
-
 <!-- team:
   - name: Deep learning for Medical Images with limited labels
     img: /assets/img/Projects/DL_medical_images.jpg
