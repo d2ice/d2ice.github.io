@@ -25,7 +25,7 @@ custom-css: colab
     website: ../Projects/proactive_edurado/
     url: ../Projects/proactive_edurado/
   - name: Ultra-brief depression questionnaires
-    img: /assets/img/Projects/proact_darragh.jpg
+    img: /assets/img/Projects/proact_darragh.png
     desc: Find the optimal ultra-brief questionnaire for identifying individuals with depressive symptoms.  
     website: ../Projects/proactive_darragh/
     url: ../Projects/proactive_darragh/
