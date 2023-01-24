@@ -101,9 +101,9 @@ The D<sup>2</sup>iCE medical domain spans both physical and mental health. As me
          
                 <!-- Creating a Project -->
                   <div class="list-squares-item">
-                     <a href="../Projects/proactive_darragh/"><img src="/assets/img/Projects/proact_darragh.jpg" class="item-img"></a>
-                    <h4>Ultra-brief questionnaires for pre-screening for depressive symptomatology</h4>
-                     <div class="item-desc">Find the optimal ultra-brief questionnaire to identify depressive symptoms.</div>
+                     <a href="../Projects/proactive_darragh/"><img src="/assets/img/Projects/proact_darragh.png" class="item-img"></a>
+                    <h4>Ultra-brief depression questionnaires</h4>
+                     <div class="item-desc">Find the optimal ultra-brief questionnaire for identifying individuals with depressive symptoms.</div>
                   
          
                <!-- Ceating Project Home button-->
