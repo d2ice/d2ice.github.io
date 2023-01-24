@@ -24,9 +24,9 @@ custom-css: colab
     desc: Depression is an extremely common disorder, yet often not diagnosed. We aim to use Probabilistic Machine Learning to develop optimised approaches to help the specialists to identify these people, giving them the chance to access proper treatment as soon as possible. 
     website: ../Projects/proactive_edurado/
     url: ../Projects/proactive_edurado/
-  - name: Ultra-brief questionnaires for pre-screening for depressive symptomatology
+  - name: Ultra-brief depression questionnaires
     img: /assets/img/Projects/proact_darragh.jpg
-    desc: Find the optimal ultra-brief questionnaire to identify depressive symptoms.   
+    desc: Find the optimal ultra-brief questionnaire for identifying individuals with depressive symptoms.  
     website: ../Projects/proactive_darragh/
     url: ../Projects/proactive_darragh/
   - name: Proactive Depression Treatment System
