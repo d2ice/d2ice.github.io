@@ -31,7 +31,7 @@ footer-extra: footerlogo.html
     img: /assets/img/Projects/proact_pepijn.jpg
     desc: Proactive implements a computerised psycho-social intervention that guides carers without formal mental health training to provide an effective depression intervention to elderly inhabitants of Sao Paulo’s favella’s at low cost
     website: ../Projects/proactive_pepijn/
-    url: ../Projects/proactive_pepijn/ 
+    url: ../Projects/proactive_pepijn/ -->
 ---
 {% include list-squares.html items=page.team %}
 
