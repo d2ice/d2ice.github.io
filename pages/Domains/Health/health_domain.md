@@ -66,7 +66,7 @@ The D<sup>2</sup>iCE medical domain spans both physical and mental health. As me
              
                 <!-- Creating a Project -->
                   <div class="list-squares-item">
-                     <a href="../Projects/GNN_medical/"><img src="/assets/img/Projects/GNN_medical.jpg" class="item-img"></a>
+                     <a href="../Projects/GNN_medical/"><img src="/assets/img/Projects/gnn_med.png" class="item-img"></a>
                     <h4>Applying Graph neural networks for medical image analysis</h4>
                      <div class="item-desc">Applying GNN (Graph Neural Networks) method to learn latent features from medical image data, applying representation learning techniques for better classification and segmentation of medical images. Exploration of difference between Deep neural networks learning and Graph neural networks learning, explainablity of GNNs.</div>
                   
