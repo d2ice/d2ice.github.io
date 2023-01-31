@@ -2,6 +2,7 @@
 layout: page
 title: Health & Medical Projects
 full-width: False
+custom_css: colab
 footer-extra: footerlogo.html
 <!-- subtitle:  -->
 
