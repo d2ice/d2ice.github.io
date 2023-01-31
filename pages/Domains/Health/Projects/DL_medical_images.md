@@ -9,7 +9,7 @@ subtitle:
 Supervised deep learning methods require a large amount of labelled data to achieve human-level performance. Getting labels for medical image datasets is an arduous and time-consuming task generally requiring medical expertise. Therefore, our motivation is to design data-efficient deep learning methods which leverage large unlabelled dataset and provides state-of-the-art performance with limited labelled data.  
 
 #### Project Description
-The objective is to bridge the gap between fully supervised methods developed using large, labelled datasets and data-efficient algorithms using unlabelled datasets using different approaches f self-supervised learning.  
+The objective is to bridge the gap between fully supervised methods developed using large, labelled datasets and data-efficient self-supervised learning methods developed using large unlabelled datasets.
 
 #### Team Members 
 
