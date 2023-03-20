@@ -78,6 +78,16 @@ team:
     google-scholar: https://scholar.google.com/citations?user=hH4XfiYAAAAJ&hl=en
     orcid: https://orcid.org/0000-0002-5471-4338
     email: mailto:eoin.grua@ul.ie
+  - name: Dr. Luis Francisco Sigcha
+    img: /assets/img/Headshots/Luis.jpeg
+    desc: Postdoc Researcher
+    url: https://www.linkedin.com/in/luis-francisco-sigcha-ba5825150/
+    website: https://www.ul.ie/research/dr-luis-sigcha
+    github: https://github.com/luisfrancs
+    google-scholar: https://scholar.google.com/citations?user=4YOOxoEAAAAJ&hl=es
+    linkedin: https://www.linkedin.com/in/luis-francisco-sigcha-ba5825150/
+    orcid: https://orcid.org/0000-0002-9968-5024
+    email: mailto:luis.sigcha@ul.ie
   - name: Darragh Glavin
     img: /assets/img/Headshots/Darragh.jpg
     desc: PhD Student
