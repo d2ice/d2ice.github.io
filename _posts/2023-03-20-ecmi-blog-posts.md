@@ -8,6 +8,6 @@ tags: [ECMI, blogs]
 
 Two D²iCE researchers, Sushil Sharma and Kaavya Rekanar, have been featured in the [European Consortium for Mathematics in Industry](https://ecmiindmath.org/) (ECMI) blog. Both are part of the [Science Foundation Ireland Centre for Research Training (CRT) in Foundations of Data Science](https://www.data-science.ie/) and completed their industry placements with [Valeo](https://www.valeo.com/) last summer.
 
-Sushil's blog post, wehere he discusses his project in trajectory prediction for autonomous driving, is available [here](https://ecmiindmath.org/2023/03/13/short-term-trajectory-prediction-for-autonomous-vehicles/).
+Sushil's blog post, where he discusses his project in trajectory prediction for autonomous driving, is available [here](https://ecmiindmath.org/2023/03/13/short-term-trajectory-prediction-for-autonomous-vehicles/).
 
 Kaavya discusses her placement and her project in the blog [here](https://ecmiindmath.org/2023/03/10/meet-our-sfi-centre-for-research-training-in-foundations-of-data-science-phd-students/).
