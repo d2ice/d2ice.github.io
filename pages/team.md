@@ -212,6 +212,14 @@ team:
     linkedin: https://www.linkedin.com/in/menanagiub/
     orcid: https://orcid.org/0000-0001-5375-9510
     email: mailto:mena.nagiub@ul.ie
+  - name: Zahraa Abdulhussein
+    img: /assets/img/Headshots/Zahraa.jpg
+    desc: PhD Student
+    url: https://twitter.com/Zaara_Muh
+    website: https://twitter.com/Zaara_Muh
+    github: https://github.com/zahraa-m
+    linkedin: https://ie.linkedin.com/in/zahraa-abdulhussein
+    email: mailto:zahraa.abdulhussein@ul.ie
 ---
 {% include list-squares.html items=page.team %}
 
