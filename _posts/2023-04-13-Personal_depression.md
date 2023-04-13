@@ -1,7 +1,7 @@
 ---
 layout: post
-title: D2iCE researchers contribute to research and innovation project around use of machine learn-ing for mental health in the €3 million Innovation Fund Denmark Personae projec
-thumbnail-img: /assets/img/Projects/Personal_depression.png
+title: D2iCE researchers contribute to research and innovation project around use of machine learning for mental health in the €3 million Innovation Fund Denmark Personae project
+thumbnail-img: /assets/img/Projects/personal_depression.png
 share-img: /assets/img/path.jpg
 tags: [Mental Health, blogs]
 ---
