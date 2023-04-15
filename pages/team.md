@@ -175,6 +175,7 @@ team:
     url: https://ie.linkedin.com/in/cathaoiragnew
     website: https://ie.linkedin.com/in/cathaoiragnew
     github: https://github.com/cathaoiragnew
+    google-scholar: https://scholar.google.com/citations?hl=en&user=gZgIYMoAAAAJ
     linkedin: https://ie.linkedin.com/in/cathaoiragnew
     orcid: https://orcid.org/0000-0003-1185-2033
     email: mailto:cathaoir.agnew@ul.ie
