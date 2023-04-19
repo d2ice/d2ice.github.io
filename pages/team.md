@@ -11,7 +11,7 @@ team:
     img: /assets/img/Headshots/Pepijn.jpg
     desc: Senior Lecturer
     url: https://www.ul.ie/research/dr-pepijn-van-de-ven
-    website: https://www.linkedin.com/in/pepijn-van-de-ven-165a4b10/
+    website: https://www.ul.ie/hri/person/hri-member/dr-pepijn-van-de-ven
     google-scholar: https://scholar.google.com/citations?user=LEBrfAwAAAAJ
     linkedin: https://www.linkedin.com/in/pepijn-van-de-ven-165a4b10/
     orcid: https://orcid.org/0000-0003-3321-450X
