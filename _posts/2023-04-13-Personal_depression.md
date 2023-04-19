@@ -24,7 +24,7 @@ The primary ambition of the project is to develop an intelligent individualizati
 
 The project is led by Center for Digital Psychiatry, Region of Southern Denmark, which in a Danish and International context, is a frontrunner of Internet-based therapy in relation to both research, development and operation. This project links their research and extensive clinical experience with competences and commercial platform at Monsenso and the unique skills with artificial intelligence at University of Limerick, Ireland.
 
-### Facts:
+### Facts
 Innovation Fund Denmark’s Investment: 16.506.991 mio. kr.  
 Overall budget: 22.133.718 mio. kr.  
 Duration: 4 years  
