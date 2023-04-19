@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Personalised Digital Treatment of Depression
+title: Personae\n(Personalised Digital Treatment of Depression)
 footer-extra: footerlogo.html
 subtitle: 
 ---
