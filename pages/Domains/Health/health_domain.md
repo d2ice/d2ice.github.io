@@ -96,7 +96,7 @@ The D<sup>2</sup>iCE medical domain spans both physical and mental health. As me
          
                <!-- Ceating Project Home button-->
                <div class="item-links">
-                   <a class="item-link" href="../Projects/proactive_pepijn/" title="Website">
+                   <a class="item-link" href="../Projects/proactive/" title="Website">
                      <span class="fa fa-home"></span>
                     </a>
                </div>
