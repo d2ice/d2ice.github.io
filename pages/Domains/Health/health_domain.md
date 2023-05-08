@@ -52,7 +52,7 @@ The D<sup>2</sup>iCE medical domain spans both physical and mental health. As me
           
                 <!-- Creating a Project -->
                   <div class="list-squares-item">
-                     <a href="../Projects/proactive_edurado/"><img src="/assets/img/Projects/proact_edurado.jpg" class="item-img"></a>
+                     <a href="../Projects/Fast_identification_of_depressive_symptomatology/"><img src="/assets/img/Projects/proact_edurado.jpg" class="item-img"></a>
                     <h4>Fast identification of depressive symptomatology using probabilistic machine learning</h4>
                      <div class="item-desc">Depression is an extremely common disorder, yet often not diagnosed. We aim to use Probabilistic Machine Learning to develop optimised approaches to help the specialists to identify these people, giving them the chance to access proper treatment as soon as possible.</div>
                   
