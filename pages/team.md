@@ -113,7 +113,7 @@ team:
     website: https://aryan-at-ul.github.io
     github: https://github.com/aryan-at-ul
     linkedin: https://www.linkedin.com/in/aryan-singh-902115156/
-    orcid: https://orcid.org/my-orcid?orcid=0000-0002-7511-0330
+    orcid: https://orcid.org/orcid=0000-0002-7511-0330
     email: mailto:aryan.singh@ul.ie
   - name: Sushil Kumar Sharma 
     img: /assets/img/Headshots/Sushil.jpg
