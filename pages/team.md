@@ -122,7 +122,7 @@ team:
     website: https://sushilsharma840.wixsite.com/home-sushil-sharma
     github: https://github.com/sharmasushil
     linkedin: https://www.linkedin.com/in/sushilsharmarobotics/
-    orcid: https://orcid.org/my-orcid?orcid=0000-0002-7511-0330
+    orcid: https://orcid.org/orcid=0000-0002-7511-0330
     email: mailto:sushil.sharma@ul.ie
   - name: Kaavya Rekanar 
     img: /assets/img/Headshots/Kaavya_Rekanar.jpg
@@ -142,7 +142,7 @@ team:
     github: https://github.com/sri13
     google-scholar: https://scholar.google.com/citations?hl=en&user=BR9ptiwAAAAJ
     linkedin: https://www.linkedin.com/in/srikanthtiyyagura/
-    orcid: https://orcid.org/my-orcid?orcid=0000-0002-6802-8531
+    orcid: https://orcid.org/orcid=0000-0002-6802-8531
     email: mailto:srikanth.tiyyagura@ul.ie
   - name: Daniel Jakab
     img: /assets/img/Headshots/Daniel.jpg
