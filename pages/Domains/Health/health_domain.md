@@ -89,7 +89,7 @@ The D<sup>2</sup>iCE medical domain spans both physical and mental health. As me
          
                 <!-- Creating a Project -->
                   <div class="list-squares-item">
-                     <a href="../Projects/proactive_pepijn/"><img src="/assets/img/Projects/proact_pepijn.jpg" class="item-img"></a>
+                     <a href="../Projects/proactive/"><img src="/assets/img/Projects/proact_pepijn.jpg" class="item-img"></a>
                     <h4>Proactive Depression Treatment System</h4>
                      <div class="item-desc">Proactive implements a computerised psycho-social intervention that guides carers without formal mental health training to provide an effective depression intervention to elderly inhabitants of Sao Paulo’s favella’s at low cost.</div>
                   
