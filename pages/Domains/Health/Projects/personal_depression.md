@@ -56,7 +56,7 @@ The primary ambition of the project is to develop an intelligent individualizati
    
                  <!-- Creating a Partner -->
                   <div class="list-squares-item">
-                     <a href="https://www.monsenso.com/"><img src="/assets/img/Logos/Monsenso.png" width="150" height ="150"></a>
+                     <a href="https://www.monsenso.com/"><img src="/assets/img/Logos/Monsenso_dark.png" width="150" height ="150"></a>
                      <h4>Monsenso</h4>
                   </div>
                   
