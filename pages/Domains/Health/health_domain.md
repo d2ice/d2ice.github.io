@@ -107,14 +107,14 @@ The D<sup>2</sup>iCE medical domain spans both physical and mental health. As me
          
                          <!-- Creating a Project -->
                   <div class="list-squares-item">
-                     <a href="../Projects/personal_depression/"><img src="/assets/img/Projects/personal_depression.png" class="item-img"></a>
+                     <a href="../Projects/personae/"><img src="/assets/img/Projects/personal_depression.png" class="item-img"></a>
                     <h4>Personae <br> Personalised Digital Treatment of Depression</h4>
                      <div class="item-desc">The primary ambition of the project is to develop an intelligent individualization of treatment content and delivery to match the patients' symptoms and life situation.</div>
                   
          
                <!-- Ceating Project Home button-->
                <div class="item-links">
-                   <a class="item-link" href="../Projects/personal_depression/" title="Website">
+                   <a class="item-link" href="../Projects/personae/" title="Website">
                      <span class="fa fa-home"></span>
                     </a>
                </div>
