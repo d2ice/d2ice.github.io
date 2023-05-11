@@ -46,5 +46,14 @@ team:
   - name: Lero
     img: /assets/img/Logos/lero_logo.png
     url: https://lero.ie/
+  - name: University of Southern Denmark
+    img: /assets/img/Logos/sdu.png
+    url: https://www.sdu.dk/en/forskning/digital_psykiatri
+  - name: Monsenso
+    img: /assets/img/Logos/Monsenso_dark.png
+    url: https://www.monsenso.com/
+  - name: Depressionsforeningen
+    img: /assets/img/Logos/Depressionsforeningen_transparent.jpg
+    url: https://depressionsforeningen.dk/
 ---
 {% include list-squares.html items=page.team %}
