@@ -74,7 +74,7 @@ The primary ambition of the project is to develop an intelligent individualizati
         
                    <!-- Creating a Partner -->
                   <div class="list-squares-item">
-                     <a href="https://depressionsforeningen.dk/"><img src="/assets/img/Logos/Depressionsforeningen.png" width="150" height ="150"></a>
+                     <a href="https://depressionsforeningen.dk/"><img src="/assets/img/Logos/Depressionsforeningen_transparent.png" width="150" height ="150"></a>
                      <h4>Depressionsforeningen</h4>
                   </div>
         
