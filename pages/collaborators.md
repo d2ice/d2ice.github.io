@@ -53,7 +53,7 @@ team:
     img: /assets/img/Logos/Monsenso_dark.png
     url: https://www.monsenso.com/
   - name: Depressionsforeningen
-    img: /assets/img/Logos/Depressionsforeningen_transparent.jpg
+    img: /assets/img/Logos/Depressionsforeningen_transparent.png
     url: https://depressionsforeningen.dk/
 ---
 {% include list-squares.html items=page.team %}
