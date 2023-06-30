@@ -24,3 +24,6 @@ The workshop hosted three challenges to stimulate innovation in omnidirectional 
 
 ![Attendees at OmniCV 2023](/assets/img/blog/2023_omnicv_organisers.jpg)
 _Some of the organisers (Ashwanth Vishwanath, Enrique Solarte, Ciarán Eising, and Li Guan)_
+
+![Best paper award OmniCV 2023](/assets/img/blog/2023_best_paper.jpg)
+_Best paper award for "[Graph-CoVis: GNN-Based Multi-View Panorama Global Pose Estimation](https://openaccess.thecvf.com/content/CVPR2023W/OmniCV/html/Nejatishahidin_Graph-CoVis_GNN-Based_Multi-View_Panorama_Global_Pose_Estimation_CVPRW_2023_paper.html)https://openaccess.thecvf.com/content/CVPR2023W/OmniCV/html/Nejatishahidin_Graph-CoVis_GNN-Based_Multi-View_Panorama_Global_Pose_Estimation_CVPRW_2023_paper.html", accepted by Will Hutchcroft_
