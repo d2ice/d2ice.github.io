@@ -26,7 +26,7 @@ The workshop hosted three challenges to stimulate innovation in omnidirectional 
 3.	Omnidirectional Drone Challenge: In collaboration with Spleenlab, the workshop organized a challenge centred around odometry and multi-sensor data analysis using drone data. Participants were provided with omnidirectional video footage captured by fisheye lenses, along with LiDAR and RTK GPS data. The challenge emphasized odometry and SLAM using omnidirectional input 360° in off-road scenarios.
 
 ![Attendees at OmniCV 2023](/assets/img/blog/2023_omnicv_organisers.jpg)
-_Some of the organisers (Ashwanth Vishwanath, Enrique Solarte, Ciarán Eising, and Li Guan)_
+_Some of the organisers (Ashwanth Vishwanath, Enrique Solarte, Ciarán Eising, and Li Guan). The beautiful T-shirts were kindly donated by the workshop sponsor [Lero](https://lero.ie/)_
 
-![Best paper award OmniCV 2023](/assets/img/blog/2023_best_paper.jpg)
-_Best paper award for "[Graph-CoVis: GNN-Based Multi-View Panorama Global Pose Estimation](https://openaccess.thecvf.com/content/CVPR2023W/OmniCV/html/Nejatishahidin_Graph-CoVis_GNN-Based_Multi-View_Panorama_Global_Pose_Estimation_CVPRW_2023_paper.html)https://openaccess.thecvf.com/content/CVPR2023W/OmniCV/html/Nejatishahidin_Graph-CoVis_GNN-Based_Multi-View_Panorama_Global_Pose_Estimation_CVPRW_2023_paper.html", accepted by Will Hutchcroft_
+![Best paper award OmniCV 2023](/assets/img/blog/2023_omnicv_best_paper.jpg)
+_Best paper award for "[Graph-CoVis: GNN-Based Multi-View Panorama Global Pose Estimation](https://openaccess.thecvf.com/content/CVPR2023W/OmniCV/html/Nejatishahidin_Graph-CoVis_GNN-Based_Multi-View_Panorama_Global_Pose_Estimation_CVPRW_2023_paper.html)https://openaccess.thecvf.com/content/CVPR2023W/OmniCV/html/Nejatishahidin_Graph-CoVis_GNN-Based_Multi-View_Panorama_Global_Pose_Estimation_CVPRW_2023_paper.html", accepted by [Will Hutchcroft](https://www.linkedin.com/in/willhutchcroft/) (presented to Will by Shubhankar Borse, from the best paper award sponsors Qualcomm)_
