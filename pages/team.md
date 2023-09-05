@@ -221,6 +221,12 @@ team:
     github: https://github.com/zahraa-m
     linkedin: https://ie.linkedin.com/in/zahraa-abdulhussein
     email: mailto:zahraa.abdulhussein@ul.ie
+  - name: John Ringrose
+    img: /assets/img/Headshots/johnr.jpg
+    desc: PhD Student
+    url: https://www.linkedin.com/in/john-ringrose007/
+    linkedin: https://www.linkedin.com/in/john-ringrose007/
+    email: mailto:ringrose.john@ul.ie
   - name: Ken Power
     img: /assets/img/Headshots/ken.jpg
     desc: PDEng Student
