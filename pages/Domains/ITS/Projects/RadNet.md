@@ -48,6 +48,12 @@ Lidar and Camera, the most used sensors in the car have limitations in adverse w
                      <a href="../../../../team/"><img src="/assets/img/Headshots/Tony.jpg" class="item-img"></a>
                      <h4>Dr. Tony Scanlan</h4>
                   </div> 
+
+               <!-- Creating a Team Member -->
+                  <div class="list-squares-item">
+                     <a href="../../../../team/"><img src="/assets/img/Headshots/johnr.jpg" class="item-img"></a>
+                     <h4>John Ringrose</h4>
+                  </div> 
              
              
                <!-- Creating a Team Member -->
