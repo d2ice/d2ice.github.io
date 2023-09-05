@@ -221,6 +221,29 @@ team:
     github: https://github.com/zahraa-m
     linkedin: https://ie.linkedin.com/in/zahraa-abdulhussein
     email: mailto:zahraa.abdulhussein@ul.ie
+  - name: Ken Power
+    img: /assets/img/Headshots/ken.jpg
+    desc: PDEng Student
+    url: https://www.researchgate.net/profile/Ken-Power
+    orcid: https://orcid.org/0000-0002-3782-9539
+    linkedin: https://www.linkedin.com/in/kenpower/
+    email: mailto:power.ken@ul.ie
+    google-scholar: https://scholar.google.com/citations?hl=en&user=iOmkQ8gAAAAJ&view_op=list_works&sortby=pubdate
+  - name: Sanjay Kumar
+    img: /assets/img/Headshots/sanjay.jpg
+    desc: PhD Student
+    linkedin: https://www.linkedin.com/in/sanjay-kumar-583564138/
+    email: mailto:kumar.sanjay@ul.ie
+  - name: Anam Manzoor
+    img: /assets/img/Headshots/anam.jpg
+    desc: PhD Student
+    linkedin: https://www.linkedin.com/in/anam-manzoor-a5691811a/
+    email: mailto:manzoor.anam@ul.ie
+  - name: Niharika Bhardwaj
+    img: /assets/img/Headshots/niharika.jpg
+    desc: PhD Student
+    linkedin: https://www.linkedin.com/in/niharika-bhardwaj/
+    email: mailto:bhardwaj.niharika@ul.ie
 ---
 {% include list-squares.html items=page.team %}
 
