@@ -9,7 +9,7 @@ footer-extra: footerlogo.html
 team:
   - name: Dr. Pepijn van de Ven (Director)
     img: /assets/img/Headshots/Pepijn.jpg
-    desc: Senior Lecturer
+    desc: Professor
     url: https://www.ul.ie/research/dr-pepijn-van-de-ven
     website: https://www.ul.ie/research/dr-pepijn-van-de-ven
     google-scholar: https://scholar.google.com/citations?user=LEBrfAwAAAAJ
@@ -18,14 +18,14 @@ team:
     email: mailto:pepijn.vandeven@ul.ie
   - name: Prof. John Nelson
     img: /assets/img/Headshots/John_Nelson.jpg
-    desc: Associate Professor
+    desc: Professor
     url: https://www.ul.ie/scieng/prof-john-nelson
     website: https://www.ul.ie/scieng/prof-john-nelson
     google-scholar: https://scholar.google.com/citations?user=cvswMSMAAAAJ&hl=en
     email: mailto:john.nelson@ul.ie 
   - name: Dr. Arash Joorabchi
     img: /assets/img/Headshots/Arash.jpg
-    desc: Lecturer
+    desc: Associate Professor
     url: https://ajoorabchi.github.io/PersonalWebsite/
     website: https://ajoorabchi.github.io/PersonalWebsite/
     github: https://github.com/ajoorabchi
@@ -35,7 +35,7 @@ team:
     email: mailto:arash.joorabchi@ul.ie  
   - name: Dr. Patrick Denny
     img: /assets/img/Headshots/Patrick.jpg
-    desc: Lecturer
+    desc: Associate Professor
     url: https://www.linkedin.com/in/patrickdenny/
     website: https://www.linkedin.com/in/patrickdenny/
     github: https://github.com/draziraphale
@@ -45,7 +45,7 @@ team:
     email: mailto:patrick.denny@ul.ie
   - name: Dr. Ciarán Eising
     img: /assets/img/Headshots/Ciaran.jpg
-    desc: Lecturer
+    desc: Associate Professor
     url: https://www.linkedin.com/in/ciaraneising/
     website: https://www.linkedin.com/in/ciaraneising/
     google-scholar: https://scholar.google.com/citations?user=aH6w8VcAAAAJ&hl=en
@@ -54,7 +54,7 @@ team:
     email: mailto:ciaran.eising@ul.ie
   - name: Dr. Mark Halton
     img: /assets/img/Headshots/Mark.jpg
-    desc: Lecturer
+    desc: Associate Professor
     url: https://www.linkedin.com/in/markkhalton/
     website: https://www.linkedin.com/in/markkhalton/
     google-scholar: https://scholar.google.com/citations?user=QnJuRnEAAAAJ&hl=en
