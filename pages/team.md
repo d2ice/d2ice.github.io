@@ -232,16 +232,19 @@ team:
   - name: Sanjay Kumar
     img: /assets/img/Headshots/sanjay.jpg
     desc: PhD Student
+    url: https://www.linkedin.com/in/sanjay-kumar-583564138/
     linkedin: https://www.linkedin.com/in/sanjay-kumar-583564138/
     email: mailto:kumar.sanjay@ul.ie
   - name: Anam Manzoor
     img: /assets/img/Headshots/anam.jpg
     desc: PhD Student
+    url: https://www.linkedin.com/in/anam-manzoor-a5691811a/
     linkedin: https://www.linkedin.com/in/anam-manzoor-a5691811a/
     email: mailto:manzoor.anam@ul.ie
   - name: Niharika Bhardwaj
     img: /assets/img/Headshots/niharika.jpg
     desc: PhD Student
+    url: https://www.linkedin.com/in/niharika-bhardwaj/
     linkedin: https://www.linkedin.com/in/niharika-bhardwaj/
     email: mailto:bhardwaj.niharika@ul.ie
 ---
