@@ -7,7 +7,7 @@ footer-extra: footerlogo.html
 <!-- subtitle:  -->
 
 team:
-  - name: Dr. Pepijn van de Ven (Director)
+  - name: Prof. Pepijn van de Ven (Director)
     img: /assets/img/Headshots/Pepijn.jpg
     desc: Professor
     url: https://www.ul.ie/research/dr-pepijn-van-de-ven
